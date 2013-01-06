@@ -8,6 +8,8 @@ February 15, 2013
 
 Does music move? 
 
+(Reverse the following two "yeses".)
+
 Well, yes---if by "move", we meant the way that we
 can indeed be *moved* by music: from table-taps to
 tangos to tears.
