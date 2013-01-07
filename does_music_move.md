@@ -8,15 +8,13 @@ February 15, 2013
 
 Does music move? 
 
-(Reverse the following two "yeses".)
-
-Well, yes---if by "move", we meant the way that we
-can indeed be *moved* by music: from table-taps to
-tangos to tears.
-
-Or yes again---if by "music", we meant the
+Well, yes---if by "music", we meant the
 vibrations of sound that allow us to hear what a
 musician plays: from instrument to air to ear.
+
+Or yes again---if by "move", we meant the way that we
+can indeed be *moved* by music: from table-taps to
+tangos to tears.
 
 But the question becomes less easy to answer,
 if we ask it of music and movement in a more
@@ -36,7 +34,7 @@ for lovers of music, among the most meaningful
 such motions in their lives.
 
 But there may be less reason to accept this
-conclusion than to deny it; and cause to wonder, then,
+conclusion than to deny it; and to wonder, then,
 how meaningful music finally is. For the meaning
 of music in this sense, upon reflection, would
 seem to depend on the illusion of movement rather
@@ -89,45 +87,43 @@ picture-painting.
 But we could also leave any comparison to motion
 pictures aside, and simply contrast the most
 salient features in our experience of motion
-otherwise with their absence in our experience
-of music. (Use rising and falling of a bird
-instead.) For in seeing my friend walking towards
-me, for example, I can identify the thing moving
-as my friend, and other things nearby---such
-as the sidewalk he is walking on---as unmoving
-relative to my friend; while supposing that
-his movement towards me is a matter not simply
-of being in different spots on the sidewalk at
-different times, but of being carried from spot
-to spot---continuously---by his walking. Yet in
-hearing a melody rise and fall, none of these
-features are straightforwardly apparent. I just
-identified the thing moving as the melody; but
-what I more strictly hear, if it could be called
-a motion at all, is a motion from one note of
-the melody to the next. What we are calling the
-"melody", then, is no already-formed object, like
-my walking friend, that similarly rises and falls.
-Nor do we hear any unmoving such object nearby the
-melody, like the sidewalk I can see beneath my
-friend, relative to which the melody could be said
-to move. We might try to identify such an object
-in each note of the melody, perhaps by analogy to
-each spot on the sidewalk; but then we are left
-with nothing to identify in the melody itself that
-rises and falls, and what exactly is *moving*
-in the melody, over each unmoving note in turn,
-becomes even harder to say. And in this case we
-also confront a final (mention continuity problem;
-then space problem, insofar as analysis treats the notes
-as places in space).
+otherwise, with their seeming absence in our
+experience of music. Suppose I see a bird
+in flight, rising and falling in the sky. I can
+identify the thing moving as the bird, and other
+things---such as the mountain behind it, or the
+ground beneath it, or even the clouds nearby
+it---as unmoving relative to the bird. I can also
+suppose that the bird's movement is a matter not
+simply of being in different spots of the sky at
+different times, but of being carried from spot to
+spot---continuously---by his flying.
 
+Yet if I now hear a melody rise and fall, none of these
+features of motion are straightforwardly apparent. I just
+identified the thing moving as the melody; but what I more
+strictly hear, if a motion in any sense, is a motion from
+one note of the melody to the next. What I called the
+"melody", then, is no already-formed object, like the flying
+bird, that similarly rises and falls. Nor is there any
+unmoving such object to be heard near the melody, like the
+mountain, ground, or clouds to be seen near the bird,
+relative to which the melody could be said to move. We might
+try to identify such an object in each note of the melody,
+perhaps by analogy to each spot in the sky; but then we are
+left with nothing to identify in the melody itself that
+rises and falls. And what exactly is *moving* in the melody,
+over each unmoving note in turn, becomes even harder to say.
+In this case we also confront the difference between the
+bird's being carried from spot to spot in the sky
+continuously, and the melody's being carried from note to
+note discretely, without having to travel audibly through
+every note between. 
 
-kseem like a continuously varying sound, cause a
-draw the following contrast with motion pictures.
-For the series, since film photographs a motion
-and the score (or recording) isn't photograph
-the musicians moving. (They stay still.) (Maybe
-mention lack of rapidity.) We can reach this same
-conclusion about music even leaving the analogy to
-motion pictures aside, by considering .
+And even this much analysis of the
+difference between our sense of motion generally and our
+sense of motion in music depends on taking the notes of
+music not simply as sounds, occupying particular moments of
+time, but also as tones, occupying particular places in
+space---in this case, the places in space that allow us to
+say that the melody rises and falls. But  
