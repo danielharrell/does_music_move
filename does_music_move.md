@@ -16,22 +16,32 @@ Or yes again---if by "move", we meant the way that we
 can indeed be *moved* by music: from table-taps to
 tangos to tears.
 
-But the question becomes harder to answer,
-if we ask it of music and movement in a more
-elementary sense. ---The sense in which we might
-say, of a rhythm, that it quickens or slows; of
-a melody, that it rises and falls; of a harmony,
+But the question becomes harder to answer, if we
+ask it of music and movement in a more elementary
+sense. ---The sense in which we might say, of
+a rhythm, that it quickens and slows; or of a
+melody, that it rises and falls; or of a harmony,
 that it departs and returns. And suppose we say
 all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement." For we talk as if we hear just that
-in the music---movement---and as if any piece
-of music indeed moves itself in moving us. And
-how could it be otherwise? After all, if time is
-a measure or even medium of motion, and music
-happens in time, then music is a motion; and
-for lovers of music, among the most meaningful
-such motions in their lives.
+in the music---movement---and as if any piece of
+music indeed moves itself in moving us. And how
+could it be otherwise? After all, if the measure
+of motion is time, and music happens in time, then
+music, it would seem, is a motion; and for lovers
+of music, among the most meaningful such motions
+in their lives.
+
+(Make new paragraph here: about how music also
+happens in space as a movement; music is not simply
+change. Perhaps use motion picture paragraph to
+indicate difference in the illusoriness of music and
+illusoriness of motion pictures. Organize replies
+to evident illusoriness of motion in terms of motion
+being an illusion, being an appearance, and being a
+reality, in rough correspondence to the distinction
+made in Plato's Sophist.)
 
 But there may be less reason to accept this
 conclusion than to deny it; and to wonder, then,
