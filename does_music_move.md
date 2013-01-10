@@ -29,37 +29,45 @@ in the music---movement---and as if any piece of
 music indeed moves itself in moving us. And how
 could it be otherwise? After all, if music happens in time,
 and time is a measure of motion, then
-music, it would seem, is a motion; and for lovers
+music, it would seem, is a motion in turn; and for lovers
 of music, among the most meaningful such motions
 in their lives.
 
 But then again, time may not be the only measure
 of motion, at least if by "motion", we mean
-*locomotion*, involving not just change in time, but
-change in place. Of motion in this sense, where
-time is certainly one measure, space would seem to
-be another. ---The space that measures the rise and
-fall of a bird in flight, for example. Or again,
-the rise and fall of a melody. More generally,
-the motion we hear in music, at least of any
-music that involves not just beats but tones, not
-just rhythm but melody and harmony, seems to be
-a kind of locomotion, a motion in space, where
-we indeed hear rising and falling, departing and
-returning, very like the motion we might see of a
-bird in flight. Yet to say we *hear* this motion
-in the case of music is one reason
-to doubt that the motion of music is happening in
-any actual space; and thus one reason to doubt
-that the motion we hear in music is real. For in what kind
-of actual space could there be a motion, like the rise and
-fall of a melody, that we can hear but never see? 
+*locomotion*, involving not just change in time,
+but change in place. Of motion in this sense, one
+measure is time, but another would seem to be
+space. ---The space, for example, that measures
+the rise and fall of a bird in flight. Or again,
+the rise and fall of a melody. Or more generally,
+the motion we hear in music, at least of any music
+that involves not just beats but tones, not just
+rhythm but melody and harmony. For the motion we
+hear in music that includes all three elements
+would seem---necessarily--- a kind of locomotion,
+happening over time in a kind of space, where we
+indeed hear a rising and falling, departing and
+returning, from place to place, very like the
+motion we might see of a bird in flight. (Start
+from here.) Yet to say we *hear* this motion in
+the case of music is one reason to doubt that it
+is happening in any *actual* space; and thus one
+reason to doubt that the motion we hear in music
+is real. For in what kind of actual space could
+there be a motion, like the rise and fall of a
+melody, that we can hear, but never see? Where the
+distance made apparent in sight, and the space so
+revealed by sight, are no intrinsic part of the
+perception of motion in question?
 
-But there are several more reasons for doubt. Another
+And there are several related reasons for doubting that the
+motion we hear in music is real.  Another
 reason for doubt is that there seems to be nothing
 we can identify in such a motion, for all its
 resemblance to the flight of a bird, like the bird
-itself.
+itself. (Use this at end, nothing like bird, or other
+things, or transition, thus nothing like space.)
 
 in which a bird, for
 example, And we seem to invoke a sense of space
@@ -80,7 +88,8 @@ illusoriness of motion pictures. Organize replies
 to evident illusoriness of motion in terms of
 motion being an illusion, being an appearance, and
 being a reality, in rough correspondence to the
-distinction made in Plato's Sophist.)
+distinction made in Plato's Sophist. Also mention
+music as a kind of liberal art.)
 
 But there may be less reason to accept this
 conclusion than to deny it; and to wonder, then,
