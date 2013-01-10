@@ -27,21 +27,60 @@ not thinking twice about calling what we hear a
 "movement." For we talk as if we hear just that
 in the music---movement---and as if any piece of
 music indeed moves itself in moving us. And how
-could it be otherwise? After all, if the measure
-of motion is time, and music happens in time, then
+could it be otherwise? After all, if music happens in time,
+and time is a measure of motion, then
 music, it would seem, is a motion; and for lovers
 of music, among the most meaningful such motions
 in their lives.
 
-(Make new paragraph here: about how music also
-happens in space as a movement; music is not simply
-change. Perhaps use motion picture paragraph to
-indicate difference in the illusoriness of music and
+But then again, time may not be the only measure
+of motion, at least if by "motion", we mean
+*locomotion*, involving not just change in time, but
+change in place. Of motion in this sense, where
+time is certainly one measure, space would seem to
+be another. ---The space that measures the rise and
+fall of a bird in flight, for example. Or again,
+the rise and fall of a melody. More generally,
+the motion we hear in music, at least of any
+music that involves not just beats but tones, not
+just rhythm but melody and harmony, seems to be
+a kind of locomotion, a motion in space, where
+we indeed hear rising and falling, departing and
+returning, very like the motion we might see of a
+bird in flight. Yet to say we *hear* this motion
+in the case of music is one reason
+to doubt that the motion of music is happening in
+any actual space; and thus one reason to doubt
+that the motion we hear in music is real. For in what kind
+of actual space could there be a motion, like the rise and
+fall of a melody, that we can hear but never see? 
+
+But there are several more reasons for doubt. Another
+reason for doubt is that there seems to be nothing
+we can identify in such a motion, for all its
+resemblance to the flight of a bird, like the bird
+itself.
+
+in which a bird, for
+example, And we seem to invoke a sense of space
+in talking about the motion, for example, of the
+rising and falling of a melody.
+
+Transition paragraph: mention that Zuckerkandl
+discusses this in Sound and Symbol even if not
+in Sense of Music, and it strikes me as an
+important issue, perhaps the most significant
+issue, in understanding music, and its place in
+the liberal arts. Slavery and free. (Make new
+paragraph here: about how music also happens in
+space as a movement; music is not simply change.
+Perhaps use motion picture paragraph to indicate
+difference in the illusoriness of music and
 illusoriness of motion pictures. Organize replies
-to evident illusoriness of motion in terms of motion
-being an illusion, being an appearance, and being a
-reality, in rough correspondence to the distinction
-made in Plato's Sophist.)
+to evident illusoriness of motion in terms of
+motion being an illusion, being an appearance, and
+being a reality, in rough correspondence to the
+distinction made in Plato's Sophist.)
 
 But there may be less reason to accept this
 conclusion than to deny it; and to wonder, then,
