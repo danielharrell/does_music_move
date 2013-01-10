@@ -50,16 +50,17 @@ happening over time in a kind of space, where we
 indeed hear a rising and falling, departing and
 returning, from place to place, very like the
 motion we might see of a bird in flight. (Start
-from here.) Yet to say we *hear* this motion in
-the case of music is one reason to doubt that it
-is happening in any *actual* space; and thus one
-reason to doubt that the motion we hear in music
-is real. For in what kind of actual space could
-there be a motion, like the rise and fall of a
-melody, that we can hear, but never see? Where the
-distance made apparent in sight, and the space so
-revealed by sight, are no intrinsic part of the
-perception of motion in question?
+from here. Maybe delete rest of this paragraph)
+Yet to say we *hear* this motion in the case of
+music is one reason to doubt that it is happening
+in any *actual* space; and thus one reason to
+doubt that the motion we hear in music is real.
+For in what kind of actual space could there be a
+motion, like the rise and fall of a melody, that
+we can hear, but never see? Where the distance
+made apparent in sight, and the space so revealed
+by sight, are no intrinsic part of the perception
+of motion in question?
 
 And there are several related reasons for doubting that the
 motion we hear in music is real.  Another
