@@ -92,6 +92,16 @@ being a reality, in rough correspondence to the
 distinction made in Plato's Sophist. Also mention
 music as a kind of liberal art.)
 
+(Rough organization: music as illusion, but problem
+with difference between illusion and appearance, such
+as difference between movies and paintings. Thus music
+as appearance, but problem with unexamined assumptions
+about motion. Music as reality.)
+
+(End with showing, how through compound ratio, time
+is not simply one-dimensional, or even an added
+dimension.)
+
 But there may be less reason to accept this
 conclusion than to deny it; and to wonder, then,
 how meaningful music finally is. For the meaning
