@@ -27,30 +27,66 @@ not thinking twice about calling what we hear a
 "movement." For we talk as if we hear just that
 in the music---movement---and as if any piece of
 music indeed moves itself in moving us. And how
-could it be otherwise? After all, if music happens in time,
-and time is a measure of motion, then
-music, it would seem, is a motion in turn; and for lovers
-of music, among the most meaningful such motions
-in their lives.
+could it be otherwise? After all, if music happens
+in time, and time is a measure of motion, then
+music, it would seem, is a motion in turn; and for
+lovers of music, among the most meaningful such
+motions in their lives.
 
 But then again, time may not be the only measure
 of motion, at least if by "motion", we mean
 *locomotion*, involving not just change in time,
 but change in place. Of motion in this sense, one
-measure is time, but another would seem to be
-space. ---The space, for example, that measures
-the rise and fall of a bird in flight. Or again,
-the rise and fall of a melody. Or more generally,
-the motion we hear in music, at least of any music
-that involves not just beats but tones, not just
-rhythm but melody and harmony. For the motion we
-hear in music that includes all three elements
-would seem---necessarily--- a kind of locomotion,
-happening over time in a kind of space, where we
-indeed hear a rising and falling, departing and
-returning, from place to place, very like the
-motion we might see of a bird in flight. (Start
-from here. Maybe delete rest of this paragraph)
+measure is time, but another is space. ---The
+space, for example, in which a bird can rise and
+fall in flight. Or the space, by analogy, in which
+a melody can rise and fall, and more generally in
+which music can indeed move, from place to place,
+over time in a kind of space, rising and falling,
+departing and returning, very like the movement of
+a bird in flight. 
+
+Yet for all its resemblance to this flight,
+the motion we hear in music is different,
+and different in lacking certain features of
+locomotion otherwise. In the rise and fall of
+a melody, for example, what I hear is a motion
+from one note of the melody to the next. But
+the melody, then, is no already-formed object,
+like the flying bird, that similarly rises and
+falls. Nor is there any unmoving such object to
+be heard near the melody, like the mountain,
+ground, or clouds to be seen near the bird,
+relative to which the melody could be said to
+move. We might try to identify such an object
+in each note of the melody, perhaps by analogy
+to each spot in the sky; but then it seems we
+are left with nothing to identify as rising or
+falling in the melody itself. And what exactly
+is *moving* in the melody, through each unmoving
+note in turn, becomes even harder to say. In this
+case we also confront the difference between the
+bird's being carried from spot to spot in the sky,
+continuously, and the melody's being carried from
+note to note discretely, without having to travel
+audibly through every note between. But then it
+becomes hard even to say how there is indeed a
+*moving* through each note in turn, much less what
+it *is* that might be moving. And it is easier,
+in fact, to suppose that the reason we can hear
+a melody rise and fall, or music more generally
+move from place to place, without having to be
+an already-formed object moving relative to any
+unmoving such objects and through every place is
+because the space of this motion is illusory, and
+the motion in turn unreal.
+
+(Put Zuckerkandl quote here. All but tones, thus, no
+space in which motion can occur.) 
+
+itself. (Use this at end, nothing like bird, or other
+things, or transition, thus nothing like space.)
+
 Yet to say we *hear* this motion in the case of
 music is one reason to doubt that it is happening
 in any *actual* space; and thus one reason to
@@ -61,14 +97,6 @@ we can hear, but never see? Where the distance
 made apparent in sight, and the space so revealed
 by sight, are no intrinsic part of the perception
 of motion in question?
-
-And there are several related reasons for doubting that the
-motion we hear in music is real.  Another
-reason for doubt is that there seems to be nothing
-we can identify in such a motion, for all its
-resemblance to the flight of a bird, like the bird
-itself. (Use this at end, nothing like bird, or other
-things, or transition, thus nothing like space.)
 
 in which a bird, for
 example, And we seem to invoke a sense of space
@@ -152,47 +180,6 @@ only, or at least principally, to one another
 in that succession, rather than to any scene
 beyond, lest the music vanish again, in a kind of
 picture-painting.
-
-But we could also leave any comparison to motion
-pictures aside, and simply contrast the most
-salient features in our experience of motion
-otherwise, with their seeming absence in our
-experience of music. Suppose I see a bird in
-flight, rising and falling in the sky. I can
-identify the thing moving as the bird, and other
-things---such as the mountain behind it, or the
-ground beneath it, or even the clouds nearby
-it---as unmoving relative to the bird. I can also
-suppose that the bird's movement is a matter not
-simply of being in different spots of the sky at
-different times, but of being carried from spot
-to spot---continuously---by its flying. Yet if I
-now hear a melody rise and fall, none of these
-features of motion are straightforwardly apparent.
-I just identified the thing moving as the melody;
-but what I more strictly hear, if a motion in any
-sense, is a motion from one note of the melody to
-the next. What I called the "melody", then, is
-no already-formed object, like the flying bird,
-that similarly rises and falls. Nor is there any
-unmoving such object to be heard near the melody,
-like the mountain, ground, or clouds to be seen
-near the bird, relative to which the melody could
-be said to move. We might try to identify such
-an object in each note of the melody, perhaps by
-analogy to each spot in the sky; but then it seems
-we are left with nothing to identify as rising or
-falling in the melody itself. And what exactly
-is *moving* in the melody, through each unmoving
-note in turn, becomes even harder to say. In this
-case we also confront the difference between the
-bird's being carried from spot to spot in the
-sky continuously, and the melody's being carried
-from note to note discretely, without having to
-travel audibly through every note between.  But it then becomes
-hard even to say how there is indeed a moving through
-each note in turn, much less what it is that might be
-moving. (Put Zuckerkandl quote here.) 
 
 And even this much analysis of the
 difference between our sense of motion generally and our
