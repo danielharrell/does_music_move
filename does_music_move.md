@@ -48,30 +48,26 @@ a bird in flight.
 
 Yet for all its resemblance to this flight,
 the motion we hear in music is different, and
-paradoxical. In the rise and fall of a melody,
-for example, what I hear is a motion from one
-note of the melody to the next, as if from one
-place to the next. But then there would seem
-to be nothing in the melody itself that moves, like the
-bird that  since
-each of its notes is a place through which it moves.what exactly
-is flfoving* in the melody, through each unmoving
-note in turn, that corresponds to the bird
-in its flight? And for that matter, in what sense is there indeed a *moving*
-through each note in turn, that corresponds to the bird's
-flight through each place in turn? For we call the bird's flight a
-motion, presumably, because it is carried from place to
-place by its flight continuously, we see its continuity: the bird
-is not only found in
-different places at different times, but 
-visibly *carried* there by
-its flight, through every place between. But the melody, by
-contrast, is carried from
-note to note discretely, without having to travel
-audibly through every note between. But then it
-becomes hard even to say how there is a *moving*
-through each note in turn, much less what it *is*
-that might be moving. We can trace the rise and
+paradoxical. In the rise and fall of a melody, for
+example, what I hear is a motion from one note of
+the melody to the next, as if from one place to
+the next. But then what exactly is *moving* in
+the melody itself, through each of its unmoving
+notes in turn, that corresponds to the bird in
+its flight? And this flight is continuous in
+being motion: the bird is not simply found in
+different places at different times; it is also
+seen to move continuously from place to place,
+through every place between. But the melody, by
+contrast, is carried from note to note discretely,
+without having to travel audibly through every
+note between. But then it becomes hard even to
+say how there is a *moving* through each note
+in turn, much less what it *is* that might be
+moving. And for that matter, in what sense is
+there indeed a *moving* through each note in turn,
+that corresponds to the bird's flight through
+each place in turn? We can trace the rise and
 fall of a melody with our hand---as if to conduct
 it---yet there is nothing that corresponds to our
 hand in the melody we hear, or more generally, to
