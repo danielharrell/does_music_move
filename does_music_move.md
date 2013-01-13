@@ -26,36 +26,77 @@ all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement." For we talk as if we hear just that
 in the music---movement---and as if any piece of
-music indeed moves itself in moving us. And how
-could it be otherwise? After all, if music happens
-in time, and time is a measure of motion, then
-music, it would seem, is a motion in turn; and for
-lovers of music, among the most meaningful such
-motions in their lives.
+music indeed moves itself in moving us. 
 
-But then again, time may not be the only measure
+There is, however, a problem with this sort of talk.
+And I would like to begin my lecture by outlining 
+this problem, before going on to say why I find the
+problem important, even for those of us with 
+little interest in music otherwise. 
+
+On the one hand, when we hear music move, we hear
+it move not just in time but in space, as a form
+of *locomotion*, or motion from place to place.
+And it is this change in place that distinguishes
+music from mere sounds, which change only in time.
+When hearing a police siren, for example, we
+hear a change of pitch and volume over time, but
+nothing changing its place in the sound like the
+police car producing that sound, as it gets closer
+and further away. But this is precisely what we
+hear in music---for example, in hearing a (melody) symphony being
+carried to a culminating crescendo and then falling back
+in retreat. In this case we hear a change of pitch and volume over
+time that involves and even reflects a 
+change in place. , as the symphony, say, is carried
+to a crescendo, say, that reflects a seeming
+change of place,when hearing a change of pitch
+and volume ; instead, we simply hear a change of
+the siren's pitch and volume over time. can hear
+a change in pitch and volume, as the police car
+gets closer and further away, but we don't hear;
+but what we don't hear in the siren is any changes
+its pitch and volume but we don't hear the siren
+change its placea siren, for example, to hear
+something that has a beginning and end in time, it
+is this that distinguishes music from mere sound.
+which makes music different from mere sound. .
+Generally speaking, sounds have beginnings and
+ends in time, without any interest in music. And
+how could it be otherwise? After all, if music
+happens in time, and time is a measure of motion,
+then music, it would seem, is a motion in turn;
+and for lovers of music, among the most meaningful
+such motions in their lives.
+
+But then again, time is not the only measure
 of motion, at least if by "motion", we mean
-*locomotion*, involving not just change in time,
-but change in place. Of motion in this sense, one
-measure is time, but another is space. ---The
-space, for example, in which a bird rises and
-falls in flight. Or the space, by analogy, in which
-a melody rises and falls, and more generally, in
-which music indeed moves, from place to place,
-in a kind of space, rising and falling,
-departing and returning, very like the movement of
-a bird in flight. 
+*locomotion*, or a motion from place to place. Of
+motion in this sense, one measure is time, but
+another is space. ---The space, for example, in
+which a bird rises and falls in flight. Or the
+space, by seeming resemblance, in which a melody
+rises and falls; and more generally, in which
+music---at least of any kind that involves not just
+beats but tones, not just rhythm but melody and
+harmony---indeed moves, from place to place, rising
+and falling, departing and returning, very like
+the motion of a bird in flight.
 
-Yet for all its resemblance to this flight,
-the motion we hear in music is different, and
-paradoxical. In the rise and fall of a melody, for
-example, what I hear is a motion from one note of
-the melody to the next, as if from one place to
-the next. But then what exactly is *moving* in
-the melody itself, through each of its unmoving
-notes in turn, that corresponds to the bird in
-its flight? And this flight is continuous in
-being motion: the bird is not simply found in
+Yet for all its resemblance to this flight, the
+motion we hear in music is different.  And the
+difference suggests something illusory
+about the space of this motion, and thus about
+the motion itself. 
+In the rise and fall of a melody, for example,
+what I hear is a motion from one note of the
+melody to the next, as if from one place to the
+next. is is then hard to say what exactly is
+*moving* in the melody itself, through each of its
+unmoving notes in turn. There is nothing to be
+heard , is hard to say. that corresponds to the
+bird in its flight? And this flight is continuous
+in being motion: the bird is not simply found in
 different places at different times; it is also
 seen to move continuously from place to place,
 through every place between. But the melody, by
@@ -76,9 +117,10 @@ dancer in the music she dances to. (Arguably to
 fill in what isn't there. Because it moves us, it
 doesn't move itself.)
 
-It becomes so hard to say, in fact, that the reality
-of this motion is more readily denied has been more often denied than asserted
-in the history of musical aesthetics. And it is easier,
+It becomes so hard to say, in fact, that the
+reality of this motion is more readily denied
+has been more often denied than asserted in the
+history of musical aesthetics. And it is easier,
 in fact, to suppose that the reason we can hear
 a melody rise and fall, or music more generally
 move from place to place, without having to be
