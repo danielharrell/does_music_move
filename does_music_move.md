@@ -38,40 +38,56 @@ On the one hand, when we hear music move---at least of any
 kind that includes not just rhythm, but melody and
 harmony---we hear this movement as a change in place. And
 this change in place distinguishes music from mere sound,
-which changes only in time. In the rise and fall of a
-melody, for example, we hear a change in pitch, say from C
-to G and back to C, behind which, as if having caused it, we
-sense a change in place, say from the first degree of the
-scale up to the fifth and back down to the first, or if you
-prefer, from the 1 tone to the 5 tone and back.  But we
-sense no such change in place behind the change in pitch of
-a police siren, and nothing in the finite topography of scale
-degrees or dynamic qualities directly applicable to it,
-since the siren's change in pitch is continuous rather than
-discrete. But then we hear the rise and fall of a siren as a
-sound, changing its pitch in time; while we hear the rise and fall of
-a melody as music, changing its place in space.
+which changes in time. To illustrate the difference,
+consider a melody as the example of music, and a police
+siren as the example of sound, where both rise and fall.
+But when the melody rises and falls, we hear a change not
+just in pitch, say from C to G and back to C, but behind
+this, as if having caused it, a change in place, say from
+the first degree of the scale up to the fifth, and back down
+to the first.  When the siren rises and falls, by contrast,
+we hear no such change in place behind the change in pitch.
+And we would find it difficult to map the siren's
+change in pitch onto a musical scale even hypothetically;
+for the siren's change in pitch
+is continuous, while the places in a scale are
+discrete. But then in hearing the rise and fall of a siren,
+we hear sound, changing its pitch in time; while in hearing
+the rise and fall of a melody, we hear music, changing its
+place in space. And this suggests that the movement we hear
+in music, as it changes its place in space, is not simply a
+property of it, but the essence of it. If we didn't hear
+music move, we wouldn't hear music at all, but simply a
+succession of pitches, the next following the last in time,
+without any corresponding change in place.
 
-What is more, and as illustrated by my example of melody, we
-can be exact about the change of place in question.  We
-don't hear a melody just rise and fall; we hear it rise and
-fall from one tone to another in a scale of such
-tones---say, from the 1 tone up to the 5, then down again to
-the 1. Similarly, we don't hear the harmony that supports
-that melody just depart and return; we hear it depart and
-return from one chord to another in a scale of such
-chords---say, from tonic to dominant and back again to
-tonic. It is this precision about the space in which music
-moves that allows it to be composed and encoded, more or
-less completely, on a musical score, even though the score
-itself is soundless and motionless. It is also this
-precision that allows music to be analyzed and studied,
-rather than merely heard and appreciated. And that music
-happens in so articulable a space is what seems to
-distinguishes it from mere sound, which happens, by
-contrast, in time rather than space. it is the space of
-music in this sense that distinguishes it from mere sound,
-which by contrast happens only in time.
+What is more, we can be exact about the change of place
+in musical motion, as the example of a melody also illustrates. So we don't hear a
+melody just rise and fall; we hear it rise and fall from one
+tone to another, in a scale of such tones---in
+this case, again, from the first degree of the scale up to
+the fifth and back down to the first. Similarly, we don't
+hear the harmony that supports that melody just depart and
+return; we hear it depart and return from one chord to
+another in a scale of such chords---say, from tonic to
+dominant and back again to tonic. We can be exact, then,
+about the space in which we hear music move; and it this
+exactness that allows music to be composed
+and encoded, more or less completely, on a musical score,
+even though the score itself is soundless and motionless. It
+is also this exactness that allows music to be analyzed and
+studied, not merely heard and appreciated.
+
+So again, on the one hand, the motion we hear in music would
+seem to be real enough to happen in a completely accountable
+kind of space. Yet on the other hand, (motionless score;
+motionless orchestra; and that space otherwise allows for
+continuity of motion and identity through time precluded
+by musical space; then maybe mention hand, not following the
+motion but supplying it, that music moves in moving us.) other difficulties). . articulated kind of space. (What do
+previous paragraphs show about the reality of space.) The
+fact that music can be so immediately distinguished from
+sound 
 
 And how could it be otherwise? After all, if
 music happens in time, and time is a measure of
