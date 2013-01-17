@@ -1,12 +1,12 @@
-### Does Music Move?  
+### Does Music Move?
 
-Friday Night Lecture  
-St. John's College, Annapolis MD  
+Friday Night Lecture
+St. John's College, Annapolis MD
 February 15, 2013
 
 ***
 
-Does music move? 
+Does music move?
 
 Well, yes---if by "music", we meant the
 vibrations of sound that allow us to hear what a
@@ -26,72 +26,58 @@ all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement". For we talk as if we hear just that
 in the music---movement---and as if any piece of
-music indeed moves itself in moving us. 
+music indeed moves itself in moving us.
 
 There is, however, a problem with this sort of talk.
-And I would like to begin my lecture by outlining 
+And I would like to begin my lecture by outlining
 this problem, before going on to say why I find the
-problem important, even for those of us with 
-little interest in music otherwise. 
+problem important, even for those of us with
+little interest in music otherwise.
 
-On the one hand, when we hear music move---at     
-least of any kind that includes not just rhythm,  
-but melody and harmony---we hear this movement    
-as a change in place. And this change in place    
-distinguishes music from mere sound, which        
-changes only in time. In the rise and fall of a   
-police siren, for example, we hear a sound rather 
-than a melody, because there is no change in      
-place that we hear behind the change in pitch,    
-as if having caused it; and the siren, then,      
-rises and falls in time, but not in space. (Switch
-order here.) In the 
-rise and fall of a melody, by contrast, we hear   
-just this: a change in place behind the change    
-in pitch, as if having caused it; for example,    
-the change in pitch, from C to G, caused by the   
-change in place, from the first degree of a scale 
-to the fifth, or if you prefer, from the 1 tone   
-to the 5 tone.                                    
+On the one hand, when we hear music move---at least of any
+kind that includes not just rhythm, but melody and
+harmony---we hear this movement as a change in place. And
+this change in place distinguishes music from mere sound,
+which changes only in time. In the rise and fall of a
+melody, for example, we hear a change in pitch, say from C
+to G and back to C, behind which, as if having caused it, we
+sense a change in place, say from the first degree of the
+scale up to the fifth and back down to the first, or if you
+prefer, from the 1 tone to the 5 tone and back.  But we
+sense no such change in place behind the change in pitch of
+a police siren, and nothing in the finite topography of scale
+degrees or dynamic qualities directly applicable to it,
+since the siren's change in pitch is continuous rather than
+discrete. But then we hear the rise and fall of a siren as a
+sound, changing its pitch in time; while we hear the rise and fall of
+a melody as music, changing its place in space.
 
-ogiving us the sense that the melody is rising
-and falling in time because it is rising and falling in
-space. r, if you prefer, from the 1 tone to the 5 tone.                    
+What is more, and as illustrated by my example of melody, we
+can be exact about the change of place in question.  We
+don't hear a melody just rise and fall; we hear it rise and
+fall from one tone to another in a scale of such
+tones---say, from the 1 tone up to the 5, then down again to
+the 1. Similarly, we don't hear the harmony that supports
+that melody just depart and return; we hear it depart and
+return from one chord to another in a scale of such
+chords---say, from tonic to dominant and back again to
+tonic. It is this precision about the space in which music
+moves that allows it to be composed and encoded, more or
+less completely, on a musical score, even though the score
+itself is soundless and motionless. It is also this
+precision that allows music to be analyzed and studied,
+rather than merely heard and appreciated. And that music
+happens in so articulable a space is what seems to
+distinguishes it from mere sound, which happens, by
+contrast, in time rather than space. it is the space of
+music in this sense that distinguishes it from mere sound,
+which by contrast happens only in time.
 
-that has a beginning and end in time, it is       
-this that distinguishes music from mere sound.    
-which makes music different from mere sound. .    
-Generally speaking, sounds have beginnings and    
-ends in time, without any interest in music.      
-What is more, we  
-can be very precise about the places in question. 
-We don't hear a melody just rise and fall; we     
-hear it rise and fall from one tone to another in 
-a scale of such tones---say, from the 1 tone up   
-to the 5, then down again to the 1. Similarly,    
-we don't hear the harmony that supports that      
-melody just depart and return; we hear it depart  
-and return from one chord to another in a scale   
-of such chords---say, from tonic to dominant      
-and back again to tonic. It is this precision     
-about the space in which music moves that allows  
-it to be composed and encoded, more or less       
-completely, on a musical score, even though the   
-score itself is soundless and motionless. It  
-is also this precision that allows music to be    
-analyzed and studied, rather than merely heard    
-and appreciated. And that music happens in so
-articulable a space is what seems to distinguishes it from
-mere sound, which happens, by contrast, in time rather
-than space. it is the space
-of music in this sense that distinguishes it from
-mere sound, which by contrast happens only in time.
-
-And how could it be otherwise? After all, if      
-music happens in time, and time is a measure of   
-motion, then music, it would seem, is a motion    
-in turn; and for lovers of music, among the most  
-meaningful such motions in their lives.           
+And how could it be otherwise? After all, if
+music happens in time, and time is a measure of
+motion, then music, it would seem, is a motion
+in turn; and for lovers of music, among the most
+meaningful such motions in their lives.
 
 (Put weirdness below) Space
 weird (symphony seated in chairs), but real enough
@@ -100,7 +86,7 @@ from mere sound. (Space differentiated enough
 to the music not just in time, but in a kind of
 space. change not just in time, but in space. The
 motion is a form of *locomotion*, or motion from
-place to place. 
+place to place.
 But then again, time is not the only measure
 of motion, at least if by "motion", we mean
 *locomotion*, or a motion from place to place. Of
@@ -119,7 +105,7 @@ Yet for all its resemblance to this flight, the
 motion we hear in music is different.  And the
 difference suggests something illusory
 about the space of this motion, and thus about
-the motion itself. 
+the motion itself.
 In the rise and fall of a melody, for example,
 what I hear is a motion from one note of the
 melody to the next, as if from one place to the
@@ -163,7 +149,7 @@ the motion in turn unreal. Something happening in
 time, that only seems to be happening in space.
 
 (Put Zuckerkandl quote here. All but tones, thus, no
-space in which motion can occur.) 
+space in which motion can occur.)
 
 itself. (Use this at end, nothing like bird, or other
 things, or transition, thus nothing like space.)
@@ -277,4 +263,4 @@ space in which we encounter motion otherwise, then why
 credit our talk of the motion in music with any but a
 metaphorical sense? it looks
 as if we are speaking only metaphorically in saying that
-music moves. 
+music moves.
