@@ -24,7 +24,7 @@ melody, that it rises and falls; or of a harmony,
 that it departs and returns. And suppose we say
 all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
-"movement." For we talk as if we hear just that
+"movement". For we talk as if we hear just that
 in the music---movement---and as if any piece of
 music indeed moves itself in moving us. 
 
@@ -34,41 +34,73 @@ this problem, before going on to say why I find the
 problem important, even for those of us with 
 little interest in music otherwise. 
 
-On the one hand, when we hear music move, we hear
-it move not just in time but in space, as a form
-of *locomotion*, or motion from place to place.
-And it is this change in place that distinguishes
-music from mere sounds, which change only in time.
-When hearing a police siren, for example, we
-hear a change of pitch and volume over time, but
-nothing changing its place in the sound like the
-police car producing that sound, as it gets closer
-and further away. But this is precisely what we
-hear in music---for example, in hearing a (melody) symphony being
-carried to a culminating crescendo and then falling back
-in retreat. In this case we hear a change of pitch and volume over
-time that involves and even reflects a 
-change in place. , as the symphony, say, is carried
-to a crescendo, say, that reflects a seeming
-change of place,when hearing a change of pitch
-and volume ; instead, we simply hear a change of
-the siren's pitch and volume over time. can hear
-a change in pitch and volume, as the police car
-gets closer and further away, but we don't hear;
-but what we don't hear in the siren is any changes
-its pitch and volume but we don't hear the siren
-change its placea siren, for example, to hear
-something that has a beginning and end in time, it
-is this that distinguishes music from mere sound.
-which makes music different from mere sound. .
-Generally speaking, sounds have beginnings and
-ends in time, without any interest in music. And
-how could it be otherwise? After all, if music
-happens in time, and time is a measure of motion,
-then music, it would seem, is a motion in turn;
-and for lovers of music, among the most meaningful
-such motions in their lives.
+On the one hand, when we hear music move---at     
+least of any kind that includes not just rhythm,  
+but melody and harmony---we hear this movement    
+as a change in place. And this change in place    
+distinguishes music from mere sound, which        
+changes only in time. In the rise and fall of a   
+police siren, for example, we hear a sound rather 
+than a melody, because there is no change in      
+place that we hear behind the change in pitch,    
+as if having caused it; and the siren, then,      
+rises and falls in time, but not in space. (Switch
+order here.) In the 
+rise and fall of a melody, by contrast, we hear   
+just this: a change in place behind the change    
+in pitch, as if having caused it; for example,    
+the change in pitch, from C to G, caused by the   
+change in place, from the first degree of a scale 
+to the fifth, or if you prefer, from the 1 tone   
+to the 5 tone.                                    
 
+ogiving us the sense that the melody is rising
+and falling in time because it is rising and falling in
+space. r, if you prefer, from the 1 tone to the 5 tone.                    
+
+that has a beginning and end in time, it is       
+this that distinguishes music from mere sound.    
+which makes music different from mere sound. .    
+Generally speaking, sounds have beginnings and    
+ends in time, without any interest in music.      
+What is more, we  
+can be very precise about the places in question. 
+We don't hear a melody just rise and fall; we     
+hear it rise and fall from one tone to another in 
+a scale of such tones---say, from the 1 tone up   
+to the 5, then down again to the 1. Similarly,    
+we don't hear the harmony that supports that      
+melody just depart and return; we hear it depart  
+and return from one chord to another in a scale   
+of such chords---say, from tonic to dominant      
+and back again to tonic. It is this precision     
+about the space in which music moves that allows  
+it to be composed and encoded, more or less       
+completely, on a musical score, even though the   
+score itself is soundless and motionless. It  
+is also this precision that allows music to be    
+analyzed and studied, rather than merely heard    
+and appreciated. And that music happens in so
+articulable a space is what seems to distinguishes it from
+mere sound, which happens, by contrast, in time rather
+than space. it is the space
+of music in this sense that distinguishes it from
+mere sound, which by contrast happens only in time.
+
+And how could it be otherwise? After all, if      
+music happens in time, and time is a measure of   
+motion, then music, it would seem, is a motion    
+in turn; and for lovers of music, among the most  
+meaningful such motions in their lives.           
+
+(Put weirdness below) Space
+weird (symphony seated in chairs), but real enough
+to involve literacy, and what distinguishes music
+from mere sound. (Space differentiated enough
+to the music not just in time, but in a kind of
+space. change not just in time, but in space. The
+motion is a form of *locomotion*, or motion from
+place to place. 
 But then again, time is not the only measure
 of motion, at least if by "motion", we mean
 *locomotion*, or a motion from place to place. Of
