@@ -34,49 +34,102 @@ this problem, before going on to say why I find the
 problem important, even for those of us with
 little interest in music otherwise.
 
-On the one hand, when we hear music move---at least of any
-kind that includes not just rhythm, but melody and
-harmony---we hear this movement as a change in place. And
-this change in place distinguishes music from mere sound,
-which changes in time. To illustrate the difference,
-consider a melody as the example of music, and a police
-siren as the example of sound, where both rise and fall.
-But when the melody rises and falls, we hear a change not
-just in pitch, say from C to G and back to C, but behind
-this, as if having caused it, a change in place, say from
-the first degree of the scale up to the fifth, and back down
-to the first.  When the siren rises and falls, by contrast,
-we hear no such change in place behind the change in pitch.
-And we would find it difficult to map the siren's
-change in pitch onto a musical scale even hypothetically;
-for the siren's change in pitch
-is continuous, while the places in a scale are
-discrete. But then in hearing the rise and fall of a siren,
-we hear sound, changing its pitch in time; while in hearing
-the rise and fall of a melody, we hear music, changing its
-place in space. And this suggests that the movement we hear
-in music, as it changes its place in space, is not simply a
-property of it, but the essence of it. If we didn't hear
-music move, we wouldn't hear music at all, but simply a
-succession of pitches, the next following the last in time,
-without any corresponding change in place.
+The problem, in a nutshell, is with making sense
+of the *space* in which music moves. For this
+space makes something close to complete sense on
+the one hand, yet something close to nonsense
+on the other. We can see the sense it makes by
+comparing what we hear in a melody as it rises and
+falls, with what we would hear in, say, a police
+siren as it rises and falls. For both involve
+a change of pitch in time. And we can even
+suppose, for the purposes of this comparison, that
+the lowest and highest pitches in both are the
+same: say, from middle C to the G a fifth above.
+But in the melody, we hear not just this change
+of pitch in time, but behind it, as if having
+caused it, a change of place in a melodic
+scale---say, from the first degree to the fifth, and back
+to the first. ,
+which locates the change of pitch in a melodic
+scale. Perhaps we even hear the intimations of
+harmony supporting the melody, and in which case the
+change of place we hear also locates the change of
+pitch in a harmonic scale. So in hearing C change
+to G and back to C, we hear a change of place, or
+movement, from the 1 tone to the 5 tone and back
+to the 1, along with a supporting movement from
+tonic to dominant and back to tonic. the first
+degree of the melodic scale to the fifth, and back
+to the first; and if the melody is supported by
+harmony, a like movement from the tonic of the
+harmonic scale to the dominant, and back again
+to the tonic. When the siren rises and falls,
+by contrast, we hear no such change in place
+behind the change in pitch. And we would find it
+difficult to map the siren's change in pitch onto
+a melodic or harmonic scale even hypothetically;
+for the siren's change in pitch is continuous,
+while the places in those scales are discrete.
+But then in hearing the rise and fall of a siren,
+we hear sound, changing its pitch in time; while
+in hearing the rise and fall of a melody, we
+hear music, changing its place in space.say, in
+the rise and fall of a police siren, with what
+we hear in the rise and fall of a melody. which
+involves a change of pitch in time, with the rise
+and fall of a melody, which also involves a change
+of pitch in time, but over time a how essent the
+mthe difference between sounds we hear merely as
+sounds, or signals, the rise and fall of a melody
+with theFirst, on the side of complete sense,
+thereI'll first give two reasons for thinking that
+music makes First, that if we didn't hear music
+move, it seems we wouldn't hear music at all, but
+simply a succession of pitches, the next following
+the last in time, without any corresponding change
+in place to. This distinguishes the movement in
+music from the movement in mere sound, There is
+no such change in place that we hear in a mere
+sound, like a siren, whose rise and fall involves
+only a change in pitch over time. Unlike the rise
+and fall of a siren, for example, where we hear a
+continuous change of pitch over time, the rise and
+fall of melodythis movement as a change in place.
+(Say what places are.) And this change in place
+distinguishes music from mere sound, which changes
+in time. , we could say that when we hear music
+move---at least of any kind that includes not
+just rhythm, but melody and harmony---we hear the
+movement as a change in place, and we can be more
+or less exact about the places in question. So, we
+don't hear a melody just rise and fall; we hear it
+rise and fall in moving from one tone to another
+in a scale of such tones---say, from the 1 tone
+up to the 5, then down again to the 1. Similarly,
+we don't hear the harmony supporting that melody
+just depart and return; we hear it depart and
+return by moving from one chord to another in a
+scale of such chords---say, from tonic to dominant
+and back again to tonic. It is this exactness
+about the space in which music moves that allows
+it to be composed and encoded on a musical score,
+even though the score itself is soundless and
+motionless. It is also this exactness that allows
+music to be analyzed and studied, rather than
+merely heard and appreciated. And one way of
+understanding the history of music, at least in
+the West, is as a progress in such exactness And
+that music happens in so articulable a space is
+what seems to distinguishes it from mere sound,
+which happens, by contrast, in time rather than
+space. it is the space of music in this sense
+that distinguishes it from mere sound, which by
+contrast happens only in time.
 
-What is more, we can be exact about the change of place
-in musical motion, as the example of a melody also illustrates. So we don't hear a
-melody just rise and fall; we hear it rise and fall from one
-tone to another, in a scale of such tones---in
-this case, again, from the first degree of the scale up to
-the fifth and back down to the first. Similarly, we don't
-hear the harmony that supports that melody just depart and
-return; we hear it depart and return from one chord to
-another in a scale of such chords---say, from tonic to
-dominant and back again to tonic. We can be exact, then,
-about the space in which we hear music move; and it this
-exactness that allows music to be composed
-and encoded, more or less completely, on a musical score,
-even though the score itself is soundless and motionless. It
-is also this exactness that allows music to be analyzed and
-studied, not merely heard and appreciated.
+between the so-called degrees of a melodic or
+harmonic scale. (Put the next bit later, to suggest
+music is an illusion.) 
 
 So again, on the one hand, the motion we hear in music would
 seem to be real enough to happen in a completely accountable
