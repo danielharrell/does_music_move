@@ -25,10 +25,33 @@ that it departs and returns. And suppose we say
 all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement". For we talk as if we hear just that
-in the music---movement---and as if any piece of
-music indeed moves itself in moving us.
+in the music---movement---and as if any piece
+of music indeed moves itself in moving us. 
 
-There is, however, a problem with this sort of talk.
+And the talk has a point. For if we didn't hear
+music move, it seems we wouldn't hear music at
+all, but simply a succession of pitches, the next
+following the last in time. But hearing music in
+this succession---say, in the rise and fall of
+a melody---seems to mean hearing the next pitch
+follow the last not just in time, but in space,
+carrying us from place to place, pitch after
+pitch. It means hearing a leap from ˆ1 tone to
+the ˆ5 tone, for example, in hearing middle C
+followed by the G a fifth above; and then hearing
+a gentler, stepwise descent back to the ˆ1 in
+hearing the F, E, and D between the G and middle
+C sound in turn, before hearing the middle C
+again. (Put melody here.) as we hear pitch after
+pitch. as pitch follows pitch. (Bring up stuff
+from below, then go on to say space is clear and
+distinct enough to be heard, deep enough to be
+explored.) movement in it, from place to place in
+pitch after pitch. , giving to the succession in
+time a kind of inhabitance in space.
+
+But while there is thus a point to this sort of talk, there
+is also a problem with it. There is, however, a problem with this sort of talk.
 And I would like to begin my lecture by outlining
 this problem, before going on to say why I find the
 problem important, even for those of us with
@@ -39,56 +62,58 @@ of the *space* in which music moves. For this
 space makes something close to complete sense on
 the one hand, yet something close to nonsense
 on the other. We can see the sense it makes by
-comparing what we hear in a melody as it rises and
-falls, with what we would hear in, say, a police
-siren as it rises and falls. For both involve
-a change of pitch in time. And we can even
-suppose, for the purposes of this comparison, that
-the lowest and highest pitches in both are the
-same: say, from middle C to the G a fifth above.
-But in the melody, we hear not just this change
-of pitch in time, but behind it, as if having
-caused it, a change of place in a melodic
-scale---say, from the first degree to the fifth, and back
-to the first. ,
-which locates the change of pitch in a melodic
-scale. Perhaps we even hear the intimations of
-harmony supporting the melody, and in which case the
-change of place we hear also locates the change of
-pitch in a harmonic scale. So in hearing C change
-to G and back to C, we hear a change of place, or
-movement, from the 1 tone to the 5 tone and back
-to the 1, along with a supporting movement from
-tonic to dominant and back to tonic. the first
-degree of the melodic scale to the fifth, and back
-to the first; and if the melody is supported by
-harmony, a like movement from the tonic of the
-harmonic scale to the dominant, and back again
-to the tonic. When the siren rises and falls,
-by contrast, we hear no such change in place
-behind the change in pitch. And we would find it
-difficult to map the siren's change in pitch onto
-a melodic or harmonic scale even hypothetically;
+comparing the motion we hear in music with the
+variation we hear in sounds more generally. As
+examples, consider the difference between the
+rise and fall of a tonal melody and the rise and
+fall of a police siren. Both involve a change of
+pitch over time. But in the melody, behind the
+change of pitch, as if having caused it, we hear
+a change of place. And this change of place is
+clear enough, distinct enough, definitive enough,
+that we can identify the places in question, even
+if we can't identify the pitches in question. We
+may not know, for example, that we just heard
+the pitch at middle C, followed by the G a fifth
+above, followed in turn by the F, the E, and the
+D lying between them, before hearing middle C
+again. But we do know, if we hear this succession
+of pitches as a melody, that we have changed our
+place in a melodic scale, moving, say, from the
+first degree of that scale to the fifth, in a kind
+of leap, and then back to the first in a more
+delicate, stepwise descent. Perhaps we even hear
+the intimations of harmony in the melody, with a
+deepened sense of having changed our place, as we
+are carried, say, from the tonic
+to the dominant, and back again to tonic. 
+
+But when the siren rises and falls, by contrast,
+we hear no such change in place behind the change
+in pitch. And we would find it difficult to map
+the siren's change in pitch onto a scale of
+melodic or harmonic degrees even hypothetically;
 for the siren's change in pitch is continuous,
 while the places in those scales are discrete.
-But then in hearing the rise and fall of a siren,
-we hear sound, changing its pitch in time; while
-in hearing the rise and fall of a melody, we
-hear music, changing its place in space.say, in
-the rise and fall of a police siren, with what
-we hear in the rise and fall of a melody. which
-involves a change of pitch in time, with the rise
-and fall of a melody, which also involves a change
-of pitch in time, but over time a how essent the
-mthe difference between sounds we hear merely as
-sounds, or signals, the rise and fall of a melody
-with theFirst, on the side of complete sense,
-thereI'll first give two reasons for thinking that
-music makes First, that if we didn't hear music
-move, it seems we wouldn't hear music at all, but
-simply a succession of pitches, the next following
-the last in time, without any corresponding change
-in place to. This distinguishes the movement in
+Of course, we may not know the names for those
+places, or have any explicit conception of a
+musical scale, to account for the change of place
+we hear after the fact. But this possibility---and
+more generally, the possibility that we can
+have an altogether discerning musical ear while
+remaining all but illiterate about what we
+hear, yet--is one of the  only more evidence for how much sense
+the space of musical motion can make. For the
+point of musical theory, in this respect, is not
+to construct that space but rather to illuminate
+it, in something like the way a forest is
+illuminated once you know the names of the trees
+in it, giving us the words and concepts to say we
+already hear, when we hear music in a succession
+of sounds.
+ 
+
+This distinguishes the movement in
 music from the movement in mere sound, There is
 no such change in place that we hear in a mere
 sound, like a siren, whose rise and fall involves
