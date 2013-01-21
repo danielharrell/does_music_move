@@ -28,65 +28,104 @@ not thinking twice about calling what we hear a
 in the music---movement---and as if any piece
 of music indeed moves itself in moving us. 
 
-And the talk has a point. For if we didn't hear
-music move, it seems we wouldn't hear music at
-all, but simply a succession of pitches, the next
-following the last in time. But hearing music in
-this succession---say, in the rise and fall of
-a melody---seems to mean hearing the next pitch
-follow the last not just in time, but in space,
-carrying us from place to place, pitch after
-pitch. It means hearing a leap from ˆ1 tone to
-the ˆ5 tone, for example, in hearing middle C
-followed by the G a fifth above; and then hearing
-a gentler, stepwise descent back to the ˆ1 in
-hearing the F, E, and D between the G and middle
-C sound in turn, before hearing the middle C
-again. (Put melody here.) as we hear pitch after
-pitch. as pitch follows pitch. (Bring up stuff
-from below, then go on to say space is clear and
-distinct enough to be heard, deep enough to be
-explored.) movement in it, from place to place in
-pitch after pitch. , giving to the succession in
-time a kind of inhabitance in space.
+And the talk has a point. For if we didn't hear   
+music move, it seems we wouldn't hear music at    
+all. Instead, we would hear simply a succession   
+of sounds, the next following the last in time.   
+It is only when we hear the next sound following  
+the last in space that we hear music in the       
+succession. ---The space that allows it to        
+quicken and slow, rise and fall, depart and       
+return, as if note followed note, pitch after     
+pitch, moment by moment, in a movement from place 
+to place.                                         
 
-But while there is thus a point to this sort of talk, there
-is also a problem with it. There is, however, a problem with this sort of talk.
-And I would like to begin my lecture by outlining
-this problem, before going on to say why I find the
-problem important, even for those of us with
-little interest in music otherwise.
+But what kind of space could this be, that allows 
+music to move? It is this question, and the       
+difficulty of answering it, that indicates a      
+problem with the way we talk about the movement   
+in music, despite its point. And in my lecture    
+tonight, I want to discuss this problem, and      
+discuss it, I hope, in a way that shows its       
+importance more generally, even for those of us   
+with little interest in music otherwise.          
 
-The problem, in a nutshell, is with making sense
-of the *space* in which music moves. For this
-space makes something close to complete sense on
-the one hand, yet something close to nonsense
-on the other. We can see the sense it makes by
-comparing the motion we hear in music with the
-variation we hear in sounds more generally. As
-examples, consider the difference between the
-rise and fall of a tonal melody and the rise and
-fall of a police siren. Both involve a change of
-pitch over time. But in the melody, behind the
-change of pitch, as if having caused it, we hear
-a change of place. And this change of place is
-clear enough, distinct enough, definitive enough,
-that we can identify the places in question, even
-if we can't identify the pitches in question. We
-may not know, for example, that we just heard
-the pitch at middle C, followed by the G a fifth
-above, followed in turn by the F, the E, and the
-D lying between them, before hearing middle C
-again. But we do know, if we hear this succession
-of pitches as a melody, that we have changed our
-place in a melodic scale, moving, say, from the
-first degree of that scale to the fifth, in a kind
-of leap, and then back to the first in a more
-delicate, stepwise descent. Perhaps we even hear
-the intimations of harmony in the melody, with a
-deepened sense of having changed our place, as we
-are carried, say, from the tonic
-to the dominant, and back again to tonic. 
+The problem, in a nutshell, is with making sense  
+of the *space* in which music moves. For this     
+space makes something close to complete sense on  
+the one hand, yet something close to nonsense     
+on the other. We can see the sense it makes by    
+comparing the movement we hear in music, with     
+the variation we hear in sounds more generally.   
+As examples, consider the difference between the  
+rise and fall of a melody, and the rise and fall  
+of a siren. Both involve a change of pitch over   
+time. But in the melody, we sense a change of     
+place behind this change of pitch, as if having   
+caused it. And this change of place is clear      
+enough, distinct enough, and definitive enough,   
+that we can identify the places in question, even 
+if we can't identify the pitches in question.     
+Indeed, we almost surely can't identify the       
+pitches in question, at least by ear, under the   
+description that nowadays distinguishes them,     
+in terms of the frequency at which a wavelength   
+vibrates. For frequency in this sense is able to  
+define a pitch by abstracting from any sense of   
+its place. But for those few of us with perfect   
+pitch, even the recognition of pitch will come    
+with an implicit sense of place, according to     
+where we hear middle C, followed by the G a       
+fifth above . And in hearing pitches at the       
+frequencies, the pitches at frequencies of        
+identifying even just the pitches of the melody   
+will be to identify the pitches of the melody,    
+for example, as middle C, And when we identify    
+the pitches we just heard as wavn talking of      
+hearing the following five frequencies, instead   
+of saying we just heard the frequencies in        
+succession, we will say we just heard middle      
+C, followed the G a fifth above, followed by      
+(dynamic qualities should be emphasized.) to      
+say that we just heard, middle C, for example,    
+followed by the G a perfect fifth above, But      
+the pitches will be recognized by those with      
+perfect pitch under an initial description ;d     
+them according to frequency since its discovery   
+by Helmholtz, es them since the time of Helmholtz 
+and discovery of frequency, , in the form that    
+has distinguished themif we use the most common   
+measure for pitch since the time of Helmholtz, we 
+almost surely don't know(Don't spell out these    
+places until below.) (Start with frequency,       
+move to scale, then to dynamic order.) It means   
+hearing a leap (suppress hatmarked references     
+until next paragraph; gravity and depth), for     
+example, when we hear middle C followed by the G  
+a fifth above. Just as it means hearing a gentler 
+and seemingly stepwise descent, back to where we  
+began, when we hear that G followed in turn by    
+the F, E, and D in turn, before hearing middle    
+C again. (Bring up stuff from below, then go on   
+to say space is clear and distinct enough to be   
+heard, deep enough to be explored.) movement in   
+it, from place to place in pitch after pitch.     
+, giving to the succession in time a kind of      
+inhabitance in space. We may not know, for        
+example, that we just heard the pitch at middle   
+C, followed by the G a fifth above, followed in   
+turn by the F, the E, and the D lying between     
+them, before hearing middle C again. But we do    
+know, if we hear this succession of pitches as    
+a melody, that we have changed our place in       
+a melodic scale, moving, say, from the first      
+degree of that scale to the fifth, in a kind      
+of leap, and then back to the first in a more     
+delicate, stepwise descent. Perhaps we even hear  
+the intimations of harmony in the melody, with a  
+deepened sense of having changed our place, as we 
+are carried, say, from the tonic to the dominant, 
+and back again to tonic.                          
 
 But when the siren rises and falls, by contrast,
 we hear no such change in place behind the change
@@ -112,6 +151,19 @@ in it, giving us the words and concepts to say we
 already hear, when we hear music in a succession
 of sounds.
  
+(Don't spell out these places until below.) (Start with frequency, move to scale, then to dynamic
+order.) It means hearing a leap (suppress hatmarked
+references until next paragraph; gravity and
+depth), for example, when we hear middle C followed
+by the G a fifth above. Just as it means hearing a
+gentler and seemingly stepwise descent, back to where we
+began, when we hear that G followed in turn by the F, E, and D in turn,
+before hearing middle C again. (Bring up stuff
+from below, then go on to say space is clear and
+distinct enough to be heard, deep enough to be
+explored.) movement in it, from place to place in
+pitch after pitch. , giving to the succession in
+time a kind of inhabitance in space.
 
 This distinguishes the movement in
 music from the movement in mere sound, There is
