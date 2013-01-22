@@ -1,8 +1,8 @@
 ### Does Music Move?
 
-Friday Night Lecture
-St. John's College, Annapolis MD
-February 15, 2013
+Friday Night Lecture  
+St. John's College, Annapolis MD  
+February 15, 2013  
 
 ***
 
@@ -91,18 +91,39 @@ Of course, we may not know the names for those
 places, or have any explicit conception of a
 musical scale, to describe the change of place
 we hear in the melody after the fact. But this
-possibility, which reflects the striking fact that
-we can develop an altogether discerning musical
-ear while remaining all but illiterate about what
-we hear, is only more evidence of how much sense
-the space of musical movement can make, without
-the mediation of a theory to account for it.
-And the theory available to us to account for
-it depends on a topography more discovered than
-invented, and in the discovery, more inhabited
-than observed. (Classification of pitch: same
-place again; of scale; located at a kind of home,
-orientation, center of observation; of dynamic
+possibility is only more evidence of how much
+sense the space of musical movement can make,
+without the mediation of any theory to account for
+it. And it reflects the striking fact that we can
+develop an altogether discerning musical ear while
+remaining all but illiterate about what we hear.
+
+What is more, becoming literate about what
+we hear, in studying the theory we have for
+the space of musical movement, underlines the
+sense it makes even without such an account.
+For this theory depends on a topography more
+discovered than invented, and in the discovery,
+more inhabited than observed. What I mean by this
+can be clarified if we take a closer look at the
+terms I used for the melody in the example above.
+Even the way I described its pitches---starting
+with middle C, to distinguish that pitch from
+every other so-called C among pitches---depends
+on a classification of pitch that accommodates
+a surprising if foundational fact of musical
+perception: the phenomenon---or what Victor
+Zuckerkandl has called the miracle---of the
+octave. that we hear not just a difference in
+pitch that distinguishes them, but a sameness in
+this difference
+
+Pitches farthest apart, but in the same place,
+as if the pitch continuum formed a kind of
+circumference. (Classification of pitch: same
+place again; of scale; located at a kind of
+home, orientation, and through modulation,
+re-orientation. center of observation; of dynamic
 order; force, momentum, stability, gravity,
 inhabitance; also point out that what we hear
 immediately is the gravity.) We introduce a first
