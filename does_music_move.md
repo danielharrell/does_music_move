@@ -56,117 +56,167 @@ of the *space* in which music moves. For this
 space makes something close to complete sense on
 the one hand, yet something close to nonsense
 on the other. We can see the sense it makes by
-comparing the movement we hear in music, with the
-variation we hear in sounds more generally. As
-examples, consider the difference between the rise
-and fall of a melody---such as "Twinkle, Twinkle,
-Little Star"---and the rise and fall of a police
-or fire siren. Both involve a change in pitch over
-time. But in the melody, we sense a change of
-place behind this change in pitch, as if having
-caused it. And this change of place is clear
-enough, distinct enough, and definitive enough,
-that we recognize the places in question, even
-if we don't recognize the pitches in question.
-We will know that the melody has made an initial leap from the ˆ1 tone
-to the ˆ5 tone, for example, even if we don't know that the
-ˆ1 tone in this case is middle C, much less that our ear
-drums have 
-therefore vibrated at a frequency (Shorten by just mentioning examples of places,
-then examples of pitches.) Indeed, we almost
-surely can't identify the pitches in question, at
-least as the physicist would: according to their
-different frequencies of vibration. And unless
-we have perfect pitch, we won't even be able to
-identify the pitches, as the musician does, by
-note. So most of us won't know that the first note
-we heard was middle C, and that the second note
-we heard, then, was the G above middle C, and so
-on. But we will know, if we hear this sequence of
-notes as a melody, that we have changed our place
-in a melodic scale, moving from the first degree
-of that scale, for example, to the fifth, in a
-kind of leap, then back to the first in a more
-delicate, stepwise descent. Perhaps we even hear
-the intimations of harmony in the melody, with a
-correspondingly deepened sense of having changed
-our place---from, say, the tonic to the dominant,
-and back again to the tonic. But when the siren
-rises and falls, by contrast, we hear no such
-change of place behind the change in pitch. And we
-would find it difficult to map the siren's change
-in pitch onto a scale of melodic or harmonic
-degrees even hypothetically; for the siren's
-change in pitch is continuous, while the places in
-a musical scale are discrete.
+comparing the movement we hear in music, with
+the variation we hear in sounds more generally.
+As examples, consider the difference between the
+rise and fall of a melody---such as "Twinkle,
+Twinkle, Little Star"---and the rise and fall of
+a police or fire siren. Both involve a change in
+pitch over time. But in the melody, we sense a
+change of place *within* this change in pitch,
+as if having caused it. To hear the beginning of
+"Twinkle Twinkle", then, is not simply to hear,
+say, middle C followed by the G a fifth above; it
+is also to hear, within this change of pitch, a
+movement---indeed, a leap---from the first degree
+of a melodic scale to the fifth, or from the ˆ1
+tone to the ˆ5. When the siren rises and falls,
+by contrast, we hear no such change of place *within*
+the change in pitch, even if we can see, or infer, the
+change of place *behind* it, in the police car or fire engine
+that produced it. Nor could we directly 
+map the siren's change in pitch onto
+the places in a melodic scale, as if to
+treat its rise and fall as a proto-melody;
+for the siren's change in pitch is continuous,
+while the places in the scale are discrete.
 
 Of course, we may not know the names for those
 places, or have any explicit conception of a
-musical scale, to describe the change of place
-we hear in the melody after the fact. But this
-possibility is only more evidence of how much
-sense the space of musical movement can make,
-without the mediation of any theory to account
-for it. And it reflects the striking fact that we
-can develop an altogether discerning musical ear
-while remaining all but illiterate about what we
-hear.
+musical scale, to identify the change of place we hear
+in the melody. But this possibility is only more
+evidence of how much sense the space of musical
+movement can make, without the need for any
+theory to justify it. And it reflects the
+striking fact that we can develop an altogether
+discerning musical ear while remaining all but
+illiterate about what we hear. And becoming
+literate about what we hear, by studying the
+theory we have for the space of musical movement,
+underlines the sense it makes even without
+such a theory. For this theory depends on a
+topography more discovered than invented, and in
+the discovery, more inhabited than observed.
 
-What is more, becoming literate about what
-we hear, by studying the theory we have for
-the space of musical movement, underlines the
-sense it makes even without such a theory.
-For this theory depends on a topography more
-discovered than invented, and in the discovery,
-more inhabited than observed. What I mean by this
-can be clarified if we take a closer look at the
-terms I used for the melody in the example above.
-Even the way I identified its pitches by tone---the first
-at middle C, for example, and the second at the
-G a fifth above---depends on a classification
-of pitch that accommodates two striking, and
-foundational, facts of musical perception. The
-first such fact is that we distinguish different
-pitches in terms of relative place, hearing one pitch as
-higher or lower than another. Hence my talk of the
-G a fifth *above* middle C, to distinguish it,
-say, from the G lying a fourth below. Then there
-is my reference to *middle* C, to distinguish
-it from every other C there is. This reflects
-the second such fact of musical perception,
-which is even more striking and foundational, and
-establishes a more absolute sense of place:
-the phenomenon of the octave. For every pitch we
-hear, such as the pitch at middle C, there are
-other pitches, audibly different pitches, that
-nonetheless sound the same, and to which we thus
-give the same letter as name. Exactly *why* we
-hear this sameness is hard to say: Aristotle
+What I mean by this inhabitance can be clarified if we take a
+closer look at the terms I used for the melody in
+the example above. Even the way I identified its
+first two pitches by note---middle C and the G a
+fifth above---depends on a classification informed
+by two topographical facts about the way we perceive
+differences in pitch.  The
+first is that we hear this difference in pitch,
+whereby one note is distinguished from another,
+as a difference in relative place, one note
+sounding higher, the other note lower. This
+perception also proves to be transitive: if one
+note sounds higher than a second, and the second
+higher than a third, then the first will also
+sound higher than the third. Thus, 
+our perception of pitch difference gives every
+note its own position along an axis of height.
+Hence my talk of the G a fifth *above* middle
+C, to distinguish it, say, from the G a fourth
+below. 
+
+Then there is my reference just now to the two
+G's on either side of *middle* C, along with
+my reference to middle C itself, in order to
+distinguish that C from every other C there
+is. This repetition of note letters reflects
+the second topographical fact about the way we
+perceive differences in pitch: the phenomenon of
+the octave. For while we distinguish notes by
+their difference in pitch, this difference reaches
+a kind of limit at the distance or interval
+called the "octave", where the notes sound the
+same despite their difference in pitch, and are
+thus given the same letter as name. Exactly *why*
+we hear this sameness is hard to say: Aristotle
 attributed it to a perception of the whole number
-ratio 2:1; while Victor Zuckerkandl simply calls
-it a miracle. But however it happens, we hear
-this sameness while still hearing a difference
-in pitch. Indeed, this difference is maximal
-rather than minimal: it is not the pitches we can barely
-distinguish as lower or higher to one another that
-prove to sound the same in this sense; but rather
-the pitches we most easily so distinguish.
- So the sameness we
-hear establishes a sense of place that comprehends
-the higher and lower; beyond
-higher and lower; different pitches
-can occupy this place in sounding the same,
-despite their distance from one another in pitch.
-Moreover, this distance---to which we give the
-name "octave"---turns out to be maximal rather
-than minimal; the sense of place is more like a circumference
-that contains the pitches of a melody. In a
-still-more important feature of this perception,
-the sameness we hear in these pitches corresponds
-to a difference between them that is maximal
-rather than minimal, measured by the octave. So
-the sense of place is of a circumference rather
-than a latitude or longitude.
+ratio 2:1; while Victor Zuckerkandl deems it a
+miracle. But however it happens, the sameness we
+hear at a certain difference of pitch effectively
+bounds that difference. And it turns the axis of
+height along which notes are arranged into a kind
+of circumference, which continues to track their
+audible increase or decrease in pitch, but always
+to the same place again, in a sameness of sound,
+once the increase or decrease reaches the octave. 
+
+But even this circumference of notes is an
+incomplete image of the sense made by the space
+in which music moves. For this image still only
+comprehends the change of pitch involved, and as
+we might conceive this change to carry us *along*
+the circumference. But again, in hearing a melody
+like "Twinkle Twinkle", we hear a change of place
+*within* the change in pitch. And this reflects
+a sense---again perceptual---in which we are
+thereby put *inside* the circumference I just
+described. 
+
+(Both in terms of center, and in the
+sense the move from note to note isn't through
+every note between, like the siren.) (Mention
+sense of leaping) ccording to the degrees in a
+melodic scale. Same place again can be heard
+as a center, as if projected to a point inside
+the circumference, and which orients us with
+respect to that circumference. as if this place
+were projected to a center. .(Mention specific
+example of middle C and G.) This introduces ,
+gain, within the change of pitch that would carry
+us along this circumference, we hear a change of
+place, For again, we hearOnce the notes on that
+circumference are selected and arrangedFor in
+reaching the same place againFor as indicated by
+a melodic scale, reaching the same place again
+means hearing it as a center that organizes the
+notes in between, as if as a projection from this
+place. And Zuckerkandl points out, our perception
+of this center is not static or merely spatial,
+but dynamic, as if the center possossed gravity.
+And the center can change, it is mobile; while
+harmony contributes perspective. Then there is
+equal temperament, which in Scruton's words There
+is then (revise from here: longest distance return
+to same, so circumferential, then talk about being
+centered and feeling weight or gravity, then
+move on the center moving through modulation and
+harmony giving depth, perhaps equal temperment) a
+topography so real as to be inhabited.
+
+In paragraph where space doesn't make sense, point out
+that where is space, if outside of us? 
+which means (talk about occupying a place) that
+notes are not simply arranged by pitch in a
+relative position of lower and higher; they also
+form extremitiesgives notes a sense of place
+beyond higher and lower, Thus the sameness we
+hear giving to notes an octave apart a deeper
+sense of place that comprehends their relative
+position of higher or lower. ; while still hearing
+a difference in pitch. Indeed, this difference is
+maximal rather than minimal: it is not the pitches
+we can barely distinguish as lower or higher to
+one another that prove to sound the same in this
+sense; but rather the pitches we most easily so
+distinguish. So the sameness we hear establishes
+a sense of place that comprehends the higher
+and lower; beyond higher and lower; different
+pitches can occupy this place in sounding the
+same, despite their distance from one another
+in pitch. Moreover, this distance---to which we
+give the name "octave"---turns out to be maximal
+rather than minimal; the sense of place is more
+like a circumference that contains the pitches of
+a melody. In a still-more important feature of
+this perception, the sameness we hear in these
+pitches corresponds to a difference between them
+that is maximal rather than minimal, measured
+by the octave. So the sense of place is of a
+circumference rather than a latitude or longitude.
 
   And since the sameness we hear is that
 different pitches can occupy, beyond the
