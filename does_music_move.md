@@ -45,11 +45,17 @@ But what kind of space could this be, that allows
 music to move? It is this question, and the
 difficulty of answering it, that indicates a
 problem with the way we talk about the movement
-in music, despite its point. I want to discuss
-this problem in my lecture tonight, and discuss
-it, I hope, in a way that shows its importance
-more generally, even for those of us with little
-interest in music.
+in music, despite its point. And it is this 
+problem that I wish to discuss
+in my lecture tonight. I have divided the lecture,
+accordingly, into two parts. In the first part, 
+I will explain the problem in terms that make the
+most sense to me, of why it *is* a problem. And in
+the second part, I will explain why I take the problem
+to be important---even for those
+of us with little interest in music. 
+
+##### Part One
 
 The problem, in a nutshell, is with making sense
 of the *space* in which music moves. For this
@@ -66,23 +72,24 @@ pitch over time. But in the melody, we sense a
 change of place *within* this change in pitch,
 as if having caused it. To hear the beginning of
 "Twinkle Twinkle", then, is not simply to hear,
-say, middle C followed by the G a fifth above; it
-is also to hear, within this change of pitch, a
-movement---indeed, a leap---from the first degree
-of a melodic scale to the fifth, or from the ˆ1
-tone to the ˆ5. When the siren rises and falls,
-by contrast, we hear no such change of place *within*
-the change in pitch, even if we can see, or infer, the
-change of place *behind* it, in the police car or fire engine
-that produced it. Nor could we directly 
-map the siren's change in pitch onto
-the places in a melodic scale, as if to
-treat its rise and fall as a proto-melody;
-for the siren's change in pitch is continuous,
-while the places in the scale are discrete.
+say, middle C followed by the G a fifth above;
+it is also to hear, within this change of pitch,
+a movement---indeed, a leap---from the first
+degree of a melodic scale to the fifth, or, in an
+alternative formulation, from the ˆ1 tone to the
+ˆ5. When the siren rises and falls, by contrast,
+we hear no such change of place *within* the
+change in pitch, even if we can see, or infer,
+the change of place *behind* it, in the police
+car or fire engine that produced it. Nor could we
+directly map the siren's change in pitch onto the
+places in a melodic scale, as if to treat its rise
+and fall as a proto-melody; for the siren's change
+in pitch is continuous, while the places in the
+scale are discrete.
 
 Of course, we may not know the names for those
-places, or have any explicit conception of a
+places in a scale, or even have any explicit conception of a
 musical scale, to identify the change of place we hear
 in the melody. But this possibility is only more
 evidence of how much sense the space of musical
@@ -90,7 +97,7 @@ movement can make, without the need for any
 theory to justify it. And it reflects the
 striking fact that we can develop an altogether
 discerning musical ear while remaining all but
-illiterate about what we hear. And becoming
+illiterate about what we hear. What is more, becoming
 literate about what we hear, by studying the
 theory we have for the space of musical movement,
 underlines the sense it makes even without
@@ -98,29 +105,29 @@ such a theory. For this theory depends on a
 topography more discovered than invented, and in
 the discovery, more inhabited than observed.
 
-What I mean by this inhabitance can be clarified if we take a
-closer look at the terms I used for the melody in
-the example above. Even the way I identified its
-first two pitches by note---middle C and the G a
-fifth above---depends on a classification informed
-by two topographical facts in our perception of notes,
-even outside a musical context. The
-first is that we hear a difference in pitch,
-whereby one note is distinguished from another,
-as a difference in relative place, one note
-sounding higher, the other note lower. This
-perception also proves to be transitive: if one
-note sounds higher than a second, and the second
-higher than a third, then the first will also
-sound higher than the third. Thus, 
-our perception of pitch difference gives every
-note its own position along an axis of height.
-Hence my talk of the G a fifth *above* middle
-C, to distinguish it, say, from the G a fourth
-below. 
+What I mean by this inhabitance can be clarified
+if we take a closer look at the terms I used
+for the melody in the example above. Even the
+way I identified its first two pitches by
+note---middle C and the G a fifth above---depends
+on a classification informed by two topographical
+facts, as we might call them, in our perception of
+notes, even outside a musical context. The first
+such fact is that we hear a difference in pitch, whereby
+one note is distinguished from another, as a
+difference in relative place, one note sounding
+higher, the other note lower. This perception also
+proves to be transitive: if one note sounds higher
+than a second, and the second higher than a third,
+then the first will also sound higher than the
+third. Thus, our perception of pitch difference
+gives every note its own position along an axis
+of height. Hence my talk of the G a fifth *above*
+middle C, to distinguish it, say, from the G a
+fourth below.
 
 Then there is my reference just now to the two
-G's on either side of *middle* C, along with
+G's on either side of middle C, along with
 my reference to middle C itself, in order to
 distinguish that C from every other C there is.
 This repetition of note letters reflects the
@@ -128,90 +135,149 @@ second topographical fact in our perception of
 notes: the phenomenon of the octave. For while
 we distinguish notes by their difference in
 pitch, this difference reaches a kind of limit
-at the distance or interval called the "octave",
-where the notes sound the same despite their
-difference in pitch, and are thus given the
-same letter as name. Exactly *why* we hear this
-sameness is hard to say: Aristotle attributed it
-to a perception of the whole number ratio 2:1;
-while Victor Zuckerkandl deems it a miracle. But
-however it happens, the sameness we hear at a
-certain difference of pitch effectively bounds
-that difference. And it turns the axis of height
-along which notes are arranged into a kind of
-circumference, which continues to track their
-audible increase or decrease in pitch, but always
-to the same place again, in a sameness of sound,
-once the increase or decrease reaches the octave.
+at the distance or interval called the "octave."
+At this interval, the notes sound the same
+despite their difference in pitch, and are thus
+given the same letter as name. Exactly *why* we
+hear this sameness is hard to say: Aristotle
+attributed it to a perception of the whole number
+ratio 2:1; while Victor Zuckerkandl deems it a
+miracle. But however it happens, mathematically
+or miraculously, the sameness we hear in notes,
+once their difference in pitch reaches the octave,
+effectively bounds that difference. For beyond
+it, we don't encounter new notes, but only new
+instances, higher or lower, of old notes. The octave
+thus turns the axis of
+height, along which notes are arranged by pitch, into a kind
+of circumference, which continues to trace their 
+increase or decrease in pitch without end, but always
+to the same place again.  
 
-But even this circumference of notes is an
-incomplete image of the sense made by the space
-in which music moves. For this image still only
-comprehends the change of pitch involved, and as
-we might conceive this change to carry us *along*
-the circumference. But again, in hearing a melody
-such as "Twinkle, Twinkle", we hear a change of
-place *within* the change in pitch. And this
-reflects a sense---again perceptual---in which
-we are thereby put *inside* the circumference I
-just described, and no longer carried along it,
-but across it. To see this, consider again the
-beginning of "Twinkle, Twinkle" as I described
-this above, where we hear a leap from the ˆ1
-tone to the ˆ5 tone *within* the change of pitch
-from middle C to G. We classify notes this way
-by number, and not simply by letter, to reflect
-yet another pair of topographical facts in our
-perception of notes, once we hear these notes in
-a musical context. For that context allows us,
-first, to hear one note in a melody---assigned the
-number 1---as a kind of center, which *orients* us
-with respect to the other notes in the melody (so
-assigned numbers with reference to 1), and as if
-to provide a place from which to face them.
-
-The second topographical fact relates to the
-first. For the musical context that allows us to
-hear one note in the melody as a center for the
-other notes also allows us to hear movement from
-one note to another---such as the leap from the
-ˆ1 tone to the ˆ5 in "Twinkle, Twinkle"---without
-having to hear any notes between. It is as if
-being placed at a central note to face the
-other notes meant we always moved from one note
-to another similarly oriented, first facing
-the note we were moving to, and then reaching
+But this circumference of notes is not yet an
+image of the space in which music moves. For as
+described, it only comprehends the change of pitch
+involved, as we might conceive this change to
+carry us *along* such a circumference. But again,
+in hearing a melody such as "Twinkle, Twinkle",
+we not only hear a change in pitch; we hear a
+change of place *within* the change in pitch. And
+this reflects how the melody puts us *inside*
+the circumference I just described, and carries
+us from note to note not *along* it, in a mere
+change of pitch, but *across* it, 
+in a change of place. To see this, consider again
+the beginning of "Twinkle, Twinkle" as I described
+this above, where we hear a leap from the ˆ1 tone
+to the ˆ5 tone *within* the change of pitch from
+middle C to G. The shift from letters to numbers
+in our classification of notes We classify notes
+this way by number, not merely by letter, to
+reflect yet another pair of topographical facts
+in our perception of notes, both involving a
+sense of orientation, once we hear these notes
+in a musical context like a melody. The first
+such fact is that we hear one note in a melody
+as a kind of center, which *orients* us with
+respect to the other notes in the melody, as if
+to provide a place from which to face them. The
+central note is accordingly assigned the number
+1 for the purposes of melodic analysis, and the
+other notes assigned other numbers---2, 3, and so
+on---making implicit reference to 1. The second
+topographical fact is that we hear movement from
+one note to another without having to hear any
+notes between. We hear a leap from the ˆ1 tone
+to the ˆ5 in "Twinkle, Twinkle," for example,
+without having to hear the ˆ2,ˆ3, or ˆ4 tones
+first; and indeed to hear them first would turn
+the leap into a climb. This second fact, like the
+first, involves a sense of orientation produced by
+musical contexts like melodies produce: so just as
+we then hear one note in the melody as central,
+again as if from a place to face the other notes,
+so we also move that way between notes, as if we
+faced the note we were moving to, and then reached
 it as a goal, without needing to take account
-of any in-between note we silently pass along
-the way, or that we might need take account
-of, if we were watching the movement between
-notes from the side as it were, without the
-orientation provided by a central note. And this
-is why the image of a circumference of notes
-is insufficient for the space in which music
-moves. For once this circumference is put into
-a musical context, there will be one note on
-the circumference projected inside it as the
-central note. Or more exactly, there will
-be a point on the circumference, occupied by
-indefinitely many notes, all an octave apart, that
-complete the circumference at that point, which
-is then projected inside the circumference as the
-central point. And any movement from one note to
-another subsequently made, will *not* then be made
-*along* the circumference, or from one note to
-another through every note between. The movement
-will rather be made through none of the notes between
-in being made *across* the
+of any in-between notes silently passed along
+the way. The two facts seem to be related: we
+hear melody as central, again as if from a place
+to face the other notes, we also move that way
+between notes in the melody, as if woves us from
+one note to another, on the circumference I just
+described, by putting us, as it were, *inside* the
+circumference, not by carrying us *along* it, in
+a mere change of pitch, but rather *across* it,
+in a change of place. , and across it by being
+put inside the circumference, in what is then an
+image of inhabitance. To see this, consider again
+the beginning of "Twinkle, Twinkle" as I described
+this above, where we hear a leap from the ˆ1 tone
+to the ˆ5 tone *within* the change of pitch from
+middle C to G. The shift from letters to numbers
+in our classification of notes We classify notes
+this way by number, not merely by letter, to
+reflect yet another pair of topographical facts
+in our perception of notes, both involving a
+sense of orientation, once we hear these notes in
+a musical context like a melody. The first such
+fact is that we hear one note in a melody as a
+kind of center, which *orients* us with respect to
+the other notes in the melody, as if to provide a
+place from which to face them. The central note is
+accordingly assigned the number 1 for the purposes
+of melodic analysis, and the other notes assigned
+other numbers---2, 3, and so on---making implicit
+reference to 1. The second topographical fact is
+that we hear movement from one note to another
+without having to hear any notes between. We hear
+a leap from the ˆ1 tone to the ˆ5 in "Twinkle,
+Twinkle," for example, without having to hear
+the ˆ2,ˆ3, or ˆ4 tones first; and indeed to hear
+them first would turn the leap into a climb. This
+second fact, like the first, involves a sense of
+orientation produced by musical contexts like
+melodies produce: so just as we then hear one note
+in the melody as central, again as if from a place
+to face the other notes, so we also move that way
+between notes, as if we faced the note we were
+moving to, and then reached it as a goal, without
+needing to take account of any in-between notes
+silently passed along the way. The two facts seem
+to be related: we hear melody as central, again as
+if from a place to face the other notes, we also
+move that way between notes in the melody, as if
+we
+
+But these two facts show why hearing a melody puts us, as it
+were, *inside* the circumference of notes I described above,
+and carries us *across* it in a change of place, rather than
+*along* it in a mere change of pitch. The central note
+of the melody corresponds to a note on the circumference
+that is projected inside it in being central; and any
+movement between notes, since this is guided by the
+orientation provided the central note, will so be made
+through that note, and thus *across* the circumference,
+rather than merely *along* the circumference and thereby
+through every note between.  the orientation
+provided by that note, across the circumference
+and through that note, from one note to another
+subsequently made, will *not* then be made *along* the
+circumference, or from one note to another through every
+note between.  The movement will rather be made through none
+of the notes between in being made *across* the
 circumference, through its central point, in a geometric
 reflection of the way we seem to inhabit musical space in
 hearing music move, from one note to the other not through
 every note between, but rather through the orientation
-provided by a central such note.  
+provided by a central such note.
 
 This is perhaps as far as this image of a circumference
 should be pressed for the purposes , but that we
-find ourselves inside of, Inhabitance, perspective, mobility, even equal temperament.
+find ourselves inside of, A geometric image of inhabitance. Inhabitance, perspective,
+mobility, even equal temperament. Make sure to discuss
+these in terms of the experience that makes them viable
+developments in the history of music.
 (Keep facing language. Leap as if
 making it ourselves, rather than watching it from
 the side. Relates to Zuckerkandl point, that the
