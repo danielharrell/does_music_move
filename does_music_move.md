@@ -54,86 +54,84 @@ in my account of the problem itself, I will say
 this much now about my sense of its importance,
 in case it helps anyone sit through the first
 part of my lecture more expectantly, or at least
-patiently. While I present this specifically as a problem
-in our experience of music, I take it to be a
-problem, more generally, in our experience of
-the world. And the problem on this level poses a
+patiently. While I present this specifically as a
+problem in our experience of music, I take it to
+be a problem, more generally, in our experience
+of the world. And at stake in the problem, on
+that level, is the prospect of our freedom in
+the world. So understood, the problem poses a
 challenge to liberal education---indeed, to the
-very possibility of liberal education. But more on
+very idea of liberal education. But more on
 that in Part Two.
 
 ##### Part One
 
-The problem, in a nutshell, is with 
-the *space* in which music moves, and how to
-understand it. For this
-space makes something close to complete sense on
-the one hand, yet something closer to nonsense on
-the other. We can begin to see the sense it makes,
-by comparing the movement we hear in music, with
-the variation we hear in sounds more generally.
-As examples, consider the difference between the
-rise and fall of a melody---such as "Twinkle,
-Twinkle, Little Star"---and the rise and fall of
-a police or fire siren. Both involve a change in
-pitch over time. But in the melody, we sense a
-change of place *within* this change in pitch,
-as if having caused it. To hear the beginning of
-"Twinkle Twinkle", for example, is not simply to hear,
-say, middle C followed by the G a fifth above;
-it is also to hear, within this change of pitch,
-a movement---indeed, a leap---from the first
-degree of a melodic scale to the fifth, or
-otherwise put, from the ˆ1 tone to the
-ˆ5 tone. When the siren rises and falls, by contrast,
-we hear no such change of place *within* the
-change in pitch, even if we can see, or infer,
-the change of place *behind* it, in the police
-car or fire engine that produced it. Nor could we
-directly map the siren's change in pitch onto the
-places in a melodic scale, as if to treat its rise
-and fall as a proto-melody; for the siren's change
-in pitch is continuous, while the places in the
-scale are discrete.
+The problem, in a nutshell, is with the *space* in
+which music moves. For this space makes something
+close to complete sense on the one hand, yet
+something closer to nonsense on the other. We can
+begin to see the sense it makes, by comparing the
+movement we hear in music, with the variation
+we hear in sounds more generally. As examples,
+consider the difference between the rise and fall
+of a melody---such as "Twinkle, Twinkle, Little
+Star"---and the rise and fall of a police or
+fire siren. Both involve a change in pitch over
+time. But in the melody, we sense a change of
+place *within* this change in pitch, as if having
+caused it. To hear the beginning of "Twinkle
+Twinkle", for example, is not simply to hear,
+say, middle C followed by the G a fifth above; it
+is also to hear, within this change of pitch, a
+movement---indeed, a leap---from the first degree
+of a melodic scale to the fifth, or otherwise
+put, from the ˆ1 tone to the ˆ5 tone. When the
+siren rises and falls, by contrast, we hear no
+such change of place *within* the change in pitch,
+even if we can see, or infer, the change of place
+*behind* it, in the police car or fire engine
+that produced it. Nor could we directly map the
+siren's change in pitch onto the places in a
+melodic scale, as if to treat its rise and fall as
+a proto-melody; for the siren's change in pitch
+is continuous, while the places in the scale are
+discrete.
 
 Of course, we may not know the names for those
-places, or even have any 
-conception of a musical scale, to identify the
-change of place we hear in the melody. But this
-possibility is only more evidence of how much
-sense the space of musical movement can make in
-its own terms,
-without the need for any theory to justify it.
-And it reflects a striking fact about what it means
-to understand music. For we can
-develop an altogether discerning musical ear,
-while remaining all but illiterate about what we
-hear. What is more, becoming literate about what
-we hear, by studying the theory we have for the
-space of musical movement, underlines the sense it
-makes even without such a theory. For this theory
-depends on a topography more discovered than
-invented, and in the discovery, more inhabited
-than observed.
+places, or even have any conception of a musical
+scale, to identify the change of place we hear
+in the melody. But this possibility is only more
+evidence of how much sense the space of musical
+movement can make, in what we might call its *own* terms, without
+the need for any theory beyond the music to justify it. And it
+reflects a striking fact about what it means to
+understand music. For we can develop an altogether
+discerning musical ear, while remaining all but
+illiterate about what we hear. What is more,
+becoming literate about what we hear, by studying
+some music theory, underlines the sense it makes even
+without such a theory. For this theory reflects
+a topography more discovered than invented, and in
+the discovery, more inhabited than observed.
 
 What I mean by this inhabitance can be clarified
-if we take a closer look at the terms I used
-for the melody in the example above. Even the
-way I identified its first two pitches by
-note---middle C and the G a fifth above---depends
-on two topographical
-facts, as we might call them, in our perception of
-notes, even outside a musical context. The first
-such fact is that we hear a difference in pitch, whereby
-one note is distinguished from another, as a
-difference in relative place, one note sounding
-higher, the other note lower. This perception also
-proves to be transitive: if one note sounds higher
-than a second, and the second higher than a third,
-then the first will also sound higher than the
-third. Thus, our perception of pitch difference
-gives every note its own position along an axis
-of height. Hence my talk of the G a fifth *above*
+if we take a closer look at the terms I used for
+the melody in the example above. Even the way I
+identified its first two pitches by note---middle
+C and the G a fifth above---depends on two
+topographical facts, as we might call them, in
+our perception of notes, even outside a musical
+context. The first such fact is that we hear
+a difference in pitch, whereby one note is
+distinguished from another, as a difference in
+relative place, one note sounding higher, the
+other note lower. This perception also proves to
+be transitive: if one note sounds higher than a
+second, and the second higher than a third, then
+the first will also sound higher than the third.
+Thus, our perception of pitch difference gives
+every note its own position along an axis of
+height. Hence my talk of the G a fifth *above*
 middle C, to distinguish it, say, from the G a
 fourth below.
 
@@ -155,7 +153,7 @@ of the whole number ratio 2:1; while Victor
 Zuckerkandl deems it a miracle. But however it
 happens, mathematically or miraculously, the
 sameness we hear in notes, once their difference
-in pitch reaches the octave, effectively bounds
+in pitch reaches the octave, in effect contains
 that difference. If we pass beyond it, we
 don't encounter new notes, but only new instances,
 higher or lower, of old notes. The octave thus
@@ -176,86 +174,139 @@ change in pitch, but a change of place *within*
 the change in pitch. If we pressed the image of
 our circumference, as I am now about to do, it
 would be as if we heard the notes of a melody from
-*inside* the circumference, and were carried from
+*inside* this circumference, and were carried from
 note to note not *along* it, in a mere change of
-pitch, but *across* it, in a change of place.
+pitch, but *across* it, in a change of place. So
+understood, the circumference becomes an image
+of the space in which music moves, by becoming
+an image of our inhabitance of that space, when
+we hear music move. 
 
-To see this more clearly, consider again the
+But to see this more clearly, consider again the
 beginning of "Twinkle, Twinkle" as I described
-this above, where, as I said, we hear a leap from
-the ˆ1 tone to the ˆ5 tone *within* the change
-of pitch from middle C to G. This description
-reflects another pair of topographical facts in
-our perception of notes, once we hear these notes
-in a musical context. The first such fact is that
-we hear movement from one note to another, without
-having to hear any notes between. We so hear
-a leap from the ˆ1 tone to the ˆ5 in "Twinkle,
-Twinkle," without having to hear
-the ˆ2,ˆ3, or ˆ4 tones first. And indeed to hear
-them first would not complete the leap, as if to
-fill it in, but rather transform the leap into a
-climb, which again we would hear without needing
-to hear any of the potential notes between
-ˆ1 and ˆ2, or ˆ2 and ˆ3, and so on---of which there are
-indefinitely many in a continuum of pitch. Why this is a
-fact may be as hard to explain as the octave. But
-as a phenomenon, it seems to involve a sense of
-being oriented in the movement we hear from note to
-note. It is as if we faced the note we were moving to, and 
-reached it as a goal, without needing
-to take account of any in-between notes silently 
-passed along the way. 
+this above. As I said, we hear a leap from the ˆ1
+tone to the ˆ5 tone *within* the change of pitch
+from middle C to G. This description reflects
+another pair of topographical facts in our
+perception of notes, once we hear these notes in
+a musical context. The first such fact is that we
+hear movement from one note to another, without
+having to hear any notes between. In the case of
+"Twinkle, Twinkle", then, we hear an initial leap
+from the ˆ1 tone to the ˆ5, without having to
+hear the ˆ2,ˆ3, or ˆ4 tones first. And indeed to
+hear them first would not complete the leap, as
+if to fill it in, but rather transform the leap
+into a climb, which again we would hear, without
+needing to hear any of the potential notes between
+ˆ1 and ˆ2, or ˆ2 and ˆ3, and so on---of which
+there are indefinitely many in a continuum of
+pitch. Why this is a fact of musical perception
+may be as hard to explain as the octave. But as a
+phenomenon, it seems to involve a sense of being
+oriented in the movement we hear from note to
+note. It is as if we faced the note we were moving
+to, and reached it as a goal, without needing to
+take account of any in-between notes silently
+passed along the way.
 
 The sense of being oriented among notes is even
 clearer in the second topographical fact, which
 involves our perception of notes in at least
-*tonal* musical contexts. And it is this fact
-that forced me to shift from letters to numbers,
-when identifying the leap at the beginning of
-"Twinkle, Twinkle", from what I called the ˆ1
-tone to what I called the ˆ5 tone. For in tonal
-musical contexts---and the name "tonal" is derived
-from this fact---we will hear one note as a kind
-of center, which *orients* us with respect to the
-other notes we hear, as if to provide a place
-from which to face them. (Include dynamic quality here, as
-explanation for why we hear one note as central, and also 
-give briefer account of tonality and perception..) The central note is
-accordingly assigned the number 1 in analysis,
+those musical contexts we call *tonal*. And it is
+this fact that forced me to shift from letters
+to numbers, when identifying the initial leap
+in "Twinkle, Twinkle", from what I called the
+ˆ1 tone to what I called the ˆ5 tone. For in
+tonal musical contexts---and the name "tonal" is
+derived from this fact---we will hear one note as
+a kind of center, which *orients* us with respect
+to the other notes we hear, as if to provide a
+place from which to face them. The central note
+is accordingly assigned the number 1 in analysis,
 and the other notes assigned other numbers in
-reference to 1. And together, these topographical
-facts show why we hear the notes of a melody as
-if we were *inside* the circumference of notes
-I described above, and carried *across* it in a
-change of place rather than merely *along* it
-in a change of pitch. For once we hear one note
-in the melody as central, it is as if that note
+reference to 1. Again, why we are able to hear a
+certain note as a center for other notes is hard
+to say. But the phenomenon, as Zuckerkandl would
+remind us, is tellingly dynamic, in an orientation
+more felt than seen. We hear the central note as
+central, that is, by sensing a stability in it
+relative to the other notes, as if it provided a
+place to to face them as a center of gravity. This
+second topographical fact so informs the first:
+for we then move from note to note as if under
+the influence of a gravitational pull, requiring
+effort to overcome, in a deepened sense of having
+faced the note being moved to, and successfully
+reaching that note as a goal.
+
+Or again, to revert to the geometric image of this
+inhabitance as I described it above, we hear the
+movement in a melody, as in music more generally, 
+as if we were *inside* a circumference of notes
+arranged by pitch and bounded by the octave. 
+For once we hear one note in the melody as
+central, and especially if we hear it as center 
+of gravity, it is as if that note
 has been projected *inside* this circumference
-from its place along it. And the movement we hear
-between notes in the melody, then, will not be
-made *along* the circumference, as if we had to
-travel through every note between, but rather made
-*across* the circumference, as if we had to travel
-only through the note inside it, the central note,
-in being guided or oriented by it.
+from its place along it, allowing us to move from
+note to note not simply *along* the circumference,
+through every note between, but now 
+also *across* the circumference, through 
+the one note inside it, in being always guided by that note,
+as a center of orientation and gravity.   
 
 This is perhaps as far as the circumference image
-should be pressed. But it gives a geometric form
-to the space in which music seems to move, once we
-locate ourselves *inside* that circumference. And
-the form, in that respect, is one of inhabitance.
-To be sure, we located
-ourselves there in a mapping of the
-so-called ˆ1 tone; and to hear a note as central
-in this way relies on a very specific
-musical context produced by a very particular
-form and development of musical art. But there
-would be no such art---much less the art to
-which we owe the music of the West---unless the
-context it produced was one of perception rather
-than simply invention; and in this case, of a
-perception that we indeed inhabit what we hear.
+could, or should, be pressed. But again, it gives
+a geometric form to the complete sense made by the
+space in which music must move, to be heard as
+music at all. And this is the sense in which we
+*inhabit* that space in hearing it. To be sure,
+the development of this sense, as shown by the
+specifically *tonal* context in which we hear
+one note of a melody as central, depends on the
+like development of a particular form of musical
+art---the art to which we owe the music of the
+West. But there would be no such art to develop,
+unless the result made a difference to what we
+could hear; and in this case, to what we could
+inhabit in what we hear. And much of Western
+music's development can be explained as a kind of
+deduction from the features of a space that is
+again not merely observed, as if from without,
+but inhabited, as if from within. 
+
+If we truly inhabited the space in
+which we heard music move, for example, it seems we should not
+simply be fixed, transcendentally as it were, at
+a single center of orientation. We should rather
+be able move that center, carrying it with us
+from place to place. And move it we
+can---once Western music developed the device of
+modulation. We should also expect the movement of
+that center to happen along an axis of depth,
+away and back, not just to distinguish 
+it from the up-and-down movement between
+notes, along an axis of height, but also from a
+sense of perspective that implicitly belongs to
+our sense of orientation when we inhabit a space.
+And so we do move away and back--once Western
+music developed the harmony out of polyphony
+that the device of modulation relies upon. We
+should further expect the movement of the center to 
+clarify our sense of the 
+gravitational forces at work in such a space. And
+clarified they are, as the device of modulation
+effectively replaced the modes of chant with the
+scales of melody, by introducing chromatic tones. We
+should finally expect the movement of the center to strengthen
+our sense that we inhabit one space
+containing the places we move between, rather
+than many spaces distinguished and divided by the
+places we move between. And so it is---once equal
+temperament was proposed to solve the problem of
+tuning that the device of modulation produced by
+its increasing application.
 
 Consider, as just one example, the role of
 modulation in tonal music. Under one description,
@@ -267,17 +318,28 @@ the solution to a technical problem of tuning
 produced by its increasing use. But none of this
 would have happened, unless all of it made further
 sense, as a matter again of perception, of the
-space in which music must move to be music at all.
-And the further sense it makes of this space is
-most readily explained as a deepened sense of its inhabitance. if we consider this space one
-of inhabitance. as a deepening of our sense
-of inhabiting it. it makes further sense of this
-as a space of inhabitance. revise from here.] this
+space in which music must move to be music at
+all. And the further sense it makes of this space
+is most readily explained as a deepened sense of
+its inhabitance. if we consider this space one
+of inhabitance. as a deepening of our sense of
+inhabiting it. it makes further sense of this as
+a space of inhabitance. revise from here.] this
 description leaves the reason modulation works
 completely unaccounted for. And accounting for it
 means saying something about the sense made by
 modulation, which seems to be a sense made by our
 inhabitance of the space in which music moves.
+(Put at end) The sense therefore made by the space in which music must
+move to be music at all,
+is the sense in which we *inhabit* that space when hearing
+it. 
+music
+move. , I think, is that the space
+in which music moves makes close to complete senis inhabitance of the space in which music moves is also
+one way of understanding the development of tonality
+that for so long distinguished the music of the West.
+Consider, for example, 
 
 
 they remain contexts of perception rather than invention,
@@ -303,6 +365,11 @@ equal temperament. End with music as explorations and even conquests of
 a tonal space.
 
 More ambitious exploration, and conquest, of tonal space.
+ 
+(Frame rest of discussion as deduction from inhabitance.
+Then, in moving to issue with space, make it one
+of inhabitance, where we seem in two worlds at
+once.
 
 is that we will hear
 one note of in a melody
