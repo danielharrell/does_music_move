@@ -196,47 +196,90 @@ the ˆ2,ˆ3, or ˆ4 tones first. And indeed to hear
 them first would not complete the leap, as if to
 fill it in, but rather transform the leap into a
 climb, which again we would hear without needing
-to hear any of the potential notes, of which there are
-indefinitely many in a continuum of pitch, between
-ˆ1 and ˆ2, or ˆ2 and ˆ3, and so on. Why this is a
+to hear any of the potential notes between
+ˆ1 and ˆ2, or ˆ2 and ˆ3, and so on---of which there are
+indefinitely many in a continuum of pitch. Why this is a
 fact may be as hard to explain as the octave. But
 as a phenomenon, it seems to involve a sense of
-orientation in the movement we hear from note to
+being oriented in the movement we hear from note to
 note. It is as if we faced the note we were moving to, and 
 reached it as a goal, without needing
-to take account of any in-between notes silently
+to take account of any in-between notes silently 
 passed along the way. 
 
-The sense of orientation is even clearer, and
-more comprehensive, in the second topographical
-fact, which involves our perception of notes in
-at least *tonal* musical contexts. And it is this
-fact that forced me to shift from letters to
-numbers, when identifying the leap from what I
-called the ˆ1 tone to what I called the ˆ5 tone
-at the beginning of "Twinkle, Twinkle." For in
-tonal musical contexts---and the name "tonal" is
-derived from this fact---we will hear one note,
-the so-called ˆ1 tone, or tonic, as a kind of
-center, which *orients* us with respect to the
-other notes we hear, as if to provide a place from
-which to face them. And together, these facts of
-orientation show why we hear the notes of a melody
-as if we were *inside* the circumference of notes
+The sense of being oriented among notes is even
+clearer in the second topographical fact, which
+involves our perception of notes in at least
+*tonal* musical contexts. And it is this fact
+that forced me to shift from letters to numbers,
+when identifying the leap at the beginning of
+"Twinkle, Twinkle", from what I called the ˆ1
+tone to what I called the ˆ5 tone. For in tonal
+musical contexts---and the name "tonal" is derived
+from this fact---we will hear one note as a kind
+of center, which *orients* us with respect to the
+other notes we hear, as if to provide a place
+from which to face them. (Include dynamic quality here, as
+explanation for why we hear one note as central, and also 
+give briefer account of tonality and perception..) The central note is
+accordingly assigned the number 1 in analysis,
+and the other notes assigned other numbers in
+reference to 1. And together, these topographical
+facts show why we hear the notes of a melody as
+if we were *inside* the circumference of notes
 I described above, and carried *across* it in a
-change of place rather than merely *along* it in a
-change of pitch. For once we hear one note in the
-melody as central, it is as if that note has been
-projected *inside* this circumference from its place along
-it. And the movement we hear between notes
-in the melody, then, will not be made *along* the
-circumference, as if we had to travel through every note
-between, but rather made
-*across* the circumference, as if we had to travel only through the note inside
-it, the central note, in being guided or oriented by it. 
+change of place rather than merely *along* it
+in a change of pitch. For once we hear one note
+in the melody as central, it is as if that note
+has been projected *inside* this circumference
+from its place along it. And the movement we hear
+between notes in the melody, then, will not be
+made *along* the circumference, as if we had to
+travel through every note between, but rather made
+*across* the circumference, as if we had to travel
+only through the note inside it, the central note,
+in being guided or oriented by it.
 
-And while tonal musical contexts are the
-product of a particular form and development of musical art,
+This is perhaps as far as the circumference image
+should be pressed. But it gives a geometric form
+to the space in which music seems to move, once we
+locate ourselves *inside* that circumference. And
+the form, in that respect, is one of inhabitance.
+To be sure, we located
+ourselves there in a mapping of the
+so-called ˆ1 tone; and to hear a note as central
+in this way relies on a very specific
+musical context produced by a very particular
+form and development of musical art. But there
+would be no such art---much less the art to
+which we owe the music of the West---unless the
+context it produced was one of perception rather
+than simply invention; and in this case, of a
+perception that we indeed inhabit what we hear.
+
+Consider, as just one example, the role of
+modulation in tonal music. Under one description,
+we might simply characterize this as a device of
+musical expression that relies on the development
+of harmony out of polyphony, replaces modes with
+keys, and requires, for its widest application,
+the solution to a technical problem of tuning
+produced by its increasing use. But none of this
+would have happened, unless all of it made further
+sense, as a matter again of perception, of the
+space in which music must move to be music at all.
+And the further sense it makes of this space is
+most readily explained as a deepened sense of its inhabitance. if we consider this space one
+of inhabitance. as a deepening of our sense
+of inhabiting it. it makes further sense of this
+as a space of inhabitance. revise from here.] this
+description leaves the reason modulation works
+completely unaccounted for. And accounting for it
+means saying something about the sense made by
+modulation, which seems to be a sense made by our
+inhabitance of the space in which music moves.
+
+
 they remain contexts of perception rather than invention,
 and in this case, of a perception that we inhabit what we
 hear. xpression and
@@ -258,6 +301,8 @@ of it.) Inhabitance of world - if world as object, a
 totality, like
 equal temperament. End with music as explorations and even conquests of
 a tonal space.
+
+More ambitious exploration, and conquest, of tonal space.
 
 is that we will hear
 one note of in a melody
