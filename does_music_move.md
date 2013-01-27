@@ -65,7 +65,7 @@ challenge to liberal education---indeed, to the
 very idea of liberal education. But more on
 that in Part Two.
 
-##### Part One
+### I. The nature of the problem.
 
 So what is the problem with our talking as if
 music moved? The problem, in a word, is with
@@ -78,7 +78,8 @@ account of what I mean by the complete sense
 it makes, before offering a briefer account
 of the nonsense it makes. 
 
-To see the complete sense it makes, we can start by
+#### The sense it makes. 
+To see the sense it makes, we can start by
 comparing the movement we hear in music, with
 the variation we hear in sounds more generally.
 As examples, consider the difference between the
@@ -325,9 +326,9 @@ temperament, restricting the notes of *any* key
 to the notes of *every* key, and thereby placing
 "the whole of tonal space," as Roger Scruton has
 strikingly put it, "within reach of its every
-occupant."[^1]
+occupant."[^fn]
 
-[^1]: Roger Scruton, *The Aesthetics of Music*, p. 244.
+[^fn]: Roger Scruton, *The Aesthetics of Music*, p. 244.
 
 Along with this kind of deduction of Western
 music's development from the features of a
@@ -337,74 +338,26 @@ greater it is, the deeper it carries us into
 the space in which music moves. And by that
 measure of inhabitance, the best demonstration
 of the complete sense this space can make, is
-found not in the account I have just given for
+found not in the account I have just given of
 it, but rather in those masterpieces of Western
 music---such as Beethoven's *Eroica*---where
-we seem to hear the space in which music moves
+we seem to hear this space 
 explored to a kind of limit, in the conquest of
 it.
 
-<!-- ##### Part Two
-Consider, as just one example, the role of
-modulation in tonal music. Under one description,
-we might simply characterize this as a device of
-musical expression that relies on the development
-of harmony out of polyphony, replaces modes with
-keys, and requires, for its widest application,
-the solution to a technical problem of tuning 
-produced by its increasing use. But none of this
-would have happened, unless all of it made further
-sense, as a matter again of perception, of the
-space in which music must move to be music at
-all. And the further sense it makes of this space
-is most readily explained as a deepened sense of
-its inhabitance. if we consider this space one
-of inhabitance. as a deepening of our sense of
-inhabiting it. it makes further sense of this as
-a space of inhabitance. revise from here.] this
-description leaves the reason modulation works
-completely unaccounted for. And accounting for it
-means saying something about the sense made by
-modulation, which seems to be a sense made by our
-inhabitance of the space in which music moves.
-(Put at end) The sense therefore made by the space in which music must
-move to be music at all,
-is the sense in which we *inhabit* that space when hearing
-it. 
-music
-move. , I think, is that the space
-in which music moves makes close to complete senis inhabitance of the space in which music moves is also
-one way of understanding the development of tonality
-that for so long distinguished the music of the West.
-Consider, for example, 
+***
 
+But so much, then, for my account of the kind of sense
+this space seems to make. It is time to show why, despite
+this account, and all the masterpieces
+of Western music notwithstanding, the space in which
+music moves also makes a kind of nonsense.  
 
-they remain contexts of perception rather than invention,
-and in this case, of a perception that we inhabit what we
-hear. xpression and
-development, this fact about what we hear, 
-in being rooted in tonal
-has no doubt required the particular development there is no doubt that
-tonal musical contexts involve a considerable degree There is no doubt that our sense
-of this place has it required
-a considerable
-level of artfulness If we then take these two facts
-together, we can see (Put image back here.) And other elements of tonal musical
-contexts only 
-deepen our sense of inhabitance. being so oriented.  o------rientation e have of facing something. And one way to understand developments in the
-history of tonal music in the West ---such as harmony,
-modulation d with(Speak of image here.) (Speak of development of tonality here:
-as a way a facing something, rather than looking down it.
-Facing the entire tonal world rather than merely a segment
-of it.) Inhabitance of world - if world as object, a
-totality, like
-equal temperament. End with music as explorations and even conquests of
-a tonal space.
+#### The nonsense it makes.
+(Revise from here)
 
-More ambitious exploration, and conquest, of tonal space.
- 
-(Frame rest of discussion as deduction from inhabitance.
-Then, in moving to issue with space, make it one
+### II. The importance of the problem. 
+<!-- Then, in moving to issue with space, make it one
 of inhabitance, where we seem in two worlds at
 once.
 
