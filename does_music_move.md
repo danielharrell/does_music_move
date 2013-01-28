@@ -1,12 +1,5 @@
 ### Does Music Move?
 
-Friday Night Lecture  
-St. John's College  
-Annapolis MD  
-February 15, 2013
-
-***
-
 Does music move?
 
 Well, yes---if by "music", we meant the
@@ -27,7 +20,8 @@ all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement". For we talk as if we hear just that
 in the music---movement---and as if any piece of
-music indeed moves itself in moving us.
+music indeed moves itself in moving us, carrying
+us from moment to moment, place to place.
 
 And the talk has a point. For if we didn't
 hear music move, would we hear music at all?
@@ -45,40 +39,41 @@ But there is also a problem with this sort of
 talk, despite its point. And it is this problem
 that I wish to discuss in my lecture tonight. I
 have accordingly divided the lecture into two
-parts. In the first part, I will explain what the
-problem is. And in the second part, I will explain
-why I take the problem to be important---even
-for those of us with little interest in music.
-But since I assume rather more interest in music
-in my account of the problem itself, I will say
-this much now about my sense of its importance,
-in case it helps anyone sit through the first
-part of my lecture more expectantly, or at least
-patiently. While I present this specifically as a
-problem in our experience of music, I take it to
-be a problem, more generally, in our experience
-of the world. And at stake in the problem, on
-that level, is the prospect of our freedom in
-the world. So understood---or at least as I will
-want to understand it---the problem thus poses a
-challenge to liberal education---indeed, to the
-very idea of liberal education. But more on
-that in Part Two.
+parts. In the [first part][part one], I will
+explain what the problem is. And in the [second
+part][part two], I will explain why I take the
+problem to be important---even for those of us
+with little interest in music. But since I assume
+rather more interest in music in my account of
+the problem itself, I will say this much now
+about my sense of its importance, in case it
+helps anyone sit through the first part of my
+lecture more expectantly, or at least patiently.
+While I present this specifically as a problem
+in our experience of music, I take it to be a
+problem, more generally, in our experience of the
+world. And at stake in the problem, on that level,
+is the prospect of our freedom in the world.
+So understood---or at least as I will want to
+understand it---the problem thus poses a challenge
+to liberal education---indeed, to the very idea
+of liberal education. But more on that in [Part
+Two][part two].
 
-### I. The nature of the problem.
+#### I. The nature of the problem. [part one]
 
 So what is the problem with our talking as if
 music moved? The problem, in a word, is with
 *space*: the space, that is, in which music must
-move, if it does indeed move. For this space
-makes something close to complete sense on the
-one hand, yet something closer to nonsense on the
-other. I begin, then, with a rather long
-account of what I mean by the complete sense
-it makes, before offering a briefer account
-of the nonsense it makes. 
+move, if it does move. For this space makes
+something close to complete sense on the one hand,
+yet something closer to nonsense on the other. I
+begin, then, with a [rather long account][sense]
+of what I mean by the complete sense it makes,
+before offering a [briefer account][nonsense] of
+the nonsense it makes.
 
-#### The sense it makes. 
+##### The sense it makes. [sense]
 To see the sense it makes, we can start by
 comparing the movement we hear in music, with
 the variation we hear in sounds more generally.
@@ -124,7 +119,7 @@ theory. For this theory comprehends a topography in
 music---as I will now try to show---that is more
 discovered than invented, and in the discovery,
 more inhabited than observed. And indeed, my
-conclusion here will be that it is because we
+conclusion will be that it is because we
 finally seem to *inhabit* what we hear, in hearing
 music move, that the space in which it moves makes
 complete sense. The completeness in this sense of
@@ -282,7 +277,7 @@ music at all. And this is the sense in which we
 the development of this sense, as shown by the
 specifically *tonal* context in which we hear
 one note of a melody as central, depends on the
-like development of a particular form of musical
+like development of a specific form of musical
 art---the art to which we owe the music of the
 West. But there would be no such art to develop,
 unless the result made a difference to what we
@@ -315,7 +310,7 @@ to clarify our sense, as I described this above,
 of the gravitational forces at work in such a
 space. And clarified they are---once the use of
 modulation effectively reduced the modes of chant
-to diatonic scales. We might finally expect the
+to the major-minor scale. We might finally expect the
 movement of the center to deepen our sense that
 we inhabit *one* space, which *contains* the
 places moved between, rather than many spaces
@@ -323,12 +318,12 @@ distinguished and divided by those places. And
 deepened it is---once the use of modulation forced
 upon the tuning of a scale the leveling of equal
 temperament, restricting the notes of *any* key
-to the notes of *every* key, and thereby placing
+to the notes in *every* key, and thereby placing
 "the whole of tonal space," as Roger Scruton has
 strikingly put it, "within reach of its every
-occupant."[^fn]
+occupant."[^fn-1]
 
-[^fn]: Roger Scruton, *The Aesthetics of Music*, p. 244.
+[^fn-1]: Roger Scruton, *The Aesthetics of Music*, p. 244.
 
 Along with this kind of deduction of Western
 music's development from the features of a
@@ -341,7 +336,7 @@ of the complete sense this space can make, is
 found not in the account I have just given of
 it, but rather in those masterpieces of Western
 music---such as Beethoven's *Eroica*---where
-we seem to hear this space 
+we feel this space 
 explored to a kind of limit, in the conquest of
 it.
 
@@ -353,11 +348,182 @@ this account, and all the masterpieces
 of Western music notwithstanding, the space in which
 music moves also makes a kind of nonsense.  
 
-#### The nonsense it makes.
-(Revise from here)
+##### The nonsense it makes. [nonsense] 
 
-### II. The importance of the problem. 
-<!-- Then, in moving to issue with space, make it one
+To see the nonsense in it, we can start by
+comparing the movement we hear in music, with the
+movement of things we observe more generally. As
+examples, we can take 
+the rise and fall of a melody again, but now compare it
+to the rise and fall of our
+hand, as if in conducting it. Again, in the case
+of the melody, we hear a change of place *within*
+the change in pitch, analogous to the change of
+place we observe in the motion of our hand. But
+there is a difference, too, that I discussed
+earlier on the side of the melody. For we hear a
+movement from note to note in the melody, without
+having to hear any notes between. The motion
+happens, so we might say, *discretely*. But in the
+case of our hand, we see the movement from place
+to place happen continuously, through *all* the
+places between. And this continuity would seem
+a necessary feature of its movement. For if our
+hand got from place to place discretely, like
+the melody did, then it would look to us as if
+it reached each place not by motion, but rather
+by magic. Or at least we'd be tempted to think
+there was something in the space where the motion
+occurred, beyond just space, that was interrupting
+the continuity that the motion would otherwise
+have. But this is one reason, then, to think that
+the melody isn't really moving in space. For if it
+were, then there would be nothing to prevent it
+from moving in space continuously.
+
+But this difference between the melody's movement
+and that of the hand conducting it, points to
+a still-deeper difference. For the melody is
+*composed* of the notes it seems to move between,
+while our hand is not so composed of the places
+it moves between. But this at once explains why
+the melody has to move discretely. It has to move
+discretely, because it has *to become* what it
+is, which means passing through only those notes
+that thereby compose it, and that distinguish
+it, thus composed, from any other melody. But
+then the melody can only *be* what it is in time,
+by becoming what it is. It is time, rather than
+space, that the melody could be said to *inhabit*.
+But this is another reason, then, to think that
+the melody isn't really moving in space. For if it
+were, then there would be nothing to prevent it
+from *being* what it is in space, as an inhabitant
+of it, and remaining what it is, unchanged,
+through every change of place.
+
+And it is for these two reasons together, that the
+space in which music moves starts to make a kind
+of nonsense. For our hand, in being what it is, could be said to inhabit
+space. But then it can be *contained* by space, at every
+moment of its motion. And this means, sensically,
+that there is a hand to see, in the space where we
+see it move. By contrast, a melody, in becoming what it is,
+could be said to inhabit time. But then it *cannot* be
+contained by space, at *any* moment of its motion. 
+And this means, less sensically, that there 
+is no melody to hear, in the space where we hear
+it move.
+
+
+But this is only the start of the nonsense. Mention hearing
+motion. we have an experience of the
+space in which movement occurs in general, that
+we cannot apply to the movement of music without
+making the music disappear. From which it seems
+to follow that if the appearance of music is to be retained,
+it must be But since the music
+clearly appears, to our ear, it looks as if it
+cannot happen in the space. (But what about
+inhabitance.)
+
+Move on to inhabitance.
+
+ 
+
+<!-- the hand's
+movement. if we are to say that
+our hand has indeed moved from place to place. it is this continuity
+in the change of place that the change of place happening in space,
+the change in pitch happening in time. And we
+can take this to be analogous to the change of
+place that happens in space, within the change
+motion of our hand. One difference between these
+movements, which I already discussed on the side
+of the melody, is that
+
+
+
+Yet for all its resemblance to this flight, the
+motion we hear in music is different. And the
+difference suggests something illusory about the
+space of this motion, and thus about the motion
+itself. In the rise and fall of a melody, for
+example, what I hear is a motion from one note
+of the melody to the next, as if from one place
+to the next. is is then hard to say what exactly
+is *moving* in the melody itself, through each
+of its unmoving notes in turn. There is nothing
+to be heard , is hard to say. that corresponds
+to the bird in its flight? And this flight is
+continuous in being motion: the bird is not
+simply found in different places at different
+times; it is also seen to move continuously from
+place to place, through every place between. But
+the melody, by contrast, is carried from note to
+note discretely, without having to travel audibly
+through every note between. But then it becomes
+hard even to say how there is a *moving* through
+each note in turn, much less what it *is* that
+might be moving. And for that matter, in what
+sense is there indeed a *moving* through each
+note in turn, that corresponds to the bird's
+flight through each place in turn? We can trace
+the rise and fall of a melody with our hand---as
+if to conduct it---yet there is nothing that
+corresponds to our hand in the melody we hear, or
+more generally, to a conductor in the movement
+he conducts, or to a dancer in the music she
+dances to. (Arguably to fill in what isn't there.
+Because it moves us, it doesn't move itself.)
+
+It becomes so hard to say, in fact, that the
+reality of this motion is more readily denied
+has been more often denied than asserted in the
+history of musical aesthetics. And it is easier,
+in fact, to suppose that the reason we can hear
+a melody rise and fall, or music more generally
+move from place to place, without having to be
+an already-formed object moving relative to any
+unmoving such objects and through every place is
+because the space of this motion is illusory, and
+the motion in turn unreal. Something happening in
+time, that only seems to be happening in space.
+
+(Put Zuckerkandl quote here. All but tones, thus,
+no space in which motion can occur.)
+
+itself. (Use this at end, nothing like bird, or
+other things, or transition, thus nothing like
+space.)
+
+Yet to say we *hear* this motion in the case of
+music is one reason to doubt that it is happening
+in any *actual* space; and thus one reason to
+doubt that the motion we hear in music is real.
+For in what kind of actual space could there be a
+motion, like the rise and fall of a melody, that
+we can hear, but never see? Where the distance
+made apparent in sight, and the space so revealed
+by sight, are no intrinsic part of the perception
+of motion in question?
+
+in which a bird, for example, And we seem to
+invoke a sense of space in talking about the
+motion, for example, of the rising and falling of
+a melody.-->
+
+
+
+#### II. The importance of the problem. [part two] 
+##### Acknowledgments
+Friday Night Lecture  
+St. John's College  
+Annapolis MD  
+February 15, 2013
+(Thanks)
+<!--
+Then, in moving to issue with space, make it one
 of inhabitance, where we seem in two worlds at
 once.
 
@@ -480,6 +646,10 @@ move on the center moving through modulation and
 harmony giving depth, perhaps equal temperment) a
 topography so real as to be inhabited.
 
+Our sense of the place we inhabit is not that it is merely
+a part of some larger whole, but rather than it is finally
+that whole.
+
 But what kind of space could this be, that allows
 music to move? And where is it, in relation to
 the space we ordinarily inhabit? When we find
@@ -547,7 +717,7 @@ sense of circumference.
 implicit sense o. and to which we thus give the
 same letter such as C as label. are thereby
 grouped together under the same letter as label.
---(Pitches that are in different positions but
+(Pitches that are in different positions but
 the same place. Also not next to each other,
 but at a kind of extremity, producing a sense
 of circumference.) that we hear not just a
@@ -750,75 +920,6 @@ not just rhythm but melody and harmony---indeed
 moves, from place to place, rising and falling,
 departing and returning, very like the motion of
 a bird in flight.
-
-Yet for all its resemblance to this flight, the
-motion we hear in music is different. And the
-difference suggests something illusory about the
-space of this motion, and thus about the motion
-itself. In the rise and fall of a melody, for
-example, what I hear is a motion from one note
-of the melody to the next, as if from one place
-to the next. is is then hard to say what exactly
-is *moving* in the melody itself, through each
-of its unmoving notes in turn. There is nothing
-to be heard , is hard to say. that corresponds
-to the bird in its flight? And this flight is
-continuous in being motion: the bird is not
-simply found in different places at different
-times; it is also seen to move continuously from
-place to place, through every place between. But
-the melody, by contrast, is carried from note to
-note discretely, without having to travel audibly
-through every note between. But then it becomes
-hard even to say how there is a *moving* through
-each note in turn, much less what it *is* that
-might be moving. And for that matter, in what
-sense is there indeed a *moving* through each
-note in turn, that corresponds to the bird's
-flight through each place in turn? We can trace
-the rise and fall of a melody with our hand---as
-if to conduct it---yet there is nothing that
-corresponds to our hand in the melody we hear, or
-more generally, to a conductor in the movement
-he conducts, or to a dancer in the music she
-dances to. (Arguably to fill in what isn't there.
-Because it moves us, it doesn't move itself.)
-
-It becomes so hard to say, in fact, that the
-reality of this motion is more readily denied
-has been more often denied than asserted in the
-history of musical aesthetics. And it is easier,
-in fact, to suppose that the reason we can hear
-a melody rise and fall, or music more generally
-move from place to place, without having to be
-an already-formed object moving relative to any
-unmoving such objects and through every place is
-because the space of this motion is illusory, and
-the motion in turn unreal. Something happening in
-time, that only seems to be happening in space.
-
-(Put Zuckerkandl quote here. All but tones, thus,
-no space in which motion can occur.)
-
-itself. (Use this at end, nothing like bird, or
-other things, or transition, thus nothing like
-space.)
-
-Yet to say we *hear* this motion in the case of
-music is one reason to doubt that it is happening
-in any *actual* space; and thus one reason to
-doubt that the motion we hear in music is real.
-For in what kind of actual space could there be a
-motion, like the rise and fall of a melody, that
-we can hear, but never see? Where the distance
-made apparent in sight, and the space so revealed
-by sight, are no intrinsic part of the perception
-of motion in question?
-
-in which a bird, for example, And we seem to
-invoke a sense of space in talking about the
-motion, for example, of the rising and falling of
-a melody.
 
 Transition paragraph: mention that Zuckerkandl
 discusses this in Sound and Symbol even if not
