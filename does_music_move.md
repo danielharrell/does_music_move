@@ -45,7 +45,8 @@ part][part two], I will explain why I take the
 problem to be important---even for those of us
 with little interest in music. But since I assume
 rather more interest in music in my account of
-the problem itself, I will say this much now
+the problem itself, and that account is rather
+long, I will say this much now
 about my sense of its importance, in case it
 helps anyone sit through the first part of my
 lecture more expectantly, or at least patiently.
@@ -258,7 +259,7 @@ movement in a melody, as in music more generally,
 as if we were *inside* a circumference of notes
 arranged by pitch and bounded by the octave. 
 For once we hear one note in the melody as
-central, especially if we hear it as center 
+central, especially if we hear it as a center 
 of gravity, it is as if that note
 has been projected *inside* this circumference
 from its place along it, allowing us to move from
@@ -266,13 +267,12 @@ note to note not simply *along* the circumference,
 through every note between, but now 
 also *across* the circumference, through 
 the one note inside it, in being always guided by that note,
-as a center of orientation and gravity.   
+as a center of orientation.   
 
 This is perhaps as far as the circumference image
 could, or should, be pressed. But again, it gives
 a geometric form to the complete sense made by the
-space in which music must move, to be heard as
-music at all. And this is the sense in which we
+space in which music moves. And this is the sense in which we
 *inhabit* that space in hearing it. To be sure,
 the development of this sense, as shown by the
 specifically *tonal* context in which we hear
@@ -329,108 +329,144 @@ Along with this kind of deduction of Western
 music's development from the features of a
 space we inhabit, comes a plausible if simple
 measure of the greatness in a musical work. The
-greater it is, the deeper it carries us into
-the space in which music moves. And by that
-measure of inhabitance, the best demonstration
-of the complete sense this space can make, is
-found not in the account I have just given of
-it, but rather in those masterpieces of Western
-music---such as Beethoven's *Eroica*---where
-we feel this space 
+greater it is, the deeper it carries us into the
+space in which music moves. And by that measure
+of inhabitance, the best demonstration of the
+complete sense this space can make, is found not
+in the account I have just given of it, but rather
+in those masterpieces of Western music---such as
+Beethoven's *Eroica*---where we feel this space
 explored to a kind of limit, in the conquest of
 it.
 
 ***
 
-But so much, then, for my account of the kind of sense
-this space seems to make. It is time to show why, despite
-this account, and all the masterpieces
-of Western music notwithstanding, the space in which
-music moves also makes a kind of nonsense.  
+But so much, then, for *my* account of the kind of sense
+this space seems to make. It is time to show why it also
+makes a kind of nonsense, despite
+my account, and all the masterpieces
+of Western music notwithstanding.    
 
 ##### The nonsense it makes. [nonsense] 
 
-To see the nonsense in it, we can start by
-comparing the movement we hear in music, with the
-movement of things we observe more generally. As
-examples, we can take 
-the rise and fall of a melody again, but now compare it
-to the rise and fall of our
-hand, as if in conducting it. Again, in the case
-of the melody, we hear a change of place *within*
-the change in pitch, analogous to the change of
+To see this, we can start by comparing the
+movement we hear in music, with the movement of
+things we observe more generally. As examples,
+we can use the rise and fall of a melody like
+"Twinkle, Twinkle" again, but now compare it to
+the rise and fall of our hand, as if to follow
+it, or conduct it. In the melody, we again
+hear a change of place *within* the change in
+pitch. And this is analogous to the change of
 place we observe in the motion of our hand. But
-there is a difference, too, that I discussed
-earlier on the side of the melody. For we hear a
-movement from note to note in the melody, without
-having to hear any notes between. The motion
-happens, so we might say, *discretely*. But in the
-case of our hand, we see the movement from place
-to place happen continuously, through *all* the
-places between. And this continuity would seem
-a necessary feature of its movement. For if our
-hand got from place to place discretely, like
-the melody did, then it would look to us as if
-it reached each place not by motion, but rather
-by magic. Or at least we'd be tempted to think
-there was something in the space where the motion
-occurred, beyond just space, that was interrupting
-the continuity that the motion would otherwise
-have. But this is one reason, then, to think that
-the melody isn't really moving in space. For if it
-were, then there would be nothing to prevent it
-from moving in space continuously.
+there is also a difference. For as I discussed
+earlier, we hear the movement from note to note
+in the melody, such as the leap from ˆ1 to ˆ5 in
+"Twinkle, Twinkle," without having to hear any
+notes between. The motion happens, so we might
+say, *discretely*. By contrast, we see the hand's
+movement from place to place happen continuously,
+through *all* the places between. And this
+continuity would seem a necessary feature of its
+movement. For if our hand got from place to place
+discretely, like the melody did, then it would
+look to us as if it reached each place not by
+motion, but rather by magic. Or at least we'd be
+tempted to think there was something in the space
+where the motion occurred, beyond just space, that
+was interrupting the motion, by disrupting the
+continuity that the motion would otherwise have.
+But this is one reason, then, to think that there
+isn't really a space for the melody to move in.
+For if there were, 
+then it would allow the melody to move in it continuously
+rather than discretely.
 
-But this difference between the melody's movement
-and that of the hand conducting it, points to
-a still-deeper difference. For the melody is
-*composed* of the notes it seems to move between,
-while our hand is not so composed of the places
-it moves between. But this at once explains why
-the melody has to move discretely. It has to move
-discretely, because it has *to become* what it
-is, which means passing through only those notes
-that thereby compose it, and that distinguish
-it, thus composed, from any other melody. But
-then the melody can only *be* what it is in time,
-by becoming what it is. It is time, rather than
-space, that the melody could be said to *inhabit*.
-But this is another reason, then, to think that
-the melody isn't really moving in space. For if it
-were, then there would be nothing to prevent it
-from *being* what it is in space, as an inhabitant
-of it, and remaining what it is, unchanged,
-through every change of place.
+But this points to a still deeper difference
+between the movement of the melody and the
+movement of our hand in following it. For the
+melody is *composed* of the notes it seems to
+move between, while our hand is not so composed
+of the places it moves between. And this at once
+explains why the melody has to move discretely.
+It has to move discretely, because it has *to
+become* what it is, which means passing through
+only those notes that thereby compose it, and that
+distinguish it, thus composed, from any other
+melody. But then the melody can only *be* what
+it is by becoming so, over an interval of time.
+And in this sense, the melody is temporal rather
+than spatial. But this is then another reason, and
+more decisive reason, to think that there isn't
+really a space for the melody to move in. For if
+there were, then it would allow the melody to be
+spatial rather than temporal; which is to say, it
+would allow the melody to *be* what it is in space
+without having to become so, and to remain what it
+is, unchanged, through every change of place.
 
-And it is for these two reasons together, that the
-space in which music moves starts to make a kind
-of nonsense. For our hand, in being what it is, could be said to inhabit
-space. But then it can be *contained* by space, at every
-moment of its motion. And this means, sensically,
-that there is a hand to see, in the space where we
-see it move. By contrast, a melody, in becoming what it is,
-could be said to inhabit time. But then it *cannot* be
-contained by space, at *any* moment of its motion. 
-And this means, less sensically, that there 
-is no melody to hear, in the space where we hear
-it move.
+But let me try to put this point still another
+way, since I think it captures the nonsense 
+more clearly. The melody is not a spatial whole,
+like our hand, that space can then contain, at
+every moment of its motion. The melody is rather
+a temporal whole, that space cannot then contain,
+at *any* moment of its motion. For at any moment,
+at most, space will contain only one note of
+the melody. But this means, speaking strictly
+if nonsensically, that there is no melody to be
+heard, in the space we hear it move. When I say
+that we hear a leap in "Twinkle, Twinkle" from the 
+ˆ1 tone to the ˆ5 tone, there is nothing to hear,
+nothing audible, making the leap. But how,
+in that case, could there *be* any leap to hear?
+And what could be making it? 
 
+But this is only the start of the nonsense. For
+it might seem as if the conclusion to reach from
+this analysis is modest. We have an observed
+sense of the space in which motion ordinarily
+occurs, that we cannot apply to the movement of
+music. For applying it makes the music vanish,
+and thus makes nonsense of the movement we hear
+in the music. But what follows from this? Perhaps
+only that the space in which music moves is not
+ordinary, but extraordinary. And this is one
+way to understand my earlier defense of the
+sense---the complete sense---made by the space in
+which music moves. For as I accounted for it, this
+was not an observed sense of space, but rather
+an inhabited sense. So if there *is* a space
+for music to move in, which makes sense of the
+movement, then this space, and its relation to
+motion, will have to be understood from within, as
+a matter of inhabitance, rather than from without,
+as a matter of observation.
 
-But this is only the start of the nonsense. Mention hearing
-motion. we have an experience of the
-space in which movement occurs in general, that
-we cannot apply to the movement of music without
-making the music disappear. From which it seems
-to follow that if the appearance of music is to be retained,
-it must be But since the music
-clearly appears, to our ear, it looks as if it
-cannot happen in the space. (But what about
-inhabitance.)
+Well, fair enough. But this makes the nonsense
+of such a space even easier to defend. For what
+is it, finally, that makes an inhabited sense
+of space extraordinary rather than ordinary?
+One answer---and it is the answer given, for
+example, by Heidegger when he speaks of our
+being-in-the-world---is that an inhabited sense of
+space is extraordinary, in not stopping short of
+totality. True, we may suppose there are places
+in the world we will never encounter, or even
+places beyond the world we could never reach,
+or only hope to reach in a kind of afterlife
+and transcendence of our mortality. There may
+even be places wholly unknown to God. Still, our very
+sense of such places, like our awareness
+of the Being of beings, shows how our horizon
+of inhabitance is all-encompassing, even if our
+horizon of comprehension falls forever short of
+it. (Now move on to link between totality and
+unity.)
 
-Move on to inhabitance.
-
- 
-
+As powerful a sense of inhabitance in Beethoven, it is still
+parasitic on the sense of inhabitance we have of which
+Beethoven is only a part. 
 <!-- the hand's
 movement. if we are to say that
 our hand has indeed moved from place to place. it is this continuity
