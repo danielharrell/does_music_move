@@ -488,109 +488,64 @@ regret, what happened to us in the dream,
 didn't really happen after all.
 
 But if this is so, then we have all the reason we
-need to suppose that the space we inhabit when
-hearing music move, is the space we inhabit in
-a dream, making all the sense---and nonsense---of a
-dream. And the greater the work of music is, the
-deeper it carries us into the dream. We hear
-the sound of Beethoven's *Eroica* surge forth in
-a concert hall, seeming to making an entire world
-shake. Yet the musicians performing it in front
-of us barely move by comparison, while the notes
-they play move not at all. And once the work is
-finished, in a triumph of closure and
+need to suspect that the space we inhabit when
+hearing music move, is the space we inhabit in a
+dream, making all the sense---and nonsense---of
+a dream. And the greater the work of music is,
+the deeper it carries us into the dream. We hear
+the sound of Beethoven's *Eroica* surge forth
+in a concert hall, seeming to making an entire
+world shake. Yet the musicians performing it in
+front of us barely move by comparison, while the
+notes they play move not at all. And once the
+work is finished, in a triumph of closure and
 completeness, we are released from the dream in a
 daze, and the desire, perhaps, to have remained.
-For we leave the concert hall finding the world we
-truly inhabit unchanged by what we heard, with no
-comparable closure or completeness in the life we
-have to live.
-
-<!-- the hand's
-movement. if we are to say that
-our hand has indeed moved from place to place. it is this continuity
-in the change of place that the change of place happening in space,
-the change in pitch happening in time. And we
-can take this to be analogous to the change of
-place that happens in space, within the change
-motion of our hand. One difference between these
-movements, which I already discussed on the side
-of the melody, is that
-
-
-
-Yet for all its resemblance to this flight, the
-motion we hear in music is different. And the
-difference suggests something illusory about the
-space of this motion, and thus about the motion
-itself. In the rise and fall of a melody, for
-example, what I hear is a motion from one note
-of the melody to the next, as if from one place
-to the next. is is then hard to say what exactly
-is *moving* in the melody itself, through each
-of its unmoving notes in turn. There is nothing
-to be heard , is hard to say. that corresponds
-to the bird in its flight? And this flight is
-continuous in being motion: the bird is not
-simply found in different places at different
-times; it is also seen to move continuously from
-place to place, through every place between. But
-the melody, by contrast, is carried from note to
-note discretely, without having to travel audibly
-through every note between. But then it becomes
-hard even to say how there is a *moving* through
-each note in turn, much less what it *is* that
-might be moving. And for that matter, in what
-sense is there indeed a *moving* through each
-note in turn, that corresponds to the bird's
-flight through each place in turn? We can trace
-the rise and fall of a melody with our hand---as
-if to conduct it---yet there is nothing that
-corresponds to our hand in the melody we hear, or
-more generally, to a conductor in the movement
-he conducts, or to a dancer in the music she
-dances to. (Arguably to fill in what isn't there.
-Because it moves us, it doesn't move itself.)
-
-It becomes so hard to say, in fact, that the
-reality of this motion is more readily denied
-has been more often denied than asserted in the
-history of musical aesthetics. And it is easier,
-in fact, to suppose that the reason we can hear
-a melody rise and fall, or music more generally
-move from place to place, without having to be
-an already-formed object moving relative to any
-unmoving such objects and through every place is
-because the space of this motion is illusory, and
-the motion in turn unreal. Something happening in
-time, that only seems to be happening in space.
-
-(Put Zuckerkandl quote here. All but tones, thus,
-no space in which motion can occur.)
-
-itself. (Use this at end, nothing like bird, or
-other things, or transition, thus nothing like
-space.)
-
-Yet to say we *hear* this motion in the case of
-music is one reason to doubt that it is happening
-in any *actual* space; and thus one reason to
-doubt that the motion we hear in music is real.
-For in what kind of actual space could there be a
-motion, like the rise and fall of a melody, that
-we can hear, but never see? Where the distance
-made apparent in sight, and the space so revealed
-by sight, are no intrinsic part of the perception
-of motion in question?
-
-in which a bird, for example, And we seem to
-invoke a sense of space in talking about the
-motion, for example, of the rising and falling of
-a melody.-->
-
-
+For we leave the concert hall likely finding the
+world we truly inhabit unchanged by what we heard;
+and no comparable closure or completeness in the
+life we have to live.
 
 #### II. The importance of the problem. [part two] 
+
+Let this suffice, then, as an account of the problem with
+our talking as if music moved. What of its importance?
+Should we care that we might be dreaming when hearing music
+move---or indeed, when hearing music at all, if music is
+only music when it moves? Perhaps this is only a problem for
+lovers of music, in the prospect that what they love is
+nothing more than an illusion, and thus without any place in
+a serious life---which is to say, a life in which we refuse
+to be guided or satisfied by illusions. But those of us
+without that love likely suspected as much, in taking music,
+when it isn't simply an intrusion upon life, as a
+distraction, or at least diversion, from life.
+
+But I now want to argue that this response to the
+problem mistakes the nature and extent of it;
+and that the problem has an importance for all
+of us. And by "all of us", I mean those of us
+here tonight, who are serious enough about life
+to have pursued the kind of education---liberal
+education---that promises us the freedom required
+by a serious life. What this freedom entails may
+be hard to say, or even to know. But it seems
+safe enough to say that the freedom entailed, is
+at least a freedom from just the sort of illusion
+that music may induce---the illusion of a dream.
+For we could say that being free, in the sense
+required by a serious life, at least means being
+awake. But dreams, in giving us the illusion
+of being awake, keep us asleep. Or to speak of
+this sleep less metaphorically, we could say
+that dreams involve an illusory experience of
+inhabitance, which means they are able to make us
+not simply encounter what isn't really there, but
+to embrace it, in a satisfaction with the illusion
+that causes what *is* really there to vanish,
+in effect, along with any hope of a life that
+dispels the illusion.
+
 ##### Acknowledgments
 Friday Night Lecture  
 St. John's College  
