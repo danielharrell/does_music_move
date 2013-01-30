@@ -20,8 +20,7 @@ all this about the first movement of a symphony,
 not thinking twice about calling what we hear a
 "movement". For we talk as if we hear just that
 in the music---movement---and as if any piece of
-music indeed moves itself in moving us, carrying
-us from moment to moment, place to place.
+music indeed moves itself in moving us. 
 
 And the talk has a point. For if we didn't
 hear music move, would we hear music at all?
@@ -37,29 +36,12 @@ of music.
 
 But there is also a problem with this sort of
 talk, despite its point. And it is this problem
-that I wish to discuss in my lecture tonight. I
-have accordingly divided the lecture into two
-parts. In the [first part][part one], I will
+that I wish to discuss in my lecture tonight. I have
+divided it into two parts. In the [first part][part one], I will
 explain what the problem is. And in the [second
 part][part two], I will explain why I take the
 problem to be important---even for those of us
-with little interest in music. But since I assume
-rather more interest in music in my account of
-the problem itself, and that account is rather
-long, I will say this much now
-about my sense of its importance, in case it
-helps anyone sit through the first part of my
-lecture more expectantly, or at least patiently.
-While I present this specifically as a problem
-in our experience of music, I take it to be a
-problem, more generally, in our experience of the
-world. And at stake in the problem, on that level,
-is the prospect of our freedom in the world.
-So understood---or at least as I will want to
-understand it---the problem thus poses a challenge
-to liberal education---indeed, to the very idea
-of liberal education. But more on that in [Part
-Two][part two].
+with little interest in music. 
 
 #### I. The nature of the problem. [part one]
 
@@ -69,7 +51,7 @@ music moved? The problem, in a word, is with
 move, if it does move. For this space makes
 something close to complete sense on the one hand,
 yet something closer to nonsense on the other. I
-begin, then, with a [rather long account][sense]
+begin, then, with [an account][sense]
 of what I mean by the complete sense it makes,
 before offering a [briefer account][nonsense] of
 the nonsense it makes.
@@ -416,11 +398,26 @@ at most, space will contain only one note of
 the melody. But this means, speaking strictly
 if nonsensically, that there is no melody to be
 heard, in the space we hear it move. When I say
-that we hear a leap in "Twinkle, Twinkle" from the 
+we hear a leap in "Twinkle, Twinkle" from the 
 ˆ1 tone to the ˆ5 tone, there is nothing to hear,
 nothing audible, making the leap. But how,
 in that case, could there *be* any leap to hear?
-And what could be making it? 
+And what could be making it?
+
+On this level of analysis, the nonsense I just
+described is well-known in the philosophy of
+music, and Zuckerkandl's description of it can
+serve as an apt enough summary: "In music,
+then, there is nothing that can move, nothing
+in relation to which anything can move; there
+is nothing but tones---and they do not move;
+indeed, when they actually begin moving, the music
+vanishes. Under these circumstances, how much
+sense does it make to speak of music as tonal
+motion?"[^fn-2]
+
+[^fn-2]: Victor Zuckerkandl, *Sound and Symbol: Music and
+the External World*, pp. 83--84.
 
 But this is only the start of the nonsense. For
 it might seem as if the conclusion to reach from
@@ -444,12 +441,12 @@ a matter of inhabitance, rather than from without,
 as a matter of observation.
 
 Well, fair enough. But this makes the nonsense
-of such a space even easier to defend. For what
+of such a space even easier to see. For what
 is it, finally, that makes an inhabited sense
 of space extraordinary rather than ordinary?
-One answer---and it is the answer given, for
+Here is one answer---the answer given, for
 example, by Heidegger when he speaks of our
-being-in-the-world---is that an inhabited sense of
+being-in-the-world. An inhabited sense of
 space is extraordinary, in not stopping short of
 totality. True, we may suppose there are places
 in the world we will never encounter, or even
@@ -458,15 +455,57 @@ or only hope to reach in a kind of afterlife
 and transcendence of our mortality. There may
 even be places wholly unknown to God. Still, our very
 sense of such places, like our awareness
-of the Being of beings, shows how our horizon
+of the Being in every being, shows how our horizon
 of inhabitance is all-encompassing, even if our
 horizon of comprehension falls forever short of
-it. (Now move on to link between totality and
-unity.)
+it. 
 
-As powerful a sense of inhabitance in Beethoven, it is still
-parasitic on the sense of inhabitance we have of which
-Beethoven is only a part. 
+But in not stopping short of totality, our
+inhabited sense of space also possess unity.
+It seems there can be only one such space that
+we inhabit, lest its totality be divided by
+multiplicity. This isn't to say that we 
+experience only one space of inhabitance.
+Indeed, we experience at least two such spaces nightly, fast asleep in
+bed, but carried, still, into a dream. But it
+is to say that we credit only one such space
+with the totality, and thus the reality, of
+inhabitance---such as the space we inhabit while
+fast asleep. Any other such space we might
+inhabit---such as the space we inhabit while in a
+dream---we regard as merely part of this larger
+totality. And the credit we therefore give to the totality
+of this part, is the credit we give, indeed, to
+a dream. We still inhabit the dream, indeed more
+alertly and attentively than we inhabit the space
+in which we sleep. But in waking from
+the dream, we prove it to be part of a larger
+space of inhabitance; and this gives the dream's
+apparent totality the status of mere appearance,
+and our inhabitance of that totality, the form
+of an illusion. To our relief, or perhaps our
+regret, what happened to us in the dream,
+didn't really happen after all.
+
+But if this is so, then we have all the reason we
+need to suppose that the space we inhabit when
+hearing music move, is the space we inhabit in
+a dream, making all the sense---and nonsense---of a
+dream. And the greater the work of music is, the
+deeper it carries us into the dream. We hear
+the sound of Beethoven's *Eroica* surge forth in
+a concert hall, seeming to making an entire world
+shake. Yet the musicians performing it in front
+of us barely move by comparison, while the notes
+they play move not at all. And once the work is
+finished, in a triumph of closure and
+completeness, we are released from the dream in a
+daze, and the desire, perhaps, to have remained.
+For we leave the concert hall finding the world we
+truly inhabit unchanged by what we heard, with no
+comparable closure or completeness in the life we
+have to live.
+
 <!-- the hand's
 movement. if we are to say that
 our hand has indeed moved from place to place. it is this continuity
@@ -558,7 +597,38 @@ St. John's College
 Annapolis MD  
 February 15, 2013
 (Thanks)
-<!--
+
+<!-- Leftover stuff
+
+But since I assume
+rather more interest in music in my account of
+the problem itself, and that account is rather
+long, I will say this much now
+about my sense of its importance, in case it
+helps anyone sit through the first part of my
+lecture more expectantly, or at least patiently.
+While I present this specifically as a problem
+in our experience of music, I take it to be a
+problem, more generally, in our experience of the
+world. And at stake in the problem, on that level,
+is the prospect of our freedom in the world.
+So understood---or at least as I will want to
+understand it---the problem thus poses a challenge
+to liberal education---indeed, to the very idea
+of liberal education. But more on that in [Part
+Two][part two].
+
+Or alternative formulation: if the movement we hear
+in music is an illusion, then freedom is an illusion;
+and if freedom is illusion, then liberal education
+is an illusion. music doesn't move,
+then we can't be free, and if we can't be free,
+then any education that promises to make us free
+is an illusion.-->
+
+
+<!-- Stuff to maybe include 
+
 Then, in moving to issue with space, make it one
 of inhabitance, where we seem in two worlds at
 once.
