@@ -56,67 +56,86 @@ of what I mean by the complete sense it makes,
 before offering a [briefer account][nonsense] of
 the nonsense it makes.
 
-##### The sense it makes. [sense]
+##### The sense it makes. [sense] 
+
 To see the sense it makes, we can start by
 comparing the movement we hear in music, with
 the variation we hear in sounds more generally.
-As examples, consider the difference between the
-rise and fall of a melody---such as "Twinkle,
-Twinkle, Little Star"---and the rise and fall of
-a police or fire siren. Both involve a change in
-pitch over time. But in the melody, we sense a
-change of place *within* this change in pitch,
-as if having caused it. To hear the beginning of
-"Twinkle Twinkle", for example, is not simply to
-hear, say, middle C followed by the G a fifth
-above; it is also to hear, within this change of
-pitch, a movement---indeed, a leap---from the
-first degree of a melodic scale to the fifth, or
-otherwise put, from the ˆ1 tone to the ˆ5 tone.
-When the siren rises and falls, by contrast, we
-hear no such change of place *within* the change
-in pitch, even if we can see, or infer, the change
-of place *behind* it, in the police car or fire
-engine that produced it. Nor could we directly map
-the siren's change in pitch onto the places in a
-melodic scale, as if to treat its rise and fall as
-a proto-melody; for the siren's change in pitch
-is continuous, while the places in the scale are
-discrete.
+Consider, for example, the difference between a
+melody and a siren. Both involve a change in pitch
+over time. And we might say, in that respect,
+that both rise and fall. But unlike the siren,
+the melody does this in a kind of articulated
+space, usually conceived as a scale, which gives
+us the impression of movement, from one place to
+the next. We sense a change of place, in other
+words, *within* the melody's change in pitch, as
+if having caused it. To be more specific, suppose
+we hear the beginning of "Twinkle Twinkle, Little
+Star" on middle C, where C is followed by the G
+a fifth above. Within this change in pitch, we
+hear a change of place---from the first degree of
+a melodic scale to the fifth, or otherwise put,
+from the ˆ1 tone to the ˆ5 tone. And this change
+of place gives us the impression of a motion
+having caused the melody's change in pitch---in
+this case, the impression of a leap from the ˆ1
+to the ˆ5 having caused C to be followed by G.
+Now suppose we hear the siren rise from C to G.
+We don't hear this rise happen in the articulated
+space of a scale, and indeed the continuity of the
+change in pitch would seem to preclude it, since
+the places in a scale are discrete. But
+this means we are given no impression of movement,
+from one place to the next, by the siren's change
+in pitch. It's as if it rises only in time, not
+in space. True, we can see, or at least infer,
+a change of place *behind* the siren's change
+in pitch, in the police car or fire engine that
+produced it. But we don't hear any like change of
+place *within* the change in pitch, that might
+replace the police car or fire engine as cause,
+and turn what we hear as a signal into what we
+could hear as a melody.
 
-Of course, we may not know the names for those
-places, or even have any conception of a musical
-scale, to identify the change of place we hear
-in the melody. But this possibility is only more
-evidence of how much sense the space of musical
-movement can make, in what we might call its *own*
-terms, without the need for any theory beyond the
-music to justify it. And it reflects a striking
-fact about what it means to understand music. For
-we can develop an altogether discerning musical
-ear, while remaining all but illiterate about
-what we hear. What is more, becoming literate
-about what we hear, by studying some music theory,
-underlines the sense it makes even without such a
-theory. For this theory comprehends a topography in
-music---as I will now try to show---that is more
-discovered than invented, and in the discovery,
-more inhabited than observed. And indeed, my
-conclusion will be that it is because we
-finally seem to *inhabit* what we hear, in hearing
-music move, that the space in which it moves makes
-complete sense. The completeness in this sense of
-musical space, has to do with the experience of
-inhabitance.
+Of course, we may not know the names for the
+places in a musical scale, or even have any
+conception of such a scale, to account for the
+change of place we hear in the melody. But this
+possibility is only more evidence of how much
+sense the space of musical movement can make,
+in what we might call its *own* terms, without
+the need for any theory beyond the music to
+justify it. And it reflects a striking fact about
+what it means to understand music. For we can
+develop an altogether discerning musical ear,
+while remaining all but illiterate about what
+we hear. What is more, becoming literate about
+what we hear, by studying some music theory,
+underlines the sense it makes even without such
+a theory. For as I will now try to show, the
+topography this theory comprehends---such as the
+articulated space in which we hear the movement of
+a melody---is more discovered than invented, and
+in the discovery, more inhabited than observed.
+Indeed, my conclusion will be that it is because
+we finally seem to *inhabit* what we hear, in
+hearing music move, that the space in which it
+moves makes complete sense. The completeness in
+this sense of musical space, has to do with the
+experience of inhabitance.
 
 To begin to see what I mean by this, let us take
 a closer look at the terms I used for the melody
 in the example above. Consider, first, the way I
 identified its first two pitches by note---middle
 C and the G a fifth above. This identification
-depends on two topographical facts, as we might
+depends on three topographical facts, as we might
 call them, in our perception of notes, even
-outside a musical context. The first such fact
+outside a musical context. (The first fact I already
+mentioned in the context of a siren. Pitch forms a continuum
+that division into notes makes into a space. Places
+along a pitch continuum.) The first such fact
 is that we hear a difference in pitch, whereby
 one note is distinguished from another, as a
 difference in relative place, one note sounding
@@ -394,8 +413,8 @@ like our hand, that space can then contain, at
 every moment of its motion. The melody is rather
 a temporal whole, that space cannot then contain,
 at *any* moment of its motion. For at any moment,
-at most, space will contain only one note of
-the melody. But this means, speaking strictly
+at most, space can contain only one note of
+the melody rather than the whole of the melody. But this means, speaking strictly
 if nonsensically, that there is no melody to be
 heard, in the space we hear it move. When I say
 we hear a leap in "Twinkle, Twinkle" from the 
@@ -438,88 +457,91 @@ for music to move in, which makes sense of the
 movement, then this space, and its relation to
 motion, will have to be understood from within, as
 a matter of inhabitance, rather than from without,
-as a matter of observation.
+as a matter of observation. (Mention
+the earlier analysis of facing the note being moved to.)
 
 Well, fair enough. But this makes the nonsense
 of such a space even easier to see. For what
 is it, finally, that makes an inhabited sense
 of space extraordinary rather than ordinary?
 Here is one answer---the answer given, for
-example, by Heidegger when he speaks of our
-being-in-the-world. An inhabited sense of
-space is extraordinary, in not stopping short of
-totality. True, we may suppose there are places
-in the world we will never encounter, or even
-places beyond the world we could never reach,
-or only hope to reach in a kind of afterlife
-and transcendence of our mortality. There may
-even be places wholly unknown to God. Still, our very
-sense of such places, like our awareness
-of the Being in every being, shows how our horizon
-of inhabitance is all-encompassing, even if our
-horizon of comprehension falls forever short of
-it. 
+example, by Heidegger, when he speaks of our
+being-in-the-world. An inhabited sense of space is
+extraordinary, in not stopping short of totality.
+That is, our inhabited sense of space implicitly
+includes everything there is, known or unknown;
+anything captured in the word "Being". For it is
+beings, finally, that we take ourselves to be
+surrounded by, and our own being that provides
+the place from which to face them. This is why,
+despite our sometimes talking as if there were
+more than one world, and even more than one world
+we might inhabit, we can also talk intelligibly,
+in a simpler yet deeper way, of *the* world. And
+it is our being-in-the-world, in this sense, that
+grounds our inhabited sense of space.
 
-But in not stopping short of totality, our
-inhabited sense of space also possess unity.
-It seems there can be only one such space that
-we inhabit, lest its totality be divided by
-multiplicity. This isn't to say that we 
-experience only one space of inhabitance.
-Indeed, we experience at least two such spaces nightly, fast asleep in
-bed, but carried, still, into a dream. But it
-is to say that we credit only one such space
-with the totality, and thus the reality, of
-inhabitance---such as the space we inhabit while
-fast asleep. Any other such space we might
-inhabit---such as the space we inhabit while in a
-dream---we regard as merely part of this larger
-totality. And the credit we therefore give to the totality
-of this part, is the credit we give, indeed, to
-a dream. We still inhabit the dream, indeed more
-alertly and attentively than we inhabit the space
-in which we sleep. But in waking from
-the dream, we prove it to be part of a larger
+
+But what happens, then, when our inhabited sense of space is
+divided?---for example, between sleeping and dreaming, where
+it seems we inhabit two spaces at once? We resolve the
+division, evidently, by conferring
+worldhood on only one such space. That is, we credit only one
+such space with the totality, and thus the
+reality, of inhabitance; and regard the other space as
+merely part of this totality. The credit we give to
+its own totality, then, is the credit we give to
+a dream. We still inhabit the
+dream, indeed more alertly and attentively than we
+inhabit the bedroom in which we dream---and often
+with a sense that everything is put at stake in the
+dream, in a matter of life or death. But in waking
+from the dream, we prove it to be part of a larger
 space of inhabitance; and this gives the dream's
 apparent totality the status of mere appearance,
-and our inhabitance of that totality, the form
-of an illusion. To our relief, or perhaps our
-regret, what happened to us in the dream,
-didn't really happen after all.
+and our inhabitance of its space, the form of
+an illusion. To our relief, or perhaps our regret,
+what happened to us in the dream, didn't really
+happen after all, with nothing at stake rather than
+everything.  
 
-But if this is so, then we have all the reason we
-need to suspect that the space we inhabit when
-hearing music move, is the space we inhabit in a
-dream, making all the sense---and nonsense---of
-a dream. And the greater the work of music is,
-the deeper it carries us into the dream. We hear
-the sound of Beethoven's *Eroica* surge forth
-in a concert hall, seeming to making an entire
-world shake. Yet the musicians performing it in
-front of us barely move by comparison, while the
-notes they play move not at all. And once the
-work is finished, in a triumph of closure and
-completeness, we are released from the dream in a
-daze, and the desire, perhaps, to have remained.
-For we leave the concert hall likely finding the
-world we truly inhabit unchanged by what we heard;
-and no comparable closure or completeness in the
-life we have to live.
+But if this is so, it gives us reason to suspect
+that the space we inhabit when hearing music
+move---carried into it, for example, while seated
+in a concert hall---is the space we inhabit in a
+dream, making all the sense---and nonsense---of a
+dream. And the greater the work of music is, the
+deeper it carries us into the dream. We hear the
+sound of Beethoven's *Eroica* surge forth, seeming
+to making an entire world shake. Yet the musicians
+barely move by comparison, while
+the notes they play move not at all; and we
+ourselves stay glued to our seats---entranced.
+And once the work is finished, in a triumph of
+conclusiveness, we are released from the trance
+in a daze, and in the desire, perhaps, to have
+remained. For we leave the concert hall likely
+finding the world we truly inhabit unchanged by
+what we heard; and no comparable conclusiveness in
+the life we have to live.
 
 #### II. The importance of the problem. [part two] 
 
-Let this suffice, then, as an account of the problem with
-our talking as if music moved. What of its importance?
-Should we care that we might be dreaming when hearing music
-move---or indeed, when hearing music at all, if music is
-only music when it moves? Perhaps this is only a problem for
-lovers of music, in the prospect that what they love is
-nothing more than an illusion, and thus without any place in
-a serious life---which is to say, a life in which we refuse
-to be guided or satisfied by illusions. But those of us
-without that love likely suspected as much, in taking music,
-when it isn't simply an intrusion upon life, as a
-distraction, or at least diversion, from life.
+Let this suffice, then, as an account of the
+problem with our talking as if music moved. What
+of its importance? Should we care that we might be
+dreaming when hearing music move---or indeed, when
+hearing music at all, if music is only music when
+it moves? Perhaps this problem is only a problem
+for lovers of music, in the prospect that what
+they love is nothing more than an illusion, and
+thus without any place in a serious life---which
+is to say, a life in which we refuse to be guided
+or satisfied by illusions. But those of us without
+that love likely suspected as much, in taking
+music, when it isn't simply an intrusion upon
+life, as a distraction, or at least diversion,
+from life.
 
 But I now want to argue that this response to the
 problem mistakes the nature and extent of it;
@@ -538,13 +560,33 @@ required by a serious life, at least means being
 awake. But dreams, in giving us the illusion
 of being awake, keep us asleep. Or to speak of
 this sleep less metaphorically, we could say
-that dreams involve an illusory experience of
-inhabitance, which means they are able to make us
+that dreams involve the illusion of
+inhabitance, which means they have the power to make us
 not simply encounter what isn't really there, but
 to embrace it, in a satisfaction with the illusion
 that causes what *is* really there to vanish,
 in effect, along with any hope of a life that
 dispels the illusion.
+
+But if this is so, then the aim of liberal
+education, under one description, would be to wake
+us up, not simply from sleep, but from the kind of
+sleep in which we seem awake to ourselves. Liberal
+education, then, would aim to wake us up from
+a dream. (Put Heideggerian language here.) (Revise from here. If music is a dream --- but in fact inhabitance itself has all the features of the dream, and there is no way to be woken from it. What this means for liberal education I will conclude with.) And if one such dream is the movement
+we hear in a succession of unmoving sounds,
+then at least this is what a liberal education
+should wake us up from, and dispel the illusion
+we call music. We should then study a work of
+Beethoven's or Bach's, if at all, not as if
+it contained inexpressible truth, but something
+closer to inexcusable falsehood, which convicted
+its composer of sophistry, or sorcery, under the show of
+profundity. (That we don't study Bach). So one thing at stake is whether it is
+a dream, and if so, how would we know. An answer has
+been given, to a question hardly asked)
+
+
 
 ##### Acknowledgments
 Friday Night Lecture  
