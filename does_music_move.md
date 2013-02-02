@@ -547,39 +547,100 @@ But a moment's thought about this reveals a
 paradox. For the sense in which our hand is a
 spatial whole, which space can then contain,
 is the sense in which it can *occupy* a place,
-without having to move to it or from it. But this
-implies that space only contains the hand *at*
-a place, as an occupant of it, at any moment of
-its motion. We can grant that the hand will be at
-*every* such place over the course of the motion,
-and that this forms a continuum. But it turns out
-*not* to be the continuum of the motion itself, but
-rather just the continuum of the motion's path, 
-which as a path, doesn't move. 
+without having to move there, or from there. But
+this occupation of place implies that space only
+contains the hand *at* a place, as an occupant
+of it, at any moment of its motion. We can grant
+that the hand will be at *every* such place over
+the course of the motion, and even suppose that
+every such place taken together forms a continuum.
+But it turns out *not* to be the continuum of the
+motion itself, but rather just the continuum of
+the motion's path, which as a path, doesn't move.
 
 What is more, the most obvious way of turning our
 attention from the motion's path to the motion
 itself suggests the same analysis of the hand
 that we earlier gave of the melody---to the same
-nonsensical conclusion. We continue to say that
-*the hand* is a spatial whole, which space can then
-contain, at every moment of its motion. But the
-*motion* of the hand is rather a temporal whole,
-that space cannot then contain, at any
-moment of this motion. For at any moment,
-at most, space can contain only one place of this
-motion rather than the whole of it. But this again
-seems to mean, speaking strictly if nonsensically,
-that there is no hand to be seen, in the space
-where we see it move. Or more generally, nothing
-to be seen, in the space where we see anything
-move. But how the could there *be* any motion to
-see? And what could be making it?   
+nonsensical conclusion. The hand may be a spatial
+whole, but its motion, come to think of it, is a
+temporal whole, just like a melody. The hand may
+not be composed of the places it moves between,
+but the motion is. And this means that space
+cannot contain this motion, at any moment of
+it. For at any moment of it, at most, space can
+contain only one part of this motion rather than
+the whole of it, one place in the motion rather
+than all of the places together. But this again seems
+to mean, speaking strictly if nonsensically, that
+there is no hand to be seen, in the space where
+we see it move. Or more generally, that there is
+nothing to be seen, in the space where we see
+anything move. But how, then, could there *be* any
+motion to see? And what could be making it?
 
-<!-- When I compared the rise and
-fall of our 
-(Present problem first; then move on to liberal
-education.)
+One answer to these questions, and it seems to be
+the kind of answer given by Zeno, is that there
+*isn't* any motion to see. When we think we see
+something move, all we really see is that it
+occupies different places at different times. And
+the appearance of motion in this, is something
+like the appearance of motion on a movie screen,
+projected from a succession of stills, each of a
+single place and time, that happens too rapidly
+for us to detect. But this kind of answer to the
+question leads to a second answer, found for
+example in mathematical calculus, in which there
+*is* a motion to see. For suppose that when we
+think we see something move, all we really see
+is that it occupies different places different
+times. Still, there turn out to be more such
+places---infinitely more in fact---than we could
+ever arrange from one to the next, as if on a
+strip of film. The places are many enough, that
+is, to form a *real* continuum, beyond the mere
+appearance of one in a rapid enough succession
+from one to the next. And this makes for a real
+continuity in the motion we think we see, giving
+it all the reality it needs.
+
+There is a sense, however, in which this second
+answer misses the point. For the continuum in
+question again belongs to the motion's path rather
+than the motion itself. And indeed, the way this
+path is proved to form a continuum---for example,
+in Dedekind---is by analogy to a line, undivided
+by time, where every point upon it is
+present at once. But it is only when we conceive this
+line divided by time, as it were, where only one point upon it
+is ever present at once, that we arguably have the right 
+analogy for the continuum formed the motion
+rather than by the motion's path. But how can such a line prove
+continuous, if it is made
+of only one point at a time? 
+
+This second answer thus leads to a third
+answer, which is found implicitly, I think, in
+Aristotle, and more explicitly in Bergson. It is
+distinguished from the first answer in taking the
+motion we see to be real, and from the second
+answer in taking this reality to involve more than
+just the continuity of the motion's path. But the
+promise of this third answer comes at a price: for
+it embraces the nonsense in the paradox. That is,
+it accepts that there is indeed nothing to
+see in the space where we see
+anything move. And this is because the space where
+we can see anything actually move, on this answer, turns out to be
+the space where the motion belongs to us,
+rather than to anything we might see outside us. 
+
+<!-- Perhaps move lack of sign of illusion to
+sense in which it isn't an illusion. Also mention
+problem of temporal wholes for science.
+When I
+compared the rise and fall of our (Present problem
+first; then move on to liberal education.)
 
 in light of the aim of
 liberal education. as a problem of education. think the problem is important. (Start with liberal
