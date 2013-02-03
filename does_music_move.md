@@ -212,9 +212,8 @@ may be as hard to explain as the octave. But as a
 phenomenon, it seems to involve a sense of being
 *oriented* in the movement we hear from note to
 note. It is as if we faced the note we were moving
-to, and reached it as a goal, without needing to
-take account of any in-between notes silently
-passed along the way.
+to, and reached it as a goal, heedless of any
+notes passed along the way.
 
 The sense of being oriented among notes is even
 clearer in the second topographical fact, which
@@ -405,7 +404,7 @@ rather a temporal whole, that space *cannot* then
 contain, at *any* moment of its motion. For at any
 moment, at most, space can contain only one note
 of the melody rather than the whole of it. But
-this means, speaking strictly if nonsensically,
+this seems to mean, speaking strictly if nonsensically,
 that there is no melody to be heard, in the space
 we hear it move. When I say we hear a leap in
 "Twinkle, Twinkle" from the ˆ1 tone to the ˆ5
@@ -519,7 +518,7 @@ we experience really happens.
 
 #### II. The importance of the problem. [part two] 
 
-As I said at the beginning of my lecture, I also
+As I said at the start of my lecture, I also
 take this problem to be important. To explain
 why, I want to discuss this problem again, but
 now as a problem not simply with our experience
@@ -532,55 +531,56 @@ consider again the rise and fall of our hand, as
 it follows the rise and fall of a melody. Earlier,
 in distinguishing our hand from the melody, I said
 that we see the hand's change of place happen
-*continuously* rather than discretely, which to
+continuously rather than discretely, which to
 say: that it happens from place to place through
 *all* the places between rather than just some of
-them. I also said that this continuity seemed to
-be a necessary feature of its motion---telling us
+them. I also said that this continuity seemed 
+a necessary feature of its motion---telling us
 that the hand got from place to place by motion
 rather than by magic. I further attributed this
 continuity to the fact that our hand is a 
 *spatial* whole, that space can *then* contain, at
 *every* moment of its motion.
 
-But a moment's thought about this reveals a
-paradox. For the sense in which our hand is a
+But a moment's reflection on this reveals a
+problem. For the sense in which our hand is a
 spatial whole, which space can then contain,
-is the sense in which it can *occupy* a place,
-without having to move there, or from there. But
+is the sense in which our hand can *occupy* a place,
+without having to move there. But
 this occupation of place implies that space only
 contains the hand *at* a place, as an occupant
 of it, at any moment of its motion. We can grant
 that the hand will be at *every* such place over
 the course of the motion, and even suppose that
-every such place taken together forms a continuum.
-But it turns out *not* to be the continuum of the
+every such place together forms a continuum.
+But it turns out not to be the continuum of the
 motion itself, but rather just the continuum of
 the motion's path, which as a path, doesn't move.
 
-What is more, the most obvious way of turning our
+What is more, the most obvious way of solving
+this problem, by turning our
 attention from the motion's path to the motion
-itself suggests the same analysis of the hand
+itself, suggests the same analysis of the hand
 that we earlier gave of the melody---to the same
 nonsensical conclusion. The hand may be a spatial
-whole, but its motion, come to think of it, is a
-temporal whole, just like a melody. The hand may
+whole, but its motion is a
+temporal whole, just like a melody. So while the hand may
 not be composed of the places it moves between,
-but the motion is. And this means that space
+the motion is composed of those places. And this means that space
 cannot contain this motion, at any moment of
 it. For at any moment of it, at most, space can
 contain only one part of this motion rather than
 the whole of it, one place in the motion rather
-than all of the places together. But this again seems
-to mean, speaking strictly if nonsensically, that
+than all of the places together. But this again 
+seems to mean, speaking strictly if nonsensically, that
 there is no hand to be seen, in the space where
 we see it move. Or more generally, that there is
 nothing to be seen, in the space where we see
 anything move. But how, then, could there *be* any
 motion to see? And what could be making it?
 
-One answer to these questions, and it seems to be
-the kind of answer given by Zeno, is that there
+One answer to these questions, 
+the kind of answer Zeno might give, is that there
 *isn't* any motion to see. When we think we see
 something move, all we really see is that it
 occupies different places at different times. And
@@ -595,7 +595,7 @@ example in mathematical calculus, in which there
 think we see something move, all we really see
 is that it occupies different places different
 times. Still, there turn out to be more such
-places---infinitely more in fact---than we could
+places---infinitely more, in fact---than we could
 ever arrange from one to the next, as if on a
 strip of film. The places are many enough, that
 is, to form a *real* continuum, beyond the mere
@@ -610,14 +610,16 @@ question again belongs to the motion's path rather
 than the motion itself. And indeed, the way this
 path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
-by time, where every point upon it is
-present at once. But it is only when we conceive this
-line divided by time, as it were, where only one point upon it
-is ever present at once, that we arguably have the right 
-analogy for the continuum formed the motion
-rather than by the motion's path. But how can such a line prove
-continuous, if it is made
-of only one point at a time? 
+by time, where every point upon it is present at
+once. But it would seem only when we conceive this
+line divided by time, a time-line as it were,
+where only one point upon it is ever present at
+once, that we have the right analogy for the
+continuum formed the motion rather than by the
+motion's path. But how can this time-line prove
+continuous, at least by the exacting measure of
+mathematics, if the line is made of only one point
+at a time?
 
 This second answer thus leads to a third
 answer, which is found implicitly, I think, in
@@ -626,14 +628,54 @@ distinguished from the first answer in taking the
 motion we see to be real, and from the second
 answer in taking this reality to involve more than
 just the continuity of the motion's path. But the
-promise of this third answer comes at a price: for
-it embraces the nonsense in the paradox. That is,
-it accepts that there is indeed nothing to
-see in the space where we see
-anything move. And this is because the space where
-we can see anything actually move, on this answer, turns out to be
-the space where the motion belongs to us,
-rather than to anything we might see outside us. 
+promise of this answer comes at a price: for it
+embraces the nonsense that makes the problem a
+problem. On this answer, that is, there is indeed
+nothing to see, in the space where we see anything
+move. And this is because the space where we see
+anything move, is the space where the movement
+belongs to us, rather than to anything we might
+see outside us. In other words, motion occurs in
+the space we inhabit, rather than in the space
+we observe. In the space we observe, we only see
+the continuous path of a motion, occupied at
+every place by the thing that moves. But in the
+space we inhabit, we see the motion itself, which
+is not simply continuous but indivisible. The
+motion in this indivisible sense stretches from
+the beginning of its path to the end in a single
+bound, as if the entire path were a single place
+for the moving thing to occupy. And we experience
+this indivisibility when moving ourselves, very
+like the way we seem to move, indivisibly, from
+note to note in a melody, heedless of any notes
+passed along the way. Similarly, when moving
+ourselves, we face the end of the motion at the
+beginning of it, and reach the end as a goal,
+heedless of all the places occupied along the way.
+
+But what should we make of this answer? It makes
+the same appeal to our inhabited sense of space,
+only now to make sense of motion as such, that we
+saw might be made to make sense of the motion in
+music. But the problem with that appeal in the
+case of music, to recall, was that it left the space
+in which music moves indistinguishable from a
+dream. So does the appeal to our inhabited sense
+of space fare any better, when this is now taken
+to be the space in which anything moves? That is,
+can we know, or show, that we are not dreaming
+when we see anything move?
+
+The question put this generally might seem absurd.
+After all, to suppose we were dreaming when we
+saw anything moved, would mean supposing that
+there was something about our inhabitance of *the
+world* that proved illusory; and not simply our
+inhabitance of so-called other worlds, such as
+dreams in the ordinary sense, or music, that we
+might plausibly find illusory in their proving to be
+contained by the world, or mere parts of that totality.
 
 <!-- Perhaps move lack of sign of illusion to
 sense in which it isn't an illusion. Also mention
