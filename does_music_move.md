@@ -471,6 +471,7 @@ of space is divided?---for example, between
 sleeping and dreaming, where it seems we inhabit
 two spaces at once? We resolve the division,
 evidently, by conferring worldhood on only one
+such space, and taking it to contain the other
 such space. That is, we credit only one such
 space with the totality, and thus the reality,
 of inhabitance; and regard the other space as
@@ -480,15 +481,14 @@ to a dream. We still inhabit the dream, indeed
 more alertly and attentively than we inhabit the
 bedroom in which we dream---and often with a sense
 that everything is put at stake in the dream, in
-a matter of life or death. But in waking from
-the dream, we prove it to be part of a larger
-space of inhabitance; and this gives the dream's
-apparent totality the status of mere appearance,
-and our inhabitance of its space, the form of an
-illusion. To our relief, or perhaps our regret,
-what happened to us in the dream, didn't really
-happen after all, with nothing at stake rather
-than everything.
+a matter of life or death. But in waking from the
+dream, we prove it to be part of a larger space of
+inhabitance; and this gives the dream's apparent
+totality the status of mere appearance, and our
+inhabitance of it, the form of an illusion. To our
+relief, or perhaps our regret, what happened to us
+in the dream, didn't really happen after all; and
+there was nothing at stake rather than everything.
 
 But if this is so, then it gives us reason to
 suspect the very same thing of the space we
@@ -504,15 +504,15 @@ notes they play move not at all; and we ourselves
 stay glued to our seats---entranced. And once the
 work is finished, in a triumph of conclusiveness,
 we are released from the trance in a daze, and
-in the desire, perhaps, to have remained in the
-trance. For we leave the concert hall likely
-finding the world we truly inhabit unchanged by
-what we heard, and nothing comparable to its
-conclusiveness, in the life we have to live.
+in the desire, perhaps, to have remained. For we
+leave the concert hall likely finding the world
+we truly inhabit unchanged by what we heard, and
+nothing comparable to its conclusiveness, in the
+life we have to live.
 
 This, then, is what I take to be the problem
 with our talking as if music moved. Talking that
-way, thinking that way, fails to distinguish our
+way, thinking that way, risks a failure to distinguish our
 experience of music from a dream, in which nothing
 we experience really happens. 
 
@@ -552,7 +552,7 @@ contains the hand *at* a place, as an occupant
 of it, at any moment of its motion. We can grant
 that the hand will be at *every* such place over
 the course of the motion, and even suppose that
-every such place together forms a continuum.
+every such place taken together forms a continuum.
 But it turns out not to be the continuum of the
 motion itself, but rather just the continuum of
 the motion's path, which as a path, doesn't move.
@@ -560,13 +560,13 @@ the motion's path, which as a path, doesn't move.
 What is more, the most obvious way of solving
 this problem, by turning our
 attention from the motion's path to the motion
-itself, suggests the same analysis of the hand
+itself, suggests the same analysis of the motion 
 that we earlier gave of the melody---to the same
 nonsensical conclusion. The hand may be a spatial
 whole, but its motion is a
 temporal whole, just like a melody. So while the hand may
 not be composed of the places it moves between,
-the motion is composed of those places. And this means that space
+the motion *is* composed of those places. And this means that space
 cannot contain this motion, at any moment of
 it. For at any moment of it, at most, space can
 contain only one part of this motion rather than
@@ -593,7 +593,7 @@ question leads to a second answer, found for
 example in mathematical calculus, in which there
 *is* a motion to see. For suppose that when we
 think we see something move, all we really see
-is that it occupies different places different
+is that it occupies different places at different
 times. Still, there turn out to be more such
 places---infinitely more, in fact---than we could
 ever arrange from one to the next, as if on a
@@ -612,14 +612,13 @@ path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
 by time, where every point upon it is present at
 once. But it would seem only when we conceive this
-line divided by time, a time-line as it were,
-where only one point upon it is ever present at
-once, that we have the right analogy for the
-continuum formed the motion rather than by the
-motion's path. But how can this time-line prove
-continuous, at least by the exacting measure of
-mathematics, if the line is made of only one point
-at a time?
+line divided by time, where only one point upon it
+is ever present at once, that we have the right
+analogy for the continuum formed the motion rather
+than by the motion's path. But how can the line
+divided by time in this way prove continuous, at least by the
+exacting measure of mathematics, if the line is
+made of only one point at a time?
 
 This second answer thus leads to a third
 answer, which is found implicitly, I think, in
@@ -635,8 +634,10 @@ nothing to see, in the space where we see anything
 move. And this is because the space where we see
 anything move, is the space where the movement
 belongs to us, rather than to anything we might
-see outside us. In other words, motion occurs in
-the space we inhabit, rather than in the space
+see outside us. So there *is* a motion to see,
+when we are the ones making it. Or to put this
+claim in the terms I used earlier, motion occurs
+in the space we inhabit, rather than in the space
 we observe. In the space we observe, we only see
 the continuous path of a motion, occupied at
 every place by the thing that moves. But in the
@@ -646,13 +647,13 @@ motion in this indivisible sense stretches from
 the beginning of its path to the end in a single
 bound, as if the entire path were a single place
 for the moving thing to occupy. And we experience
-this indivisibility when moving ourselves, very
-like the way we seem to move, indivisibly, from
-note to note in a melody, heedless of any notes
-passed along the way. Similarly, when moving
-ourselves, we face the end of the motion at the
+this indivisibility when moving ourselves. For in
+that case we face the end of the motion at the
 beginning of it, and reach the end as a goal,
 heedless of all the places occupied along the way.
+And this is then very much then like the way we seem to
+move, indivisibly, from note to note in a melody,
+heedless of any notes passed along the way.
 
 But what should we make of this answer? It makes
 the same appeal to our inhabited sense of space,
@@ -660,10 +661,10 @@ only now to make sense of motion as such, that we
 saw might be made to make sense of the motion in
 music. But the problem with that appeal in the
 case of music, to recall, was that it left the space
-in which music moves indistinguishable from a
+in which music seems to move indistinguishable from a
 dream. So does the appeal to our inhabited sense
 of space fare any better, when this is now taken
-to be the space in which anything moves? That is,
+to be the space in which anything seems to move? That is,
 can we know, or show, that we are not dreaming
 when we see anything move?
 
@@ -674,15 +675,48 @@ there was something about our inhabitance of *the
 world* that proved illusory; and not simply our
 inhabitance of so-called other worlds, such as
 dreams in the ordinary sense, or music, that we
-might plausibly find illusory in their proving to be
-contained by the world, or mere parts of that totality.
+might plausibly find illusory in their proving
+to be *contained* in the world, mere parts of
+that totality. But in fact there is good reason
+to suppose something close to this about our
+inhabitance of the world; and it explains why
+a question like "Are we dreaming right now?"
+has been raised in philosophy---for example, by
+Descartes. For while we may not be dreaming when
+we see anything move, there is arguably nothing
+in our inhabitance of the world to prove this;
+for if there were, we would not inhabit
+the world but merely observe it, from some place
+outside it. To see this, consider why our dreams,
+taking "dreams" now in the ordinary sense, can
+so often contain implausible or even impossible
+events. One explanation is that while there might
+be something we encounter in a dream to wake us up
+from it, there is nothing we encounter in a dream
+to tell us we are dreaming; and this is why we
+inhabit dreams rather than merely observe them. We
+can offer this same explanation more generally:
+there is nothing we encounter in the world to tell
+us the encounter is illusory, and this is why we
+inhabit the world rather than merely observe it.  
 
-<!-- Perhaps move lack of sign of illusion to
-sense in which it isn't an illusion. Also mention
-problem of temporal wholes for science.
-When I
-compared the rise and fall of our (Present problem
-first; then move on to liberal education.)
+So this, then, is what I take to be the importance
+of the problem with our talking as if music moved.
+For it illustrates a more general problem with
+our talking as if anything moved. And talking
+that way, thinking that way, so risks a failure
+to distinguish our experience of the world from
+a dream, in which nothing we experience really
+happens.
+
+#### Conclusion
+[Solutions to the problem.]
+
+<!-- Perhaps move lack of sign of illusion
+to sense in which it isn't an illusion. Also
+mention problem of temporal wholes for science.
+When I compared the rise and fall of our (Present
+problem first; then move on to liberal education.)
 
 in light of the aim of
 liberal education. as a problem of education. think the problem is important. (Start with liberal
