@@ -543,6 +543,45 @@ a spatial whole, that space can then contain, at
 every moment of its motion.  
 
 But a moment's reflection on this reveals a
+problem. For the sense in which our hand is a
+spatial whole, which space can then contain,
+is the sense in which our hand can *occupy* a place,
+without having to move there. But
+this occupation of place implies that space only
+contains the hand *at* a place at every moment of
+its motion, as an occupant
+of each place. We can grant
+that the hand will be at *every* such place over
+the course of the motion, and even suppose that
+every such place taken together forms a continuum.
+But this turns out not to be the continuum of the
+motion itself, but rather just the continuum of
+the motion's path, which as a path, doesn't move.
+
+What is more, the most obvious way of solving this
+problem is to turn our attention from the motion's
+path to the motion itself; but this suggests
+the same analysis of the motion that we earlier
+gave of the melody---to the same nonsensical
+conclusion. The hand may be a spatial whole,
+but its motion is a temporal whole, just like a
+melody. So space cannot contain the hand's 
+entire motion at any moment of it, but only one part
+of this motion, one place in it, at a time. But
+this again seems to mean, speaking strictly if
+nonsensically, that there is no hand to be seen,
+in the space where we see it move. For the hand
+is only seen in the space it can occupy, which is
+the space where it remains unmoved. Or we could
+put the nonsense more generally like this. In any
+case of motion, what we see is a motion between
+unmoving places, of something that occupies those
+places. But this suggests we see motion, without
+seeing anything actually move. But how, then, 
+could there be any motion to see? And what could
+be making it?
+
+But a moment's reflection on this reveals a
 problem. For while our hand may be spatial in
 these respects, the motion of our hand is
 temporal, just like the melody. It *is* composed
