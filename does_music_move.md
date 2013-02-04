@@ -372,49 +372,51 @@ For if there were, then it would allow the melody
 to move in it continuously rather than discretely.
 
 But this points to a still deeper difference
-between the movement of the melody and the
-motion of our hand in following it. For the
-melody is *composed* of the notes it moves
-between, while our hand is not so composed of the
-places it moves between. And this explains at once
-why the melody has to move discretely.  It has to
-move discretely, because it has *to become* what
-it is. And this means passing through only those
-notes that compose it, and that
-distinguish it, thus composed, from any other
-melody. But then the melody can only *be* what it
-is by becoming so, over an interval of time.  And
-in this sense, the melody is temporal rather than
-spatial. But this is then another reason, and a more
-decisive reason, to think that there isn't really
-a space for the melody to move in. For if there
-were, then it would allow the melody to be spatial
-rather than temporal; which is to say, it would
-allow the melody to *be* what it is in space
-without having to become so, and to remain what it
-is, unchanged, through every change of place.
+between the movement of the melody and the motion
+of our hand in following it. For the melody is
+*composed* of the notes it moves between, while
+our hand is not so composed of the places it
+moves between. And this explains at once why the
+melody has to move discretely. It has to move
+discretely, because it has *to become* what it
+is. And this means passing through only those
+notes that compose it, and that distinguish it,
+thus composed, from any other melody. But then
+the melody can only *be* what it is by becoming
+so, over an interval of time. And in this sense,
+the melody is temporal rather than spatial. But
+this is then another reason, and a more decisive
+reason, to think that there isn't really a space
+for the melody to move in. For if there were, then
+it would allow the melody to be spatial rather
+than temporal; which is to say, it would allow the
+melody to *be* what it is in space without having
+to become so, and to remain what it is, unchanged,
+through every change of place.
 
-But let me try to put the problem with the space
-the melody moves in a different way, that captures
-the nonsense of this space more strongly. The
-melody is not a spatial whole, like our hand, but
-rather a temporal whole. But this means that the
-space the melody moves in can only contain one
-note of the melody at a time. And *this* means,
-speaking strictly if nonsensically, that there is
-no melody to hear, in the space we hear it move.
-When I say we hear a leap in "Twinkle, Twinkle"
-from the \\(\scriptstyle{\hat{1}}\\) tone to the
-\\(\scriptstyle{\hat{5}}\\) tone, there is nothing
-audible making the leap. But how, in that case,
-could there *be* any leap to hear? And what could
-be making it? Or we could put the nonsense more
-generally like this. In music, we hear a movement
-between unmoving notes. But this means we hear a
-movement without hearing anything actually move.
-And in this sense, music never makes a sound. But
-how can this be? What could we be hearing that
-never makes a sound?
+There is another way of putting these differences
+between the movement of the melody and the motion
+of our hand, which perhaps more strongly captures
+the nonsense of the space music moves in. The
+melody is not a spatial whole, like our hand,
+that space can then *contain*, at *every* moment
+of its movement. The melody is rather a temporal
+whole, that space *cannot* then contain, at *any*
+moment of its movement. For space can contain
+only one note of the melody at a time. But this
+seems to mean, speaking strictly if nonsensically,
+that there is no melody to hear, in the space we
+hear it move. When hearing a leap in "Twinkle,
+Twinkle", for example, from the one-tone to the
+five-tone, there is nothing audible making that
+leap. But how, in that case, could there *be*
+any leap to hear? And what could be making it?
+Or we could put the nonsense more generally like
+this. In music, we hear a movement between notes
+that never move. But this implies that we hear a
+movement, without hearing anything move. So how,
+in that case, could there *be* any movement to
+hear? And what could be making it?
 
 Yet this is only the start of the nonsense; and
 the end of the nonsense implicates the very
@@ -533,50 +535,36 @@ continuously rather than discretely. In other
 words, it happens from place to place through
 *all* the places between rather than just some of
 them. I also said that this continuity seemed 
-a necessary feature of its motion; for it us
+a necessary feature of its motion; for it means
 that the hand got from place to place by motion
 rather than by magic. I further attributed this
-continuity to the fact that our hand is a 
-*spatial* whole, that space can then contain, at
-every moment of its motion.
+continuity to the fact that our hand is  
+a spatial whole, that space can then contain, at
+every moment of its motion.  
 
 But a moment's reflection on this reveals a
-problem. For the sense in which our hand is a
-spatial whole, which space can then contain,
-is the sense in which our hand can *occupy* a place,
-without having to move there. But
-this occupation of place implies that space only
-contains the hand *at* a place, as an occupant
-of it, at any moment of its motion. We can grant
-that the hand will be at *every* such place over
-the course of the motion, and even suppose that
-every such place taken together forms a continuum.
-But this turns out not to be the continuum of the
-motion itself, but rather just the continuum of
-the motion's path, which as a path, doesn't move.
-
-What is more, the most obvious way of solving this
-problem is to turn our attention from the motion's
-path to the motion itself; but this suggests
-the same analysis of the motion that we earlier
-gave of the melody---to the same nonsensical
-conclusion. The hand may be a spatial whole,
-but its motion is a temporal whole, just like a
-melody. So space cannot contain the hand's entire
-motion at any moment of it, but only one part
-of the motion, one place in it, at a time. But
-this again seems to mean, speaking strictly if
-nonsensically, that there is no hand to be seen,
-in the space where we see it move. For the hand
-is only seen in the space it can occupy, which is
-the space where it remains unmoved. Or we could
-put the nonsense more generally like this. In any
-case of motion, what we see is a motion between
-unmoving places, of something that occupies those
-places. But this suggests we see motion, without
-seeing anything actually move. But how, then, 
-could there be any motion to see? And what could
-be making it?
+problem. For while our hand may be spatial in
+these respects, the motion of our hand is
+temporal, just like the melody. It *is* composed
+of the places our hand moves between, 
+and *does* have to become what it is over an
+interval of time. But this implies that there
+isn't really a space for the hand to move in; and
+the space we spoke of before was really just the
+space it stays still in, the space we might say it
+*occupies*, and which allows it to *be* what it
+is without having to become so, and to remain what
+it is, unchanged, through every change of place.
+And we can again put this new analysis of our
+hand's motion in
+simpler terms, that better capture the nonsense of
+the space that anything seems to moves in. For in
+case of anything, we see a motion between 
+places that never move, of something that occupies
+those places. But this implies that we see motion,
+without seeing anything move. So how, in
+that case, could there *be* any motion to see? And
+what could be making it?
 
 One answer to these questions, 
 the kind of answer Zeno might give, is that there
