@@ -1,5 +1,4 @@
 ### Does Music Move?
-[use movement and motion more precisely].
 Does music move?
 
 Well, yes---if by "music", we meant the
@@ -69,22 +68,22 @@ the next. We sense a change of place, in other
 words, *within* the melody's change in pitch, as
 if having caused it. To be more specific, suppose
 we hear the beginning of "Twinkle Twinkle, Little
-Star" on middle C, where C is followed by the G a
+Star" on middle-C, where C is followed by the G a
 fifth above. Within this change in pitch, we hear
 a change of place---from the first degree of a
 melodic scale to the fifth, or otherwise put, from
-the ˆ1 tone to the ˆ5 tone. And this change of
-place gives us the impression of a motion having
+the one-tone to the five-tone. And this change of
+place gives us the impression of a movement having
 caused the melody's change in pitch: in this case,
-the impression of a leap from the ˆ1 to the ˆ5
-having caused C to be followed by G. Now suppose
-we hear the siren rise from C to G. We don't hear
-this rise happen in the articulated space of a
-scale; and indeed the continuity of the siren's
-change in pitch would seem to preclude it, since
-the places in a scale are discrete. But this means
-we are given no impression of movement by the
-siren's change in pitch, from one place to the
+the impression of a leap from the one tone to the
+five, having caused C to be followed by G. Now
+suppose we hear the siren rise from C to G. We
+don't hear this rise happen in the articulated
+space of a scale; and indeed the continuity of the
+siren's change in pitch would seem to preclude it,
+since the places in a scale are discrete. But this
+means we are given no impression of movement by
+the siren's change in pitch, from one place to the
 next. It's as if the siren rises and falls only in
 time, not in space. True, we can see, or at least
 infer, a change of place *behind* the siren's
@@ -124,54 +123,54 @@ complete sense. The completeness in
 this sense of musical space, has to do with the
 experience of inhabitance.
 
-To begin to see what I mean by this, let us take
-a closer look at the terms I used for the melody
-"Twinkle, Twinkle." Consider, first, the way I
-identified its first two pitches by note---middle
-C and the G a fifth above. This identification
-depends on two topographical facts, as we might
-call them, in our perception of notes, even
-outside a musical context. The first such fact
-is that we hear a difference in pitch, whereby
-one note is distinguished from another, as a
-difference in relative place: one note sounding
-higher, the other note lower. This perception also
-proves to be transitive: if one note sounds higher
-than a second, and the second higher than a third,
-then the first will also sound higher than the
-third. Our perception of pitch difference
-so gives every note its own position along an axis
+To begin to see what I mean by this, let us
+take a closer look at the terms I used for the
+melody "Twinkle, Twinkle." Consider, first,
+the way I identified its first two pitches by
+note---middle-C and the G a fifth above. This
+identification depends on two topographical facts,
+as we might call them, in our perception of
+notes, even outside a musical context. The first
+such fact is that we hear a difference in pitch,
+whereby one note is distinguished from another, as
+a difference in relative place: one note sounding
+higher, the other note lower. This perception
+also proves to be transitive: if one note sounds
+higher than a second, and the second higher than a
+third, then the first will also sound higher than
+the third. Our perception of pitch difference so
+gives every note its own position along an axis
 of height. Hence my talk of the G a fifth *above*
-middle C, to distinguish it, say, from the G a
+middle-C, to distinguish it, say, from the C a
 fourth below.
 
-Then there is my reference just now to the
-two G's on either side of middle C, along with
-my reference to middle C itself, in order to
-distinguish that C from every other C there is.
-This repetition of note letters reflects the
-second topographical fact in our perception of
-notes: the phenomenon of the octave. For while we
-distinguish notes by their difference in pitch,
-this difference reaches a kind of limit at the
-interval called the "octave." At this interval,
-the notes sound the same, despite their difference
-in pitch, and are thus given the same letter as
-name. Exactly *why* we hear this sameness is hard
-to say: Aristotle attributed it to a perception
-of the whole number ratio 2:1; while Victor
-Zuckerkandl deems it a miracle. But however it
-happens, mathematically or miraculously, the
-sameness we hear in notes, once their difference
-in pitch reaches the octave, in effect contains
-that difference. If we pass beyond it, we
-don't encounter new notes, but only new instances,
-higher or lower, of old notes. The octave thus
-turns the axis of height, along which notes are
-arranged by pitch, into a kind of circumference,
-which continues to trace their increase or
-decrease in pitch without end, but always to the
-same place again.
+Then there is my reference just now to the two
+G's on either side of middle-C, along with my reference to
+middle-C itself, in order to
+distinguish that C from every other
+C there is. This repetition of
+note letters reflects the second topographical
+fact in our perception of notes: the phenomenon
+of the octave. For while we distinguish notes
+by their difference in pitch, this difference
+reaches a kind of limit at the interval called the
+"octave." At this interval, the notes sound the
+same, despite their difference in pitch, and are
+thus given the same letter as name. Exactly *why*
+we hear this sameness is hard to say: Aristotle
+attributed it to a perception of the whole number
+ratio two-to-one; while Victor Zuckerkandl deems it a
+miracle. But however it happens, mathematically
+or miraculously, the sameness we hear in notes,
+once their difference in pitch reaches the octave,
+in effect contains that difference. If we pass
+beyond it, we don't encounter new notes, but only
+new instances, higher or lower, of old notes.
+The octave thus turns the axis of height, along
+which notes are arranged by pitch, into a kind
+of circumference, which continues to trace their
+increase or decrease in pitch without end, but
+always to the same place again.
 
 Yet this image, of notes now arranged into a
 circumference by the phenomenon of the octave,
@@ -191,27 +190,27 @@ understood, the circumference becomes an image of
 the space music moves in, by becoming an
 image of our inhabitance of that space. 
 
-But to see this more clearly, consider again
-the beginning of "Twinkle, Twinkle." As I said,
-we hear a leap from the ˆ1 tone to the ˆ5 tone
-*within* the change of pitch from middle C to
+But to see this more clearly, consider again the
+beginning of "Twinkle, Twinkle." As I said, we
+hear a leap from the one tone to the five tone
+*within* the change of pitch from middle-C to
 G. This description reflects another pair of
 topographical facts in our perception of notes,
 once we hear these notes in a musical context.
 The first such fact is that we hear movement from
 one note to another, without having to hear any
 notes between. In the case of "Twinkle, Twinkle",
-we hear an initial leap from the ˆ1 tone to
-the ˆ5, without having to hear the ˆ2,ˆ3, or ˆ4
-tones first. And indeed to hear them first would
-not complete the leap, as if to fill it in, but
-rather transform the leap into a climb. Why this
-is a fact of musical perception may be as hard
-to explain as the octave. But as a phenomenon,
-it seems to involve a sense of being *oriented*
-in the movement we hear from note to note. It is
-as if we faced the note we were moving to, and
-reached it as a goal.
+we hear an initial leap from the one-tone to the
+five-, without having to hear the two-, three-,
+and four-tone first. And indeed to hear them first
+would not complete the leap, as if to fill it
+in, but rather transform the leap into a climb.
+Why this is a fact of musical perception may
+be as hard to explain as the octave. But as a
+phenomenon, it seems to involve a sense of being
+*oriented* in the movement we hear from note to
+note. It is as if we faced the note we were moving
+to, and reached it as a goal.
 
 The sense of being oriented among notes is even
 clearer in the second topographical fact, which
@@ -219,16 +218,16 @@ involves our perception of notes in at least
 those musical contexts we call *tonal*. And it is
 this fact that forced me to shift from letters
 to numbers, when identifying the initial leap
-in "Twinkle, Twinkle", from what I called the
-ˆ1 tone to what I called the ˆ5 tone. For in
+in "Twinkle, Twinkle", from what I called "the
+one-tone" to what I called "the five-tone". For in
 tonal musical contexts---and the name "tonal" is
 derived from this fact---we will hear one note as
 a kind of center, which *orients* us with respect
 to the other notes we hear, as if to provide a
 place from which to face them. The central note
-is accordingly assigned the number 1 in analysis,
+is accordingly assigned the number "one" in analysis,
 and the other notes assigned other numbers in
-reference to 1. Again, why we are able to hear a
+reference to "one". Again, why we are able to hear a
 certain note as a center for other notes is hard
 to say. But the phenomenon, as Zuckerkandl would
 remind us, is dynamic, in an orientation
@@ -340,41 +339,41 @@ of Western music notwithstanding.
 
 ##### The nonsense it makes. [nonsense] 
 
-To see this, we can start by now comparing the
-movement we hear in music, with the movement of
-things we observe more generally. Consider, for
+To see this, we can start by now comparing
+the movement we hear in music, with motion as
+we observe this more generally. Consider, for
 example, the difference between the movement of
 a melody, like "Twinkle, Twinkle" again, and the
-movement of our hand in following that melody, as
-if to conduct it. We would say that both rise and
+motion of our hand in following that melody, as
+if to conduct it. We could say that both rise and
 fall, and do so not just in time but in space,
 through a discernible change of place. But there
 is also a difference. For as I discussed earlier,
 we hear the change of place in the melody, such
-as the leap from ˆ1 to ˆ5 in "Twinkle, Twinkle",
-without having to hear any notes between. The
-motion happens, so we might say, *discretely*. By
-contrast, we see the hand's change of place happen
-*continuously*, from place to place through *all*
-the places between. And this continuity would
-seem a necessary feature of its movement. For
-if our hand got from place to place discretely,
-like the melody did, skipping places along
-the way, then it would look to us as if our hand
-reached each place not by motion, but rather by
-magic. Or at least we would be tempted to think
-there was something in the space where the motion
-occurred, beyond *just* space, that was 
-interrupting the motion, by disrupting the continuity
-the motion would otherwise have. But this is one
-reason, then, to think that there isn't really
-a space for the melody to move in. For if there
-were, then it would allow the melody to move in it
-continuously rather than discretely.
+as the leap from the one-tone to the five-tone in
+"Twinkle, Twinkle", without having to hear any
+tones between. The movement happens, so we might
+say, *discretely*. By contrast, we see the hand's
+change of place happen *continuously*, from place
+to place through *all* the places between. And
+this continuity would seem a necessary feature
+of its motion. For if our hand got from place to
+place discretely, like the melody did, skipping
+places along the way, then it would look to us as
+if our hand reached each place not by motion, but
+rather by magic. Or at least we would be tempted
+to think there was something in the space where
+the motion occurred, beyond *just space*, that
+was interrupting the motion, disrupting the
+continuity the motion would otherwise have. But
+this is one reason, then, to think that there
+isn't really a space for the melody to move in.
+For if there were, then it would allow the melody
+to move in it continuously rather than discretely.
 
 But this points to a still deeper difference
 between the movement of the melody and the
-movement of our hand in following it. For the
+motion of our hand in following it. For the
 melody is *composed* of the notes it moves
 between, while our hand is not so composed of the
 places it moves between. And this explains at once
@@ -395,27 +394,27 @@ allow the melody to *be* what it is in space
 without having to become so, and to remain what it
 is, unchanged, through every change of place.
 
-But let me try to put this point still another
-way, since I think it captures the nonsense
-more strongly. The melody is not a spatial whole,
-like our hand, that space can then *contain*,
-at *every* moment of its motion. The melody is
-rather a temporal whole, that space *cannot* then
-contain, at *any* moment of its motion. For space
-can contain only one note of the melody at a time.
-But this seems to mean, speaking strictly if
-nonsensically, that there is no melody to be
-heard, in the space we hear it move. When I say
-we hear a leap in "Twinkle, Twinkle" from the ˆ1
-tone to the ˆ5 tone, there is nothing to hear,
-nothing audible, making the leap. But how, in that
-case, could there *be* any leap to hear? And what
-could be making it? Or we could put the nonsense more
-generally like this. In music, we hear a movement between
-unmoving notes. But this means we hear a movement
-without hearing anything actually move. And in this sense,
-music never makes a sound. But how can this be?
-What could we be hearing that never makes a sound?
+But let me try to put the problem with the space
+the melody moves in a different way, that captures
+the nonsense of this space more strongly. The
+melody is not a spatial whole, like our hand, but
+rather a temporal whole. But this means that the
+space the melody moves in can only contain one
+note of the melody at a time. And *this* means,
+speaking strictly if nonsensically, that there is
+no melody to hear, in the space we hear it move.
+When I say we hear a leap in "Twinkle, Twinkle"
+from the \\(\scriptstyle{\hat{1}}\\) tone to the
+\\(\scriptstyle{\hat{5}}\\) tone, there is nothing
+audible making the leap. But how, in that case,
+could there *be* any leap to hear? And what could
+be making it? Or we could put the nonsense more
+generally like this. In music, we hear a movement
+between unmoving notes. But this means we hear a
+movement without hearing anything actually move.
+And in this sense, music never makes a sound. But
+how can this be? What could we be hearing that
+never makes a sound?
 
 Yet this is only the start of the nonsense; and
 the end of the nonsense implicates the very
@@ -574,24 +573,24 @@ the space where it remains unmoved. Or we could
 put the nonsense more generally like this. In any
 case of motion, what we see is a motion between
 unmoving places, of something that occupies those
-places. But this suggests we see movement, without
+places. But this suggests we see motion, without
 seeing anything actually move. But how, then, 
-could there be any movement to see? And what could
+could there be any motion to see? And what could
 be making it?
 
 One answer to these questions, 
 the kind of answer Zeno might give, is that there
-*isn't* any movement to see. When we think we see
+*isn't* any motion to see. When we think we see
 something move, all we really see is that it
 occupies different places at different times. And
-the appearance of movement in this, is something
-like the appearance of movement on a movie screen,
+the appearance of motion in this, is something
+like the appearance of motion on a movie screen,
 projected from a succession of stills, each of a
 single place and time, that happens too rapidly
 for us to detect. But this kind of answer to the
 question leads to a second answer, found for
 example in mathematical calculus, in which there
-*is* a movement to see. For suppose that when we
+*is* a motion to see. For suppose that when we
 think we see something move, all we really see
 is that it occupies different places at different
 times. Still, there turn out to be more such
@@ -601,12 +600,12 @@ strip of film. The places are many enough, that
 is, to form a *real* continuum, beyond the mere
 appearance of one in a rapid enough succession
 from one place to the next. And this makes for a real
-continuity in the movement we think we see, giving
+continuity in the motion we think we see, giving
 it all the reality it needs.
 
 There is a sense, however, in which this second
 answer misses the point. For the continuum in
-question again belongs to the movement's path rather
+question again belongs to the motion's path rather
 than the motion itself. And indeed, the way this
 path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
@@ -632,7 +631,7 @@ embraces the nonsense that makes the problem a
 problem. On this answer, that is, there is indeed
 nothing to see, in the space where we see anything
 move. And this is because the space where we see
-anything move, is the space where the movement
+anything move, is the space where the motion
 belongs to us, rather than to anything we might
 see outside us. So there *is* a motion to see,
 when we are the ones making it. Or to put this
@@ -659,7 +658,7 @@ way.
 But what should we make of this answer? It
 makes the same appeal to our inhabited sense of
 space that we saw might be used to make sense
-of the motion in music, only now to make sense
+of the movement in music, only now to make sense
 of motion as such. But the problem with that
 appeal in the case of music, to recall, was that
 it left the space in which music seems to move
