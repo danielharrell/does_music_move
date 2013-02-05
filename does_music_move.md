@@ -371,7 +371,7 @@ isn't really a space for the melody to move in.
 For if there were, then it would allow the melody
 to move in it continuously rather than discretely.
 
-But this points to a still deeper difference
+But this reflects a still deeper difference
 between the movement of the melody and the motion
 of our hand in following it. For the melody is
 *composed* of the notes it moves between, while
@@ -401,10 +401,10 @@ then there would be a melody to hear, when we hear
 it move. But there isn't. We hear the leap in
 "Twinkle, Twinkle", for example, without hearing
 anything leap. All we hear are the unleaping
-notes, between which the leap made. And this is
+notes, between which the leap is silently made. And this is
 the case with music in general. All we hear are
-the unmoving notes, between which a movement
-is made. So we hear a movement, without hearing
+unmoving notes, between which a movement
+is made. So we hear movement, without hearing
 anything move. But how, in that case, could there
 *be* any movement to hear? And what could be
 making it?
@@ -509,92 +509,48 @@ we experience really happens.
 
 #### II. The importance of the problem. [part two] 
 
-As I said at the start of my lecture, I also
-take this problem to be important. To explain
-why, I want to discuss this problem again, but
-now as a problem not simply with our experience
-of music, but more generally, with our experience
-of the world. For we talk, and think, not just as
-if music moved, but as if *anything* moved. But
-this too involves a kind of nonsense, known since
-the time of Parmenides and Zeno. To see this,
-consider again the rise and fall of our hand, as
-it follows the rise and fall of a melody. Earlier,
-in distinguishing our hand from the melody, I said
-that we see the hand's change of place happen
-continuously rather than discretely. In other
-words, it happens from place to place through
-*all* the places between rather than just some of
-them. I also said that this continuity seemed 
-a necessary feature of its motion; for it means
-that the hand got from place to place by motion
-rather than by magic. I further attributed this
-continuity to the fact that our hand is  
-a spatial whole, that space can then contain, at
-every moment of its motion.  
-
-But a moment's reflection on this reveals a
-problem. For the sense in which our hand is a
-spatial whole, which space can then contain,
-is the sense in which our hand can *occupy* a place,
-without having to move there. But
-this occupation of place implies that space only
-contains the hand *at* a place at every moment of
-its motion, as an occupant
-of each place. We can grant
-that the hand will be at *every* such place over
-the course of the motion, and even suppose that
-every such place taken together forms a continuum.
-But this turns out not to be the continuum of the
-motion itself, but rather just the continuum of
-the motion's path, which as a path, doesn't move.
-
-What is more, the most obvious way of solving this
-problem is to turn our attention from the motion's
-path to the motion itself; but this suggests
-the same analysis of the motion that we earlier
-gave of the melody---to the same nonsensical
-conclusion. The hand may be a spatial whole,
-but its motion is a temporal whole, just like a
-melody. So space cannot contain the hand's 
-entire motion at any moment of it, but only one part
-of this motion, one place in it, at a time. But
-this again seems to mean, speaking strictly if
-nonsensically, that there is no hand to be seen,
-in the space where we see it move. For the hand
-is only seen in the space it can occupy, which is
-the space where it remains unmoved. Or we could
-put the nonsense more generally like this. In any
-case of motion, what we see is a motion between
-unmoving places, of something that occupies those
-places. But this suggests we see motion, without
-seeing anything actually move. But how, then, 
-could there be any motion to see? And what could
-be making it?
-
-But a moment's reflection on this reveals a
-problem. For while our hand may be spatial in
-these respects, the motion of our hand is
-temporal, just like the melody. It *is* composed
-of the places our hand moves between, 
-and *does* have to become what it is over an
-interval of time. But this implies that there
-isn't really a space for the hand to move in; and
-the space we spoke of before was really just the
-space it stays still in, the space we might say it
-*occupies*, and which allows it to *be* what it
-is without having to become so, and to remain what
-it is, unchanged, through every change of place.
-And we can again put this new analysis of our
-hand's motion in
-simpler terms, that better capture the nonsense of
-the space that anything seems to moves in. For in
-case of anything, we see a motion between 
+As I said at the start of my lecture, I also take
+this problem to be important. To explain why,
+I want to discuss this problem again, but now
+as a problem not simply with our experience of
+music, but more generally, with our experience
+of the world. For we talk, and think, not just
+as if music moved, but as if *anything* moved.
+But this too involves a kind of nonsense, known
+since the time of Parmenides and Zeno. To see
+this, consider again how our hand moves 
+as it follows the rise and fall of a melody.
+The hand itself may be spatial, but its motion is
+just as temporal as the melody. It too is composed
+of the places moved between, and has to
+become what it is over an interval of time. But
+this seems to mean there isn't really 
+a space for the hand to move in, just like there
+isn't a space for the melody to move in. And when
+we characterized this space earlier as allowing
+the hand but not the melody to *be* what it is in
+space without having to become so, and to remain
+what it is, unchanged, through every change of
+place, our
+earlier description of such a space for the hand
+is really of the space the hand stays unmoved in, stays
+still, True, we
+supposed there were such a space for the hand in
+our earlier analysis, And the space we spoke of
+before was really just the space it stays still
+in, the space we might say it *occupies*, and
+which allows it to *be* what it is without having
+to become so, and to remain what it is, unchanged,
+through every change of place. And we can again
+put this new analysis of our hand's motion in
+simpler terms, that better capture the nonsense
+of the space that anything seems to moves in.
+For in case of anything, we see a motion between
 places that never move, of something that occupies
 those places. But this implies that we see motion,
-without seeing anything move. So how, in
-that case, could there *be* any motion to see? And
-what could be making it?
+without seeing anything move. So how, in that
+case, could there *be* any motion to see? And what
+could be making it?
 
 One answer to these questions, 
 the kind of answer Zeno might give, is that there
