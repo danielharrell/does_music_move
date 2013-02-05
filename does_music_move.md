@@ -1,4 +1,5 @@
 ### Does Music Move?
+
 Does music move?
 
 Well, yes---if by "music", we meant the
@@ -45,12 +46,9 @@ problem to be important.
 So what is the problem with our talking as if
 music moved? The problem, in a word, is *space*:
 the space we hear music move in.
-For this space makes something close to complete
-sense on the one hand, yet something closer to
-nonsense on the other. I begin, then, with [an
-account][sense] of what I mean by the complete
-sense it makes, before offering a [briefer
-account][nonsense] of the nonsense it makes.
+For this space makes something close to [complete
+sense][sense] on the one hand, yet something closer to
+[nonsense][nonsense] on the other.
 
 ##### The sense it makes. [sense] 
 
@@ -145,37 +143,37 @@ middle-C, to distinguish it, say, from the C a
 fourth below.
 
 Then there is my reference just now to the two
-G's on either side of middle-C, along with my reference to
-middle-C itself, in order to
-distinguish that C from every other
-C there is. This repetition of
-note letters reflects the second topographical
-fact in our perception of notes: the phenomenon
-of the octave. For while we distinguish notes
-by their difference in pitch, this difference
-reaches a kind of limit at the interval called the
-"octave." At this interval, the notes sound the
-same, despite their difference in pitch, and are
-thus given the same letter as name. Exactly *why*
-we hear this sameness is hard to say: Aristotle
-attributed it to a perception of the whole number
-ratio two-to-one; while Victor Zuckerkandl deems it a
-miracle. But however it happens, mathematically
-or miraculously, the sameness we hear in notes,
-once their difference in pitch reaches the octave,
-in effect contains that difference. If we pass
-beyond it, we don't encounter new notes, but only
-new instances, higher or lower, of old notes.
-The octave thus turns the axis of height, along
-which notes are arranged by pitch, into a kind
-of circumference, which continues to trace their
-increase or decrease in pitch without end, but
-always to the same place again.
+G's on either side of middle-C, along with
+my reference to middle-C itself, in order to
+distinguish that C from every other C there is.
+This repetition of note letters reflects the
+second topographical fact in our perception of
+notes: the phenomenon of the octave. For while we
+distinguish notes by their difference in pitch,
+this difference reaches a kind of limit at the
+interval called the "octave." At this interval,
+the notes sound the same, despite their difference
+in pitch, and are thus given the same letter as
+name. Exactly *why* we hear this sameness is hard
+to say: Aristotle attributed it to a perception of
+the whole number ratio two-to-one; while Victor
+Zuckerkandl deems it a miracle. But however it
+happens, mathematically or miraculously, the
+sameness we hear in notes, once their difference
+in pitch reaches the octave, in effect contains
+that difference. If we pass beyond it, we don't
+encounter new notes, but only new instances,
+higher or lower, of old notes. The octave thus
+turns the axis of height, along which notes are
+arranged by pitch, into a kind of circumference,
+which continues to trace their increase or
+decrease in pitch without end, but always to the
+same place again.
 
 Yet this image, of notes now arranged into a
-circumference by the phenomenon of the octave,
+circumference by the octave,
 is not yet an image of the space music
-moves in. For it only comprehends the change of pitch
+moves in. For it only comprehends the change in pitch
 involved, as we might conceive this change to
 carry us *along* the circumference. But in hearing
 a melody, to recall, we hear not only a change in
@@ -411,11 +409,11 @@ making it?
 
 Yet this is only the start of the nonsense; and
 the end of the nonsense implicates the very
-way we seem to inhabit the space in which we
-hear music move. We can see this through an
+way we seem to inhabit the space we
+hear music move in. We can see this through an
 objection to the analysis I just gave. True, the
-objection runs, we have a sense of the space in
-which motion ordinarily occurs, that we cannot
+objection runs, we have a sense of the space 
+motion ordinarily occurs in, that we cannot
 apply to the movement of music. For applying it
 makes nonsense of the movement, by depriving
 this movement of any object to which it could be
@@ -513,19 +511,40 @@ As I said at the start of my lecture, I also take
 this problem to be important. To explain why,
 I want to discuss this problem again, but now
 as a problem not simply with our experience of
-music, but more generally, with our experience
-of the world. For we talk, and think, not just
-as if music moved, but as if *anything* moved.
-But this too involves a kind of nonsense, known
-since the time of Parmenides and Zeno. To see
-this, consider again how our hand moves 
-as it follows the rise and fall of a melody.
-The hand itself may be spatial, but its motion is
-just as temporal as the melody. It too is composed
-of the places moved between, and has to
-become what it is over an interval of time. But
-this seems to mean there isn't really 
-a space for the hand to move in, just like there
+music, but more generally, with our experience of
+the world. For we talk, and think, not just as
+if music moved, but as if *anything* moved. But
+this too involves a kind of nonsense, known since
+the time of Parmenides and Zeno. Space preventing
+the melody from moving continuously through it,
+and to remain unchanged through every change of
+place. But these are not sufficient to distinguish
+the sense in which something merely occupies
+every such place from a sense in which it is
+indeed moving through every such place. space
+from the sense in which it moves through space. Space prevents the melody from being
+spatial, to be contained by space. Space allows
+what moves to be contained by it.  But this is not what it means to move in
+space, but to occupy space. Space allows what
+inhabits it to be spatial. But in this sense space
+is occupied by hand rather than traveled through
+by hand. (Perhaps use
+containing language.) To see this,
+consider again why there really isn't a space for
+music to move in, but there is a space for our
+hand to move in: because if there were, it would
+allow a melody, like it allows our hand, to move continuously rather than
+discretely. But this means it would allow a
+melody, like it allows our hand, to
+be what it is in space without having to become
+so, and to remain what it is, unchanged, through
+every change of place. , rather than having to become so what it
+is musiof motion makes
+nonsense of the space music moves in is
+nonsensical, on the analysis above. It forces the
+melody to move discretely rather than
+continuously, and in a becoming of what it is, doesn't
+allow for a melody, for example, to *be* what it is there
 isn't a space for the melody to move in. And when
 we characterized this space earlier as allowing
 the hand but not the melody to *be* what it is in
