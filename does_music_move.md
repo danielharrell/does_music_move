@@ -369,74 +369,78 @@ isn't really a space for the melody to move in.
 For if there were, then it would allow the melody
 to move in it continuously rather than discretely.
 
-But this reflects a still deeper difference
-between the movement of the melody and the motion
-of our hand in following it. For the melody is
-*composed* of the notes it moves between, while
-our hand is not so composed of the places it
-moves between. And this explains at once why the
-melody has to move discretely. It has to move
-discretely, because it has *to become* what it
-is. And this means passing through only those
+But this reflects a still deeper
+difference between the movement of the melody
+and the motion of our hand in following it. And
+this difference involves the matter of identity
+rather than continuity. For
+the melody is *composed* of the notes it moves
+between, while our hand is not so composed of the
+places it moves between. And this explains at once
+why the melody has to move discretely. It has to
+move discretely, because it has *to become* what
+it is. And this means passing through only those
 notes that compose it, and that distinguish it,
 thus composed, from any other melody. But then
 the melody can only *be* what it is by becoming
 so, over an interval of time. And in this sense,
-the melody is temporal rather than spatial. But
+the melody is temporal rather than spatial, with
+an identity in time rather than space. But
 this is then another reason, and a more decisive
 reason, to think that there isn't really a space
 for the melody to move in. For if there were, then
-it would allow the melody to be spatial rather
-than temporal; which is to say, it would allow the
-melody to *be* what it is in space without having
-to become so, and to remain what it is, unchanged,
-through every change of place.
+it would allow the melody to possess an identity
+in space; which is to say, it would allow
+the melody to *be* what it is in space
+without having to become so, and to remain what it
+is, unchanged, through every change of place.
 
 Or to put this point a different way, that perhaps
 captures the nonsense more strongly: if there
 really were a space for the melody to move in,
-then there would be a melody to hear, when we hear
-it move. But there isn't. We hear the leap in
-"Twinkle, Twinkle", for example, without hearing
-anything leap. All we hear are the unleaping
-notes, between which the leap is silently made. And this is
-the case with music in general. All we hear are
-unmoving notes, between which a movement
-is made. So we hear movement, without hearing
-anything move. But how, in that case, could there
-*be* any movement to hear? And what could be
-making it?
+then there would be a melody to hear, in the
+space where we hear it move. But there isn't. We
+hear the leap in "Twinkle, Twinkle", for example,
+without hearing anything making the leap. For we
+hear this leap being made between unleaping notes,
+without hearing anything further to which we might
+attribute the leap. And this is the case with
+music in general. We hear a movement being made
+between unmoving notes, without hearing anything
+further to which we might attribute the movement.
+So we hear movement, without hearing anything
+making the movement. But how, in that case, could there *be* any
+movement to hear? And what could be making it?
 
-Yet this is only the start of the nonsense; and
-the end of the nonsense implicates the very
-way we seem to inhabit the space we
-hear music move in. We can see this through an
-objection to the analysis I just gave. True, the
-objection runs, we have a sense of the space 
-motion ordinarily occurs in, that we cannot
-apply to the movement of music. For applying it
-makes nonsense of the movement, by depriving
-this movement of any object to which it could be
-attributed. But what follows from this? Perhaps
-only that the space in which music moves is not
-ordinary, but extraordinary. And this is one
-way to understand my earlier defense of the
-sense---the complete sense---made by the space in
-which music moves. For as I accounted for it, this
-was not an observed sense of space, but rather an
-inhabited sense. The sense, for example, in which
-we *face* the note being moved to, and reach it as a
-goal. So if there *is* a space for music to move
-in, which makes sense of the movement, then this
-space will have to be understood from within, as a
-matter of inhabitance, rather than from without,
-as a matter of observation. 
+Yet this is only the start of the nonsense. And
+the end of the nonsense implicates our very
+inhabitance of the space music moves in. We
+can see this through an objection to the analysis
+I just gave. True, the objection runs, we have a
+sense of the space motion ordinarily occurs in,
+that we cannot apply to the movement of music.
+For applying it makes nonsense of the movement,
+by depriving this movement of any object to which
+it might be attributed. But what follows from
+this? Perhaps only that the space music moves
+in is not ordinary, but extraordinary. And this
+is one way to understand my earlier defense of
+the sense---the complete sense---made by this
+space. For this was not an observed sense of
+space, but rather an inhabited sense. The sense,
+for example, in which we *face* the note being
+moved to, and reach it as a goal. So if there
+*is* a space for music to move in, which makes
+sense of the movement, then this space will have
+to be understood from within, as a matter of
+inhabitance, rather than from without, as a matter
+of observation.
 
 Well, fair enough. But this makes the nonsense
 of such a space even easier to see. For what is
 it, finally, that makes an inhabited sense of
 space extraordinary rather than ordinary? Here
-is one answer I find plausible---and it is the
+is one answer I find plausible---the
 answer given, for example, by Heidegger, when he
 speaks of our being-in-the-world. An inhabited
 sense of space is extraordinary, in not stopping
@@ -456,24 +460,24 @@ space.
 
 
 But what happens, then, when our inhabited sense
-of space is divided?---for example, between
+of space is divided? ---For example, between
 sleeping and dreaming, where it seems we inhabit
 two spaces at once? We resolve the division,
 evidently, by conferring worldhood on only one
-such space, and taking it to contain the other
+such space, and thereby taking it *to contain* the other
 such space. That is, we credit only one such
 space with the totality, and thus the reality,
-of inhabitance; and regard the other space as
+of inhabitance, and regard the other space as
 merely part of this totality. The credit we give
 to its own totality, then, is the credit we give
-to a dream. We still inhabit the dream, indeed
+to a dream. We still inhabit the dream---indeed
 more alertly and attentively than we inhabit the
-bedroom in which we dream---and often with a sense
+bedroom in which we dream, and often with a sense
 that everything is put at stake in the dream, in
 a matter of life or death. But in waking from the
 dream, we prove it to be part of a larger space of
-inhabitance; and this gives the dream's apparent
-totality the status of mere appearance, and our
+inhabitance. And this gives the dream's apparent
+totality the status of mere appearance; and our
 inhabitance of it, the form of an illusion. To our
 relief, or perhaps our regret, what happened to us
 in the dream, didn't really happen after all; and
@@ -484,16 +488,16 @@ suspect the very same thing of the space we
 inhabit when hearing music move. The space may
 well be illusory, making all the sense---but also
 all the nonsense---of a dream. And in that case,
-the greater the work of music is, the deeper it
+the greater the work of music, the deeper it
 carries us into the dream. We hear the sound of
 Beethoven's *Eroica* surge forth in a concert
 hall, seeming to making an entire world shake. Yet
 the musicians barely move by comparison, while the
-notes they play move not at all; and we ourselves
+notes they play move not at all. And we ourselves
 stay glued to our seats---entranced. And once the
 work is finished, in a triumph of conclusiveness,
-we are released from the trance in a daze, and
-in the desire, perhaps, to have remained. For we
+we are released from the trance in a daze---and
+the desire, perhaps, to have remained. For we
 leave the concert hall likely finding the world
 we truly inhabit unchanged by what we heard, and
 nothing comparable to its conclusiveness in the
@@ -514,92 +518,77 @@ as a problem not simply with our experience of
 music, but more generally, with our experience of
 the world. For we talk, and think, not just as
 if music moved, but as if *anything* moved. But
-this too involves a kind of nonsense, known since
-the time of Parmenides and Zeno. Space preventing
-the melody from moving continuously through it,
-and to remain unchanged through every change of
-place. But these are not sufficient to distinguish
-the sense in which something merely occupies
-every such place from a sense in which it is
-indeed moving through every such place. space
-from the sense in which it moves through space. Space prevents the melody from being
-spatial, to be contained by space. Space allows
-what moves to be contained by it.  But this is not what it means to move in
-space, but to occupy space. Space allows what
-inhabits it to be spatial. But in this sense space
-is occupied by hand rather than traveled through
-by hand. (Perhaps use
-containing language.) To see this,
-consider again why there really isn't a space for
-music to move in, but there is a space for our
-hand to move in: because if there were, it would
-allow a melody, like it allows our hand, to move continuously rather than
-discretely. But this means it would allow a
-melody, like it allows our hand, to
-be what it is in space without having to become
-so, and to remain what it is, unchanged, through
-every change of place. , rather than having to become so what it
-is musiof motion makes
-nonsense of the space music moves in is
-nonsensical, on the analysis above. It forces the
-melody to move discretely rather than
-continuously, and in a becoming of what it is, doesn't
-allow for a melody, for example, to *be* what it is there
-isn't a space for the melody to move in. And when
-we characterized this space earlier as allowing
-the hand but not the melody to *be* what it is in
-space without having to become so, and to remain
-what it is, unchanged, through every change of
-place, our
-earlier description of such a space for the hand
-is really of the space the hand stays unmoved in, stays
-still, True, we
-supposed there were such a space for the hand in
-our earlier analysis, And the space we spoke of
-before was really just the space it stays still
-in, the space we might say it *occupies*, and
-which allows it to *be* what it is without having
-to become so, and to remain what it is, unchanged,
-through every change of place. And we can again
-put this new analysis of our hand's motion in
-simpler terms, that better capture the nonsense
-of the space that anything seems to moves in.
-For in case of anything, we see a motion between
-places that never move, of something that occupies
-those places. But this implies that we see motion,
-without seeing anything move. So how, in that
-case, could there *be* any motion to see? And what
-could be making it?
+this too involves a kind of nonsense, known since the time
+of Parmenides and Zeno. And it proves to be the
+same kind of nonsense we encountered in the
+supposed movement of music.   
 
-One answer to these questions, 
-the kind of answer Zeno might give, is that there
-*isn't* any motion to see. When we think we see
-something move, all we really see is that it
-occupies different places at different times. And
-the appearance of motion in this, is something
-like the appearance of motion on a movie screen,
-projected from a succession of stills, each of a
-single place and time, that happens too rapidly
-for us to detect. But this kind of answer to the
-question leads to a second answer, found for
-example in mathematical calculus, in which there
-*is* a motion to see. For suppose that when we
-think we see something move, all we really see
-is that it occupies different places at different
-times. Still, there turn out to be more such
-places---infinitely more, in fact---than we could
-ever arrange from one to the next, as if on a
-strip of film. The places are many enough, that
+To see this, recall my earlier account of why
+there really isn't a space for a melody to move
+in. For the melody, in this respect, is temporal
+rather than spatial. It is composed of the places,
+or notes, it moves between; and can only be what
+it is by becoming so. So there isn't a space,
+strictly speaking, for it *move* in, with the
+continuity or identity of truly spatial things
+like our hand, for example, in following that
+melody. But while our hand may be spatial in this
+respect, the *motion* of our hand is temporal,
+just like the melody. It too is composed of the
+places moved between, and can only be what it is
+by becoming so. But this implies that there isn't
+really a space for our hand to move in, or indeed
+for anything to move in.  There is
+only a space for it to be contained in, and to
+occupy, over the course of its motion, at every
+place composing that motion. Space, in other
+words, can only comprehend the path of the motion,
+not the motion itself. 
+
+Or to put this point again in the different way
+that captures the nonsense more strongly: if there
+really were a space for our hand to move in,
+then there would be a hand to see, in the space
+where we see it move. But there isn't, it turns
+out---and this is generally true, of anything we
+see move. For we see this motion being made from
+place to unmoving place, by something occupying
+each such place in turn, without seeing anything
+further, to which we might attribute *the motion*
+between places, rather than just the occupancy of
+those places. So we see motion, without seeing
+anything making the motion. But how, then, could there
+*be* any motion to see? And what could be making
+it?
+
+One answer to these questions, the kind of answer
+Zeno might give, is that there *isn't* any motion
+to see. When we think we see something move,
+all we really see is that it occupies different
+places at different times. And the appearance of
+motion in this, is something like the appearance
+of motion on a movie screen, projected from a
+succession of stills, each of a single place and
+time, that happens too rapidly for us to detect.
+But this kind of answer to the question leads to a
+second answer, found for example in mathematical
+calculus, in which there *is* a motion to see.
+When we see something move, all we see, true,
+is that something occupies different places at
+different times. Still, there turn out to be more
+such places---infinitely more, in fact---than we
+could ever arrange from one to the next, as if on
+a strip of film. The places are many enough, that
 is, to form a *real* continuum, beyond the mere
 appearance of one in a rapid enough succession
-from one place to the next. And this makes for a real
-continuity in the motion we think we see, giving
-it all the reality it needs.
+from one place to the next. And this makes for a
+real continuity in the motion we think we see,
+giving it all the reality it needs.
 
 There is a sense, however, in which this second
-answer misses the point. For the continuum in
-question again belongs to the motion's path rather
-than the motion itself. And indeed, the way this
+answer misses the point. For the continuity in
+question belongs to the motion's path rather
+than to the motion itself. And indeed, the way this
 path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
 by time, where every point upon it is present at
@@ -608,9 +597,8 @@ line divided by time, where only one point upon it
 is ever present at once, that we have the right
 analogy for the continuum formed the motion rather
 than by the motion's path. But how can the line
-divided by time in this way prove continuous, at
-least by the spatial measure of mathematics, if
-the line is made of only one point at a time?
+divided by time in this way prove continuous, if
+it is made of only one point at a time?
 
 This second answer thus leads to a third
 answer, which is found implicitly, I think, in
@@ -622,31 +610,36 @@ just the continuity of the motion's path. But the
 promise of this answer comes at a price: for it
 embraces the nonsense that makes the problem a
 problem. On this answer, that is, there is indeed
-nothing to see, in the space where we see anything
-move. And this is because the space where we see
-anything move, is the space where the motion
-belongs to us, rather than to anything we might
-see outside us. So there *is* a motion to see,
-when we are the ones making it. Or to put this
-claim in the terms I used earlier, motion occurs
-in the space we inhabit, rather than in the space
-we observe. In the space we observe, we see only
-the continuous path of a motion, occupied at
-every place by the thing that moves. But in the
-space we inhabit, we see the motion itself, which
-is not simply continuous, but indivisible. The
-motion in this indivisible sense stretches from
-the beginning of its path to the end in a single
-bound, as if the entire path were a single place
-for the moving thing to occupy. And we experience
-this indivisibility when moving ourselves. For in
-that case, we face the end of the motion at the
-beginning of it, and reach the end as a goal,
-heedless of all the places occupied along the way.
-And this is then very like the way we
-seem to move, indivisibly so we might say, from note to note in
-a melody, heedless of any notes passed along the
-way.
+nothing to see, in the space where we see anything move. And
+this is because the space where we see anything
+move, is the space where the motion belongs to
+us, rather than to anything we might see outside
+us. So there *is* a motion to see, when *we*
+are the ones making it. 
+
+Or to put this claim in the terms I used earlier,
+motion occurs in the space we inhabit, rather
+than in the space we observe. In the space we
+observe, we see only the continuous path of a
+motion, occupied at every place by the thing that
+moves. But in the space we inhabit, we see the
+motion itself, which is not simply continuous,
+but indivisible. The motion in this indivisible
+sense stretches from the beginning of its path
+to the end in a single bound, as if the entire
+path were a single place for the moving thing to
+occupy. And we experience this indivisibility
+when moving ourselves. For in that case, we face
+the end of the motion at the beginning of it,
+and reach the end as a goal, through a path that
+can be divided only by changing the goal, in a
+motion now different from what it was, but again
+indivisible. And this is then very like the way
+we seem to move from note to note in a melody,
+indivisibly so we might say, since only further
+notes can divide the distance, and thereby produce
+a new melody out of the old one, where we again 
+move indivisibly from note to note.
 
 But what should we make of this answer? It
 makes the same appeal to our inhabited sense of
