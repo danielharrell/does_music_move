@@ -394,29 +394,20 @@ melody to *be* what it is in space without having
 to become so, and to remain what it is, unchanged,
 through every change of place.
 
-There is another way of putting these differences
-between the movement of the melody and the motion
-of our hand, which perhaps more strongly captures
-the nonsense of the space music moves in. The
-melody is not a spatial whole, like our hand,
-that space can then *contain*, at *every* moment
-of its movement. The melody is rather a temporal
-whole, that space *cannot* then contain, at *any*
-moment of its movement. For space can contain
-only one note of the melody at a time. But this
-seems to mean, speaking strictly if nonsensically,
-that there is no melody to hear, in the space we
-hear it move. When hearing a leap in "Twinkle,
-Twinkle", for example, from the one-tone to the
-five-tone, there is nothing audible making that
-leap. But how, in that case, could there *be*
-any leap to hear? And what could be making it?
-Or we could put the nonsense more generally like
-this. In music, we hear a movement between notes
-that never move. But this implies that we hear a
-movement, without hearing anything move. So how,
-in that case, could there *be* any movement to
-hear? And what could be making it?
+Or to put this point a different way, that perhaps
+captures the nonsense more strongly: if there
+really were a space for the melody to move in,
+then there would be a melody to hear, when we hear
+it move. But there isn't. We hear the leap in
+"Twinkle, Twinkle", for example, without hearing
+anything leap. All we hear are the unleaping
+notes, between which the leap made. And this is
+the case with music in general. All we hear are
+the unmoving notes, between which a movement
+is made. So we hear a movement, without hearing
+anything move. But how, in that case, could there
+*be* any movement to hear? And what could be
+making it?
 
 Yet this is only the start of the nonsense; and
 the end of the nonsense implicates the very
