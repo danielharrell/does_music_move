@@ -450,7 +450,7 @@ of space implicitly includes everything there is,
 known or unknown; anything captured in the word
 "Being". For it is beings, finally, that we take
 ourselves to be surrounded by, and our own being
-that provides the place from which to face them.
+that provides the place from which to encounter them.
 This is why, despite our sometimes talking as if
 there were more than one world, and even more
 than one world we might inhabit, we can also talk
@@ -506,7 +506,7 @@ conclusiveness in the life we have to live.
 
 This, then, is what I take to be the problem
 with our talking as if music moved. Talking that
-way, thinking that way, fails to distinguish our 
+way fails to distinguish our 
 experience of music from a dream, in which nothing
 we experience really happens. 
 
@@ -726,44 +726,157 @@ know, at least from within the world, we might
 well be dreaming. Our sense that this is indeed
 the world might argue against it, which is to say,
 our sense that we are surrounded by beings rather
-than seemings, and face these beings from a being
+than seemings, and encounter these beings from a being
 rather than seeming of our own. But this sense can
 never be decisive. To not know we are dreaming
 the world we inhabit, seems to be the burden of
 inhabiting it.
 
 And this, then, is what I take to be the
-importance of the problem with our talking as if
-music moved. For it illustrates a more general
-problem, with our talking as if anything moved.
-Talking that way, thinking that way, fails to
-distinguish our experience of the world from a
-dream, in which nothing we experience really
-happens.
+importance of the problem with our talking
+as if music moved. For it illustrates a more
+general problem, with our talking as if anything
+moved. Talking that way fails to distinguish
+our experience of the world from a dream, in
+which nothing we experience really happens.
 
-[Mention how we talk, in explaining the world, as
-if our inhabitance of it is a dream---a legacy of
-    Descartes] For the terms in which we explain
-    it, as a matter of observation, are not the terms in which we encounter it,
-    as a matter of inhabitance,, 
-    and in many cases could never be the terms in
-    which we encounter it it. We may explain music, for
-    example, in terms of wave phenomena, or neural
-    patterns, or evolutionary adaptations; but it
-    is not in these terms that we encounter
-    it. But we take this as a sign that something
-    has been explained rather than erased.
-    mathematical physics, for example,
-    that we hear music because o here is no way, for
-    example, to hear music or even pitch in a
-    vibration of sound, if only because we never
-    encounter sound as sound ; for we encounter
-    that vibration  of
-    , since we encounter that vibration of
-    sound in effect challenge that inhabitance rather
-    than embrace it. conceive the world as a placein a way that challenges
-    our inhabitance of it. 
-#### Conclusion 
+And one index of the problem's importance, as well
+as one solution to the problem, is
+how we talk when *explaining* the
+world we experience. For we then talk as if our
+inhabitance of the world may indeed be only a
+dream, that there is no waking up from. Or to put
+this Cartesian legacy of scientific discourse in
+a different way: the terms in which we explain
+the world, as a matter of observation, are not
+the terms, and indeed may never be the terms,
+in which we encounter the world, as a matter of
+inhabitance. Yet we take this discrepancy as a
+sign that something has been explained rather than
+erased. This is why we look for an explanation
+of our encounter with music, for example, not
+in Beethoven's *Eroica*, but rather in the
+physicist's account of wave phenomena, or the
+neuroscientist's account of brain patterns, or the
+biologist's account of evolutionary adaptations,
+or even the Nietzschean's account of a sickness in
+the soul. We credit these accounts as explanations
+of our encounter with music, despite the fact that
+we could never encounter music as music in such
+terms, because we find nothing self-justifying in
+the encounter itself: it may well be only a dream.
+
+#### Conclusion
+
+There is, however, a different solution to the
+problem, and I wish to conclude my lecture by
+presenting this solution in brief. We might call
+it Heideggerian to distinguish it from the
+Cartesian solution just mentioned. In this
+second solution to the problem, the lack of proof that our
+inhabitance of the world is real, is in fact all the
+proof for it that we need. There is nothing to
+tell us we might dreaming, because we aren't.  
+
+This solution already sounds unpromising. After
+all, there is nothing in a dream to tell us we are
+dreaming, but we are. On this solution, however,
+it turns out we aren't. Any space of inhabitance
+is real, on this account, precisely because it can
+be inhabited. And this means that we are *always*
+surrounded by beings, and always encounter them from
+a being of our own, whether we find ourselves in
+a dream, or in a symphony, or in the world
+that contains these smaller spaces of inhabitance.
+And the reason we were initially misled into
+thinking otherwise, on the grounds that these
+smaller spaces are contained in a larger space
+that proves their own totality to be illusory, is
+that we conceived any space of inhabitance to be,
+indeed, in space. But on this solution, it is only
+a space of observation that lies in space; any space
+of inhabitance rather lies in time.  
+
+Perhaps this solution now sounds even more
+unpromising. For how can there be any room in time
+for a space of inhabitance, when the only part
+of time that ever exists is the right now, which
+seems to lie between the no-longer and not-yet at
+the size of mere point? But this very fact about
+time's evanescence turns the seeming illusion
+of movement in music and motion more generally
+into an object of wonder and astonishment. For
+according to our earlier analysis, this movement
+and motion are what they are, only in time. But
+if time only exists at a point, then how could we
+encounter this movement and motion at all---even
+in the form of an illusion? How could we even
+dream that we hear the rise and fall of a melody,
+or see the rise and fall of our hand in following
+it?
+
+It in offering an answer to this question---and
+a very simple answer to this question---that the
+solution starts to look more promising. And the
+answer is this. The right now may be no larger
+than a point. But this is still room enough to
+establish a space of inhabitance, in providing a
+center of orientation. This is the center from
+which the not-yet lies ahead
+of us, the no-longer lies
+behind us, and the now 
+is always with us. And in being always at this
+center, we are always in the world, even when
+we find ourselves in a dream or a symphony. We
+inhabit even these smaller spaces from the same center
+of orientation, where the not-yet is ahead of
+us as a matter of expectation, the no-longer is
+behind us as a matter of memory, and the now is
+always with us as a matter of attention.
+
+What is more, this center of orientation, despite
+being a mere point in time, comprehends a totality
+of time for each of us---from a beginning in
+birth that no one else can share, to an end in
+death that no one else can know. This is thus the
+center from which the not-yet ahead of us becomes
+a future to face; the no-longer behind us becomes
+a past to bear; and the now always with us becomes
+a present at stake. And in being always at this
+center, we are always in a world that is real,
+even when we find ourselves in a dream or a symphony.
+We inhabit even these smaller spaces from the same
+center of orientation, with a future to face, a past to
+bear, and a present at stake. 
+
+On this solution to the problem, then, we can
+only talk as if anything moved, much less as if
+music moved, insofar as the space we inhabit in
+talking that way makes complete sense of what we
+say without any room for nonsense. And this is the
+space we inhabit right now: the space made possible by time.
+
+<!-- [Mention how we talk, in explaining the world, as
+if our inhabitance of it is a dream---a legacy
+of Descartes] For the terms in which we explain
+it, as a matter of observation, are not the
+terms in which we encounter it, as a matter of
+inhabitance,, and in many cases could never be the
+terms in which we encounter it it. We may explain
+music, for example, in terms of wave phenomena,
+or neural patterns, or evolutionary adaptations;
+but it is not in these terms that we encounter
+it. But we take this as a sign that something has
+been explained rather than erased. mathematical
+physics, for example, that we hear music because
+o here is no way, for example, to hear music
+or even pitch in a vibration of sound, if only
+because we never encounter sound as sound ; for we
+encounter that vibration of , since we encounter
+that vibration of sound in effect challenge that
+inhabitance rather than embrace it. conceive the
+world as a placein a way that challenges our
+inhabitance of it. 
 
 [make Cartesian solution more brief.] But to conclude my lecture, I want to present two
 solutions to this problem in brief. For these
@@ -791,7 +904,7 @@ could never inhabit. (liberal education).
 
 What if our inhabitance is not spatial, but
 temporal. 
-<!-- Perhaps move lack of sign of illusion
+Perhaps move lack of sign of illusion
 to sense in which it isn't an illusion. Also
 mention problem of temporal wholes for science.
 When I compared the rise and fall of our (Present
