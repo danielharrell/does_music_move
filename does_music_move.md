@@ -39,8 +39,7 @@ that I wish to discuss in my lecture tonight. In
 the [first part][part one] of the lecture, I will
 explain what I take the problem to be. And in the [second
 part][part two], I will explain why I take the
-problem to be important. And in the last part, I
-will offer a solution to the problem. 
+problem to be important. 
 
 #### I. The nature of the problem. [part one]
 
@@ -402,16 +401,16 @@ really were a space for the melody to move in,
 then there would be a melody to hear, in the
 space where we hear it move. But there isn't. We
 hear the leap in "Twinkle, Twinkle", for example,
-without hearing anything making the leap. For we
-hear this leap being made between unleaping notes,
-without hearing anything further to which we might
+without hearing anything making the leap. For
+we hear this leap being made between unleaping
+notes, and hear nothing further to which we might
 attribute the leap. And this is the case with
 music in general. We hear a movement being made
-between unmoving notes, without hearing anything
-further to which we might attribute the movement.
-So we hear movement, without hearing anything
-making the movement. But how, in that case, could there *be* any
-movement to hear? And what could be making it?
+between unmoving notes, but nothing further to
+which we might attribute the movement. So we hear
+movement, but nothing making the movement. Yet
+how, in that case, could there *be* any movement
+to hear? And what could be making it?
 
 Yet this is only the start of the nonsense. And
 the end of the nonsense implicates our very
@@ -504,40 +503,41 @@ finding the world we truly inhabit unchanged by
 what we heard, and nothing comparable to its
 conclusiveness in the life we have to live.
 
-This, then, is what I take to be the problem
-with our talking as if music moved. Talking that
-way fails to distinguish our 
-experience of music from a dream, in which nothing
-we experience really happens. 
+This, then, is what I take to be the problem with
+our talking as if music moved. Talking that way
+fails to distinguish our experience of music from
+a dream, in which nothing we experience really
+happens.
 
 #### II. The importance of the problem. [part two] 
 
 As I said at the start of my lecture, I also take
-this problem to be important. To explain why,
-I want to discuss this problem again, but now
-as a problem not simply with our experience of
-music, but more generally, with our experience of
-the world. For we talk, and think, not just as
-if music moved, but as if *anything* moved. But
-this too involves a kind of nonsense, known since the time
-of Parmenides and Zeno. And it proves to be the
-same kind of nonsense we encountered in the
-supposed movement of music.   
+this problem to be important. To explain why, I
+want to discuss this problem again, but now as a
+problem not simply with our experience of music,
+but more generally, with our experience of the
+world. For we talk, and think, not just as if
+music moved, but as if *anything* moved. But this
+too involves a kind of nonsense, known since the
+time of Parmenides and Zeno. And it proves to be
+the same kind of nonsense we encountered in the
+movement of music.
 
 To see this, recall my earlier account of why
 there really isn't a space for a melody to move
 in. For the melody, in this respect, is temporal
 rather than spatial. It is composed of the places,
-or notes, it moves between; and can only be what
+or notes, it moves between, and can only be what
 it is by becoming so. So there isn't a space,
-strictly speaking, for it *to move* in, with the
-continuity or identity of truly spatial things
-like our hand, for example, in following that
+strictly speaking, for the melody *to move* in, with the
+continuity or identity of truly spatial things,
+like our hand in following that
 melody. But while our hand may be spatial in this
 respect, the *motion* of our hand is temporal,
-just like the melody. It too is composed of the
+just like the melody. In a sense it too is composed of the
 places moved between, and can only be what it is
-by becoming so. But this implies that there isn't
+by becoming so. But this implies, on the earlier
+account, that there isn't
 really a space for our hand to move in, or indeed
 for anything to move in.  There is
 only a space for it to be contained in, and to
@@ -546,45 +546,45 @@ place composing that motion. Space, in other
 words, can only comprehend the path of the motion,
 not the motion itself. 
 
-Or to put this point again in the different way
-that captures the nonsense more strongly: if there
-really were a space for our hand to move in,
-then there would be a hand to see, in the space
-where we see it move. But there isn't, it turns
-out---and this is generally true, of anything we
-see move. For we see this motion being made from
-place to unmoving place, by something occupying
-each such place in turn, without seeing anything
+Or we can put this point again in the different
+way from the earlier account, that captures the
+nonsense more strongly. If there really were a
+space for our hand to move in, then there would be
+a hand to see, in the space where we see it move.
+But there isn't---and this is generally true, of
+anything we see move, despite what we think we
+see. For what we strictly see is this motion being
+made from place to unmoving place, by something
+occupying each such place in turn. We see nothing
 further, to which we might attribute *the motion*
-between places, rather than just the occupancy of
-those places. So we see motion, without seeing
-anything making the motion. But how, then, could there
-*be* any motion to see? And what could be making
-it?
+between places, rather than just *the occupancy*
+of those places. So we see motion, but nothing
+making the motion. Yet how, in that case, could
+there *be* any motion to see? And what could be
+making it?
 
 One answer to these questions, the kind of answer
 Zeno might give, is that there *isn't* any motion
-to see. When we think we see something move,
-all we really see is that it occupies different
-places at different times. And the appearance of
-motion in this, is something like the appearance
-of motion on a movie screen, projected from a
-succession of stills, each of a single place and
+to see. When we think we see something move, all
+we really see is that it occupies different places
+at different times. And the appearance of motion
+in this, is something like the appearance of
+motion on a movie screen, or in a flip book, from
+a succession of images, each of a single place and
 time, that happens too rapidly for us to detect.
-But this kind of answer to the question leads to a
-second answer, found for example in mathematical
-calculus, where there *is* a motion to see.
-When we see something move, on this answer, 
-all we indeed see is that something occupies different places at
-different times. Still, there turn out to be more
-such places---infinitely more, in fact---than we
-could ever arrange from one to the next, as if on
-a strip of film. The places are many enough, that
-is, to form a *real* continuum, beyond the mere
-appearance of one in a rapid enough succession
-from one place to the next. And this makes for a
-real continuity in the motion we see,
-giving it all the reality it needs.
+But this kind of answer leads to a second answer,
+found for example in mathematical calculus, where
+there *is* a motion to see. When we see something
+move, on this answer, all we indeed see is that
+something occupies different places at different
+times. Still, it can be proved that there are more
+such places---infinitely more, in fact---than
+we could ever arrange from one to the next. The
+places are many enough, that is, to form a *real*
+continuum, beyond the mere appearance of one in
+a rapid enough succession from one place to the
+next. And this makes for a real continuity in the
+motion we see, giving it all the reality it needs.
 
 There is a sense, however, in which this second
 answer misses the point. For the continuity in
@@ -593,63 +593,66 @@ to the motion itself. And indeed the way this
 path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
 by time, where every point upon it is present at
-once. But it would seem that we only have the
-proper analogy for the continuum formed by the
-motion, rather than by the motion's path, when we
-conceive of a line divided by time, where only one
+once. But it could be argued that we only have the
+proper analogy for the continuum of motion rather
+than its path, when we
+conceive a line divided by time, where only one
 point upon it is ever present at once---the point
 right now, so to speak. But how can a line prove
 continuous, if it is made of only one point at a
 time?
 
-This second answer thus leads to a third
-answer, which is found implicitly, I think, in
-Aristotle, and more explicitly in Bergson. It is
-distinguished from the first answer in taking the
-motion we see to be real, and from the second
-answer in taking this reality to involve more than
-just the continuity of the motion's path. But the
-promise of this answer comes at a price: for it
-embraces the nonsense that makes the problem a
-problem. On this answer, that is, there is indeed
-nothing to see, in the space where we see anything move. And
-this is because the space where we see anything
-move, is the space where the motion belongs to
-us, rather than to anything we might see outside
-us. So there *is* a motion to see, when *we*
-are the ones making it. 
+The second answer so leads to a third answer, more
+philosophical than mathematical, found implicitly,
+I think, in Aristotle, and more explicitly in
+Bergson. It is distinguished from the first answer
+in taking the motion we see to be real, and from
+the second answer in taking this reality to
+involve more than just the continuity of the
+motion's path. But the promise of this answer
+comes at a price: for it embraces the nonsense
+that makes the problem a problem. On this answer,
+that is, there is indeed nothing to see, in the
+space where we see anything move. And this is
+because the space where we see anything move, is
+the space where the motion belongs to us, rather
+than to anything we might see outside us. So there
+*is* a motion to see, when *we* are the ones
+making it. 
 
-Or to put this claim in the terms I used earlier,
-motion occurs in the space we inhabit, rather
-than in the space we observe. In the space we
-observe, we see only the continuous path of a
-motion, occupied at every place by the thing that
-moves. But in the space we inhabit, we see the
-motion itself, which is not simply continuous,
-but indivisible. The motion in this indivisible
-sense stretches from the beginning of its path
-to the end in a single bound, as if the entire
-path were a single place for the moving thing to
-occupy. And we experience this indivisibility
-when moving ourselves. For in that case, we face
-the end of our motion at the beginning of it,
-and reach the end as a goal, through a path that
-can be divided only by changing the goal, in a
-motion now different from what it was, but again
-indivisible. And this is tellingly like the way
-we seem to move from note to note in a melody,
-indivisibly so we might say, since only further
-notes can divide the distance from note to note, but
-so produce a new melody out of the old one,
-where we move from note to note again indivisibly.
+Motion, in other words, occurs in the space we
+inhabit, rather than in the space we observe.
+For in the space we observe, we see only the
+continuous path of a motion, occupied at every
+place by the thing that moves. But in the space
+we inhabit, we see the motion itself, which is
+not simply continuous, but indivisible. The
+motion in this indivisible sense stretches from
+the beginning of its path to the end in a single
+bound, as if the entire path were a single place
+for the moving thing to occupy. And we experience
+this indivisibility when moving ourselves. For in
+that case, we face the end of our motion at the
+beginning of it, and reach the end as a goal. And
+the path we trace in reaching it is divided only
+by changing the goal, in a motion now different
+from what it was, but again indivisible. In
+this way motion in general is like movement in
+music---such as the way we move
+from note to note in a melody. For this too is
+indivisible, since only further notes can divide
+the distance from note to note, but thereby
+produce a new melody out of the old one, where we
+move again indivisibly from note to note.
 
-But what should we make of this answer? It
+But what should we make of this last answer? It
 makes the same appeal to our inhabited sense of
 space that we encountered before, to make sense of
 the movement in music, only now to make sense
 of motion as such. Does it have the same problem?
 That is, can we know, or show, that we are not
-dreaming when we see anything move---most of all
+dreaming when we see anything move---and 
+most of all 
 ourselves?
 
 The question put this generally might seem absurd.
@@ -660,9 +663,9 @@ something illusory about our inhabitance of
 so-called other worlds, such as dreams in the
 ordinary sense, or music, that we might plausibly
 find illusory in their proving to be *contained*
-in the world, or mere parts of that totality. 
+in the world, mere parts of that totality. 
 
-But there is good reason to suspect something
+But there is good reason, as it turns out, to suspect something
 close to illusory even about our inhabitance
 of the world. And it explains why a question
 like "Are we dreaming right now?" has been
@@ -676,19 +679,19 @@ merely observe it.
 
 To see why this argument is worth considering,
 consider, first, a striking fact about our
-experience of perceptual illusions, such as
+experience of optical illusions, such as
 the look of a stick half-plunged in water, and
 seemingly half-bent by it. Our knowing the
 stick stays straight does nothing to dispel the
 illusion. But why? One answer is that there is
 nothing *in* the illusion to *tell* us it's an
-illusion; and if there were, then the illusion
+illusion, and if there were, then the illusion
 wouldn't be an illusion. In this sense, we remain
 *in* the illusion, or inhabit it, as a matter of
 perception, even if we stand outside the illusion,
 or merely observe it, as a matter of knowledge.
 
-Something like this happens more generally in our
+Something like this is also at work in our
 experience of dreams, taking "dreams" now in the
 ordinary sense. For our dreams so often contain
 implausible or even impossible events, not to
@@ -696,11 +699,10 @@ mention the sense in which all its events, once
 we wake up, prove unreal. So why did they seem so
 real in the dream? Again, one answer is that there
 is nothing in a dream, no matter how implausible
-or impossible, to tell us we are dreaming; and if
-there were, we wouldn't be dreaming. And again, we
-lack any proof we are dreaming precisely because
-we inhabit the dream rather than merely observe
-it. It is only when something in the dream wakes
+or impossible, to tell us we are dreaming, and if
+there were, then we wouldn't be dreaming. And in
+this sense we inhabit the dream rather than merely
+observe it. It is only when something in the dream wakes
 us up from it, and so puts us outside the
 dream to observe it, that we can know it for the
 dream it is.
@@ -712,149 +714,160 @@ tonight---that it was merely a dream. There is
 nothing *in* the music to tell us so, even if
 there is *an account* of the music to tell us so.
 And again, this is because we hear music as music
-only by inhabiting it, beyond the point of any
-account of it.
+only by inhabiting it, past the point of any
+account we might give of it.
 
 This sort of answer, then, points to perhaps
 the most decisive, if negative, feature of our
-inhabitance of the world. There is nothing, as
-a consequence, that we might encounter in the
-world---motion, for example---to tell us the
-encounter is illusory. For if there were, then we
-wouldn't be having the encounter. So for all we
-know, at least from within the world, we might
-well be dreaming. Our sense that this is indeed
-the world might argue against it, which is to say,
+inhabitance of the world. There is nothing we
+might encounter in the world---motion, for
+example---to tell us the encounter is illusory.
+And if there were, then we wouldn't be having
+the encounter. So for all we know, at least from
+within the world, we might be dreaming. Arguing
+against this prospect, to be sure, is our sense
+that this is indeed the world, which is to say,
 our sense that we are surrounded by beings rather
-than seemings, and encounter these beings from a being
-rather than seeming of our own. But this sense can
-never be decisive. To not know we are dreaming
-the world we inhabit, seems to be the burden of
-inhabiting it.
+than seemings, and encounter these beings from a
+being rather than seeming of our own. But this
+sense, it appears, can never be decisive. For the
+cost of inhabiting the world, on this argument,
+is to be past the point of knowing whether this
+inhabitance is but a dream.  
 
-And this, then, is what I take to be the
-importance of the problem with our talking
-as if music moved. For it illustrates a more
-general problem, with our talking as if anything
-moved. Talking that way fails to distinguish
-our experience of the world from a dream, in
-which nothing we experience really happens.
+This, then, is what I take to be the importance of
+the problem with our talking as if music moved.
+For it illustrates a more general problem, with
+our talking as if anything moved. Talking that
+way fails to distinguish our experience of the
+world from a dream, in which nothing we experience
+really happens.
 
-And one index of the problem's importance, as well
-as one solution to the problem, is
-how we talk when *explaining* the
-world we experience. For we then talk as if our
-inhabitance of the world may indeed be only a
-dream, that there is no waking up from. Or to put
-this Cartesian legacy of scientific discourse in
-a different way: the terms in which we explain
-the world, as a matter of observation, are not
-the terms, and indeed may never be the terms,
-in which we encounter the world, as a matter of
-inhabitance. Yet we take this discrepancy as a
-sign that something has been explained rather than
-erased. This is why we look for an explanation
-of our encounter with music, for example, not
-in Beethoven's *Eroica*, but rather in the
-physicist's account of wave phenomena, or the
-neuroscientist's account of brain patterns, or the
-biologist's account of evolutionary adaptations,
-or even the Nietzschean's account of a sickness in
-the soul. We credit these accounts as explanations
-of our encounter with music, despite the fact that
-we could never encounter music as music in such
-terms, because we find nothing self-justifying in
-the encounter itself: it may well be only a dream.
+And one measure of the problem's importance,
+as well as one solution to it in effect, is
+is found in how we talk when *explaining* the
+world we experience. For then we talk as if our
+inhabitance of the world is indeed only a dream,
+of a kind there is no waking up from. Or to put
+this Cartesian legacy of scientific discourse a
+different way: the terms in which we explain the
+world, as a matter of observation, are not the
+terms in which we encounter the world, as a matter
+of inhabitance---and in many cases could *never*
+be the terms of such an encounter, such as in
+quantum mechanics. Yet we take this discrepancy
+as a sign that something has been explained
+rather than erased. This is why we look for an
+explanation of our encounter with music, for
+example, not in Beethoven's *Eroica*, but rather
+in the physicist's account of wave phenomena, or
+the neuroscientist's account of brain patterns,
+or the biologist's account of evolutionary
+adaptations, or even the Nietzschean's account of
+a sickness in the soul. We credit these accounts
+as attempts to explain our encounter with music,
+despite the fact that we could never encounter
+music as music in such terms, because we find
+nothing self-justifying in the encounter itself:
+it may well be only a dream.
 
-#### Conclusion
+***
 
 There is, however, a different solution to the
-problem, and I wish to conclude my lecture by
+problem. And I wish to conclude my lecture by
 presenting this solution in brief. We might call
 it Heideggerian to distinguish it from the
 Cartesian solution just mentioned. In this
-second solution to the problem, the lack of proof that our
+second solution to the problem, not having a proof that our
 inhabitance of the world is real, is in fact all the
 proof for it that we need. There is nothing to
-tell us we might dreaming, because we aren't.  
+tell us we might dreaming, true; but this is because we aren't.  
 
 This solution already sounds unpromising. After
-all, there is nothing in a dream to tell us we are
-dreaming, but we are. On this solution, however,
-it turns out we aren't. Any space of inhabitance
-is real, on this account, precisely because it can
-be inhabited. And this means that we are *always*
-surrounded by beings, and always encounter them from
-a being of our own, whether we find ourselves in
-a dream, or in a symphony, or in the world
-that contains these smaller spaces of inhabitance.
-And the reason we were initially misled into
-thinking otherwise, on the grounds that these
+all, there is nothing in *a dream* to tell us
+we are dreaming, but we are. On this solution,
+however, it turns out we aren't, at least as
+a matter of inhabitance. For any space of
+inhabitance is real, on this account, precisely
+because it can be inhabited. And this means that
+we are *always* surrounded by beings, and always
+encounter them from a being of our own, whether
+we find ourselves in a dream, or in a symphony,
+or in the world that contains these smaller
+spaces of inhabitance. True, we have reason to
+think otherwise, again on the grounds that these
 smaller spaces are contained in a larger space
-that proves their own totality to be illusory, is
-that we conceived any space of inhabitance to be,
-indeed, in space. But on this solution, it is only
-a space of observation that lies in space; any space
-of inhabitance rather lies in time.  
+that proves their own totality to be illusory. But
+this assumes that any space of inhabitance lies,
+indeed, in space. Yet on this solution, it is only
+a space of observation that lies in space. Any
+space of inhabitance rather lies in time.
 
 Perhaps this solution now sounds even more
-unpromising. For how can there be any room in time
-for a space of inhabitance, when the only part
-of time that ever exists is the right now, which
-seems to lie between the no-longer and not-yet at
-the size of mere point? But this very fact about
-time's evanescence turns the seeming illusion
-of movement in music and motion more generally
-into an object of wonder and astonishment. For
-according to our earlier analysis, this movement
-and motion are what they are, only in time. But
-if time only exists at a point, then how could we
-encounter this movement and motion at all---even
+unpromising. For how can there be any room in
+time for a space of inhabitance, when the only
+part of time that ever exists is 'the right now',
+that instant of time lying between the no-longer
+and not-yet at the seeming size of a mere point?
+Still, this very fact about time's evanescence
+turns the seeming illusions of movement in music
+and motion more generally into objects of wonder
+if not astonishment. For according to our earlier
+analysis, motion is what it is, only in time. But
+if time exists only at a point, then how could we
+ever encounter a temporal whole like motion---even
 in the form of an illusion? How could we even
 dream that we hear the rise and fall of a melody,
 or see the rise and fall of our hand in following
 it?
 
-It in offering an answer to this question---and
-a very simple answer to this question---that the
-solution starts to look more promising. And the
-answer is this. The right now may be no larger
+It is in offering an answer to this question that
+the solution starts to look more promising. And
+the answer is this. The right now may be no larger
 than a point. But this is still room enough to
-establish a space of inhabitance, in providing a
-center of orientation. This is the center from
-which the not-yet lies ahead
-of us, the no-longer lies
-behind us, and the now 
-is always with us. And in being always at this
-center, we are always in the world, even when
-we find ourselves in a dream or a symphony. We
-inhabit even these smaller spaces from the same center
-of orientation, where the not-yet is ahead of
-us as a matter of expectation, the no-longer is
-behind us as a matter of memory, and the now is
-always with us as a matter of attention.
+establish a space of inhabitance, in providing
+a center of orientation. And this is the center
+from which the not-yet lies ahead of us, the
+no-longer lies behind us, and the now is always
+with us. And in being always at this center,
+we are always in the world, even when we find
+ourselves in a dream, or a symphony. We inhabit
+even these smaller spaces from the same center of
+orientation, where the not-yet is ahead of us as
+a matter of expectation, the no-longer is behind
+us as a matter of memory, and the now is always
+with us as a matter of attention. It is in these
+temporal terms that any space of observation
+becomes a place of inhabitance.
 
-What is more, this center of orientation, despite
-being a mere point in time, comprehends a totality
-of time for each of us---from a beginning in
-birth that no one else can share, to an end in
-death that no one else can know. This is thus the
-center from which the not-yet ahead of us becomes
-a future to face; the no-longer behind us becomes
-a past to bear; and the now always with us becomes
-a present at stake. And in being always at this
-center, we are always in a world that is real,
-even when we find ourselves in a dream or a symphony.
+And it is also in these temporal terms that any
+place of inhabitance is real rather than illusory.
+For this center of orientation, despite being a
+mere point in time, comprehends a totality in time
+for each of us---from a beginning in birth that no
+one else can share, to an end in death that no one
+else can know. This is thus the center from which
+the not-yet ahead of us is a future to face; the
+no-longer behind us is a past to bear; and the now
+always with us is a present at stake. So in being
+always at this center, a point of totality as it
+were, we are always in a world that is real, even
+when we find ourselves in a dream or symphony.
 We inhabit even these smaller spaces from the same
-center of orientation, with a future to face, a past to
-bear, and a present at stake. 
+center of orientation, with a future to face, a
+past to bear, and a present at stake. And in this
+sense, again temporal rather than spatial, we are
+not carried from the world by a dream
+or symphony, but concentrated in it.
 
-On this solution to the problem, then, we can
-only talk as if anything moved, much less as if
-music moved, insofar as the space we inhabit in
-talking that way makes complete sense of what we
-say without any room for nonsense. And this is the
-space we inhabit right now: the space made possible by time.
+Or to summarize this solution to the problem
+in conclusion: we can only talk as if anything
+moved, much less as if music moved, insofar as
+the space we inhabit in talking that way makes
+complete sense of what we say, without any room
+for nonsense. And this is the space we inhabit
+right now: the space made possible by time. Thank
+you.
 
 <!-- [Mention how we talk, in explaining the world, as
 if our inhabitance of it is a dream---a legacy
