@@ -1,7 +1,7 @@
 ### Does Music Move?
 
 Does music move?
-
+[change space to place where suitable.]
 Well, yes---if by "music", we meant the
 vibrations of sound that allow us to hear what a
 musician plays: from instrument to air to ear.
@@ -27,7 +27,7 @@ hear music move, would we hear music at all?
 Without movement, music would seem no more than a
 succession of sounds, the next following the last
 in time. To hear music in this succession
-means hearing the next sound follow the last not
+seems to mean hearing the next sound follow the last not
 just in time, but in space. ---The kind of space
 that allows what we hear to quicken and slow, rise
 and fall, depart and return. Or to move, in sum,
@@ -37,15 +37,16 @@ But there is also a problem with this sort of
 talk, despite its point. And it is this problem
 that I wish to discuss in my lecture tonight. In
 the [first part][part one] of the lecture, I will
-explain what I take the problem to be. And in the [second
-part][part two], I will explain why I take the
-problem to be important. 
+explain what I take the problem to be. And in the
+[second part][part two], I will explain why I take
+the problem to be important---even for those of
+us with little interest in music.
 
 #### I. The nature of the problem. [part one]
 
 So what is the problem with our talking as if
 music moved? The problem, in a word, is *space*:
-the space we hear music move in.
+the space music seems to move in, when we hear it as music. 
 For this space makes something close to [complete
 sense][sense] on the one hand, yet something closer to
 [nonsense][nonsense] on the other.
@@ -57,47 +58,50 @@ comparing the movement we hear in music, with
 the variation we hear in sounds more generally.
 Consider, for example, the difference between a
 melody and a siren. Both involve a change in pitch
-over time. And we might say, in that respect,
-that both rise and fall. But unlike the siren,
-the melody does this in a kind of articulated
-space, usually conceived as a scale. And it gives
+over time. And we might say, in that respect, that
+both rise and fall. But unlike the siren, the
+melody does this in a kind of articulated space,
+usually conceived as a scale. And this space gives
 us the impression of movement, from one place to
 the next. We sense a change of place, in other
 words, *within* the melody's change in pitch, as
-if having caused it. To be more specific, suppose
-we hear the beginning of "Twinkle Twinkle, Little
-Star" on middle-C, where C is followed by the G a
-fifth above. Within this change in pitch, we hear
-a change of place---from the first degree of a
-melodic scale to the fifth, or otherwise put, from
-the one-tone to the five-tone. And this change of
-place gives us the impression of a movement having
-caused the melody's change in pitch: in this case,
-the impression of a leap from the one tone to the
-five, having caused C to be followed by G. Now
-suppose we hear the siren rise from C to G. We
-don't hear this rise happen in the articulated
+if having caused it. 
+    
+To be more specific, suppose we hear the beginning
+of "Twinkle Twinkle, Little Star" on middle-C,
+where C is followed by the G a fifth above.
+Within this change in pitch, we hear a change of
+place---from the first degree of a melodic scale
+to the fifth; or otherwise put, from the one-tone
+to the five-tone. And this change of place gives
+us the impression of a movement having caused
+the melody's change in pitch: in this case, the
+impression of a leap from the one-tone to the
+five-, causing C to be followed by G.
+
+Now suppose we hear the siren rise from C to G.
+We don't hear this rise happen in the articulated
 space of a scale; and indeed the continuity of the
-siren's change in pitch would seem to preclude it,
-since the places in a scale are discrete. But this
-means we are given no impression of movement by
-the siren's change in pitch, from one place to the
-next. It's as if the siren rises and falls only in
-time, not in space. True, we can see, or at least
-infer, a change of place *behind* the siren's
-change in pitch, in the police car or fire engine
-that produced it. But we don't hear any similar
-change of place *within* the change in pitch, that
-might replace the police car or fire engine as
-cause, and turn what we hear as a signal into what
-we could hear as a melody.
+rise would seem to preclude
+it, since the places in a scale are discrete. But
+this means we are given no impression of movement
+by the siren's change in pitch, from one place to
+the next. It's as if the siren rises and falls
+only in time, not in space. True, we can see, or
+at least infer, a change of place *behind* the
+siren's change in pitch, in the police car or fire
+engine that produced it. But we don't hear any
+similar change of place *within* the change in
+pitch, that might replace the police car or fire
+engine as cause, and turn what we hear as a signal
+into what we could hear as a melody.
 
 Of course, we may not know the names for the
 places in a musical scale, or even have any
 conception of such a scale, to account for the
 change of place we hear in the melody. But this
 ignorance is only more evidence of how much
-sense the space of musical movement can make,
+sense the space of music's movement can make,
 in what we might call its *own* terms, without
 the need for any theory beyond the music to
 justify it. And it reflects a striking fact about
@@ -107,11 +111,10 @@ while remaining all but illiterate about what
 we hear. 
 
 What is more, becoming literate about what we
-hear, by studying some music theory, underlines
-the sense it makes even without such a theory. For
+hear, by studying music theory, underlines
+the sense it makes even without this theory. For
 as I will now try to show, the topography this
-theory comprehends---such as the articulated space
-in which we hear the movement of a melody---is
+theory comprehends---such as the melodic scale---is
 more discovered than invented, and in the
 discovery, more inhabited than observed. Indeed,
 my conclusion will be that it is because we
@@ -119,7 +122,8 @@ finally seem to *inhabit* what we hear, in hearing
 music move, that the space it moves in makes
 complete sense. The completeness in
 this sense of musical space, has to do with the
-experience of inhabitance.
+experience of inhabitance. And it turns musical
+space into a genuine place.
 
 To begin to see what I mean by this, let us
 take a closer look at the terms I used for the
@@ -191,12 +195,12 @@ image of our inhabitance of that space.
 But to see this more clearly, consider again the
 beginning of "Twinkle, Twinkle." As I said, we
 hear a leap from the one tone to the five tone
-*within* the change of pitch from middle-C to
+*within* the change in pitch from middle-C to
 G. This description reflects another pair of
 topographical facts in our perception of notes,
 once we hear these notes in a musical context.
 The first such fact is that we hear movement from
-one note to another, without having to hear any
+note to note, without having to hear any
 notes between. In the case of "Twinkle, Twinkle",
 we hear an initial leap from the one-tone to the
 five-, without having to hear the two-, three-,
@@ -208,7 +212,8 @@ be as hard to explain as the octave. But as a
 phenomenon, it seems to involve a sense of being
 *oriented* in the movement we hear from note to
 note. It is as if we faced the note we were moving
-to, and reached it as a goal.
+to, and reached it as a goal, heedless of any
+notes passed along the way.
 
 The sense of being oriented among notes is even
 clearer in the second topographical fact, which
@@ -222,13 +227,13 @@ tonal musical contexts---and the name "tonal" is
 derived from this fact---we will hear one note as
 a kind of center, which *orients* us with respect
 to the other notes we hear, as if to provide a
-place from which to face them. The central note
-is accordingly assigned the number "one" in analysis,
+place from which to face them. The central note is
+accordingly assigned the number "one" in analysis,
 and the other notes assigned other numbers in
-reference to "one". Again, why we are able to hear a
-certain note as a center for other notes is hard
-to say. But the phenomenon, as Zuckerkandl would
-remind us, is dynamic, in an orientation
+reference to "one". Again, why we are able to hear
+a certain note as a center for other notes is
+hard to say. But the phenomenon, as Zuckerkandl
+would remind us, is dynamic, in an orientation
 more felt than seen. We hear the central note as
 central, that is, by sensing a stability in it
 relative to the other notes, as if it provided a
@@ -236,79 +241,78 @@ place to to face them as a center of gravity. This
 second topographical fact so informs the first:
 for we then move from note to note as if under
 the influence of a gravitational pull, requiring
-effort to overcome, in a deepened sense of having
-faced the note being moved to, and 
-reaching that note as a goal.
+effort to overcome, and supplying momentum in
+success, in a deepened sense of having faced the
+note being moved to, and reaching that note as a
+goal.
 
 Or again, to revert to the geometric image of this
 inhabitance as I described it above, we hear the
-movement in a melody, as in music more generally, 
+movement in a melody, as in music more generally,
 as if we were *inside* a circumference of notes
-arranged by pitch and bounded by the octave. 
-For once we hear one note in the melody as
-central, especially if we hear it as a center 
-of gravity, it is as if that note
-has been projected *inside* this circumference
-from its place along it. And this projection
-allows us to move from
-note to note not simply *along* the circumference,
-through every note between, but now 
-also *across* the circumference, through 
-the one note inside it as a guide, or 
-center of orientation.   
+arranged by pitch and bounded by the octave. For
+once we hear one note in the melody as central,
+especially if we hear it as a center of gravity,
+it is as if that note has been projected *inside*
+this circumference from its place along it. And
+this projection allows us to move from note to
+note not simply *along* the circumference, through
+every note between, but now also *across* the
+circumference, guided by the one note inside it as
+a center of orientation. 
 
 This is perhaps as far as the circumference image
 could, or should, be pressed. But again, it gives
-a geometric form to the complete sense made by the
-space music moves in. And this is the sense in which we
-*inhabit* that space.  To be sure,
+a geometric form to the complete sense made by
+the space music moves in. And this is the sense
+in which we *inhabit* that space. To be sure,
 the development of this sense, as shown by the
 specifically *tonal* context in which we hear
 one note of a melody as central, depends on the
 like development of a specific form of musical
-art---the art of tonality, to which we owe the music of the
-West. But there would be no such art to develop,
-unless the result made a difference to what we
-could hear; and in this case, to what we could
-inhabit in what we hear. 
+art---the art of tonality, to which we owe the
+music of the West. But there would be no such art
+to develop, unless the result made a difference to
+what we could hear; and in this case, to what we
+could inhabit in what we hear.
 
 And much of Western music's development can be
 explained as a kind of deduction from the features
 of a space we inhabit. I spell this thought out
 briefly, in one example, for those familiar with
-this development. If we truly inhabited the
-space music moves in, it seems we
-should not be simply fixed at a single center
-of orientation. We should rather be able move
-that center, carrying it with us from place to
-place. And move it we can---once Western music
-developed the device of modulation, to carry
-us from key to key. We might also expect the
-movement of that center to happen along an axis
-of depth, away and back, not just to distinguish
-it from the up-and-down movement between notes
-along an axis of height, but also from a sense
-of perspective, which implicitly belongs to our
-sense of orientation when we inhabit a space.
-And so we do move away and back---once Western
-music developed the harmony out of polyphony that
-modulation relies upon. We might further expect
-the movement of the center to clarify our sense,
-as I described this above, of the gravitational
-forces at work in such a space. And clarified
-they are---once the use of modulation effectively
-reduced the modes of chant to the major-minor
-scale. We might finally expect the movement of the
-center to deepen our sense that we inhabit *one*
-space, which *contains* the places moved between,
-rather than many spaces distinguished and divided
-by those places. And deepened it is---once the use
-of modulation forced upon the tuning of a scale
-the leveling of equal temperament, restricting the
-notes of *any* key to the notes in *every* key,
-and thereby placing "the whole of tonal space," as
-Roger Scruton has strikingly put it, "within reach
-of its every occupant."[^fn-1]
+this development. If we truly inhabited the space
+music moves in, it seems we should not be simply
+fixed at a single center of orientation. We
+should rather be able move that center, carrying
+it with us from place to place. And move it we
+can---once Western music developed the device of
+modulation, to carry us from key to key. We might
+also expect the movement of that center to happen
+along an axis of depth, away and back, not just
+to distinguish it from the up-and-down movement
+between notes along an axis of height, but also
+from a sense of perspective, which implicitly
+belongs to our sense of orientation when we
+inhabit a space. And so we do move away and
+back---once Western music developed the harmony
+out of polyphony that modulation relies upon. We
+might further expect the movement of the center
+to clarify our sense, as I described this above,
+of the forces felt at work in such a
+space. And clarified they are---once the use of
+modulation effectively reduced the modes of chant
+to the major-minor scale. We might finally expect
+the movement of the center to deepen our sense
+that we inhabit *one* space, which *contains* the
+places moved between, rather than many spaces
+distinguished and divided by those places. And
+deepened it is---once the use of modulation forced
+upon the tuning of a scale the leveling of equal
+temperament, restricting the notes of *any* key
+to the notes in *every* key, and thereby placing
+"the whole of tonal space," as Roger Scruton has
+strikingly put it, "within reach of its every
+occupant."[^fn-1]
 
 [^fn-1]: Roger Scruton, *The Aesthetics of Music*, p. 244.
 
@@ -395,8 +399,9 @@ the melody to *be* what it is in space
 without having to become so, and to remain what it
 is, unchanged, through every change of place.
 
-Or to put this point a different way, that perhaps
-captures the nonsense more strongly: if there
+But we can summarize the conclusions of this
+analysis of melodic space in a way that perhaps 
+captures its nonsense more strongly. If there
 really were a space for the melody to move in,
 then there would be a melody to hear, in the
 space where we hear it move. But there isn't. We
@@ -437,23 +442,22 @@ inhabitance, rather than from without, as a matter
 of observation.
 
 Well, fair enough. But this makes the nonsense
-of such a space even easier to see. For what is
-it, finally, that makes an inhabited sense of
-space extraordinary rather than ordinary? Here
-is one answer I find plausible---the
-answer given, for example, by Heidegger, when he
-speaks of our being-in-the-world. An inhabited
-sense of space is extraordinary, in not stopping
-short of totality. That is, our inhabited sense
-of space implicitly includes everything there is,
+of such a space even easier to see. For what
+is it, finally, that makes an inhabited sense
+of space extraordinary rather than ordinary?
+Here is one answer---the answer, for example,
+that Heidegger might give. An inhabited sense of
+space is extraordinary, in not stopping short
+of totality. That is, our inhabited sense of
+space implicitly includes everything there is,
 known or unknown; anything captured in the word
 "Being". For it is beings, finally, that we take
 ourselves to be surrounded by, and our own being
-that provides the place from which to encounter them.
-This is why, despite our sometimes talking as if
-there were more than one world, and even more
-than one world we might inhabit, we can also talk
-intelligibly, in a simpler yet deeper way, of
+that provides the place from which to encounter
+them. This is why, despite our sometimes talking
+as if there were more than one world, and even
+more than one world we might inhabit, we can also
+talk intelligibly, in a simpler yet deeper way, of
 *the* world. And it is our being-in-the-world, in
 this sense, that grounds our inhabited sense of
 space.
@@ -516,52 +520,50 @@ this problem to be important. To explain why, I
 want to discuss this problem again, but now as a
 problem not simply with our experience of music,
 but more generally, with our experience of the
-world. For we talk, and think, not just as if
-music moved, but as if *anything* moved. But this
+world. For we talk not just as if
+music moved, but as if *anything* moved. Yet this
 too involves a kind of nonsense, known since the
 time of Parmenides and Zeno. And it proves to be
 the same kind of nonsense we encountered in the
 movement of music.
 
-To see this, recall my earlier account of why
+To see this, recall my earlier argument for why
 there really isn't a space for a melody to move
 in. For the melody, in this respect, is temporal
 rather than spatial. It is composed of the places,
 or notes, it moves between, and can only be what
 it is by becoming so. So there isn't a space,
-strictly speaking, for the melody *to move* in, with the
-continuity or identity of truly spatial things,
-like our hand in following that
-melody. But while our hand may be spatial in this
-respect, the *motion* of our hand is temporal,
-just like the melody. In a sense it too is composed of the
+strictly speaking, for the melody to move in,
+with the continuity or identity of truly spatial
+things, like our hand in following that melody.
+But while our hand may be spatial in this respect,
+the *motion* of our hand is temporal, just like
+the melody. In a sense, it too is composed of the
 places moved between, and can only be what it is
 by becoming so. But this implies, on the earlier
-account, that there isn't
-really a space for our hand to move in, or indeed
-for anything to move in.  There is
-only a space for it to be contained in, and to
-occupy, over the course of its motion, at every
-place composing that motion. Space, in other
-words, can only comprehend the path of the motion,
-not the motion itself. 
+argument, that there isn't really a space for our
+hand to move in, or indeed for anything to move
+in. There is only a space for it to be contained
+in, and to occupy, over the course of its motion,
+at every place composing that motion. In other
+words, space can only comprehend the path of the
+motion, not the motion itself.
 
-Or we can put this point again in the different
-way from the earlier account, that captures the
-nonsense more strongly. If there really were a
-space for our hand to move in, then there would be
-a hand to see, in the space where we see it move.
-But there isn't---and this is generally true, of
-anything we see move, despite what we think we
-see. For what we strictly see is this motion being
-made from place to unmoving place, by something
-occupying each such place in turn. We see nothing
-further, to which we might attribute *the motion*
-between places, rather than just *the occupancy*
-of those places. So we see motion, but nothing
-making the motion. Yet how, in that case, could
-there *be* any motion to see? And what could be
-making it?
+But we can again summarize these conclusions in
+a way that captures the nonsense more strongly.
+If there really were a space for our hand to move
+in, then there would be a hand to see, in the
+space where we see it move. But there isn't---and
+this is generally true, of anything we see move,
+despite what we think we see. For what we strictly
+see is this motion being made from place to
+unmoving place, by something occupying each such
+place. But we see nothing further, to which
+we might attribute *the motion* between places,
+rather than just *the occupancy* of those places.
+So we see motion, but nothing making the motion.
+Yet how, in that case, could there *be* any motion
+to see? And what could be making it?
 
 One answer to these questions, the kind of answer
 Zeno might give, is that there *isn't* any motion
@@ -575,7 +577,7 @@ time, that happens too rapidly for us to detect.
 But this kind of answer leads to a second answer,
 found for example in mathematical calculus, where
 there *is* a motion to see. When we see something
-move, on this answer, all we indeed see is that
+move on this answer, all we indeed see is that
 something occupies different places at different
 times. Still, it can be proved that there are more
 such places---infinitely more, in fact---than
@@ -593,89 +595,87 @@ to the motion itself. And indeed the way this
 path is proved to form a continuum---for example,
 in Dedekind---is by analogy to a line, undivided
 by time, where every point upon it is present at
-once. But it could be argued that we only have the
-proper analogy for the continuum of motion rather
-than its path, when we
-conceive a line divided by time, where only one
+once. But it seems we only have the
+proper analogy for the continuum formed by a motion rather
+than its path when we
+conceive of a line divided by time, where only one
 point upon it is ever present at once---the point
 right now, so to speak. But how can a line prove
 continuous, if it is made of only one point at a
 time?
 
-The second answer so leads to a third answer, more
-philosophical than mathematical, found implicitly,
-I think, in Aristotle, and more explicitly in
-Bergson. It is distinguished from the first answer
-in taking the motion we see to be real, and from
-the second answer in taking this reality to
-involve more than just the continuity of the
-motion's path. But the promise of this answer
-comes at a price: for it embraces the nonsense
-that makes the problem a problem. On this answer,
-that is, there is indeed nothing to see, in the
-space where we see anything move. And this is
-because the space where we see anything move, is
-the space where the motion belongs to us, rather
-than to anything we might see outside us. So there
-*is* a motion to see, when *we* are the ones
-making it. 
+The second answer so leads to a third answer,
+more philosophical than mathematical, which is
+found explicitly in Bergson and implicitly, I
+think, in Aristotle. This answer is distinguished
+from the first answer in taking the motion we
+see to be real, and from the second answer in
+taking this reality to involve more than just the
+continuity of the motion's path. But the promise
+of this answer comes at a price: for it embraces
+the nonsense that makes the problem a problem. On
+this answer, that is, there is indeed nothing to
+see, in the space where we see anything move. And
+this is because the space where we see anything
+move, is the space where the motion belongs to us,
+rather than to anything we might see outside us.
+So there *is* a motion to see, when *we* are the
+ones making it.
 
 Motion, in other words, occurs in the space we
 inhabit, rather than in the space we observe.
 For in the space we observe, we see only the
 continuous path of a motion, occupied at every
-place by the thing that moves. But in the space
-we inhabit, we see the motion itself, which is
-not simply continuous, but indivisible. The
-motion in this indivisible sense stretches from
-the beginning of its path to the end in a single
+place by the thing that moves. But in the space we
+inhabit, we see the motion itself, which is not
+simply continuous, but indivisible. The motion
+in this indivisible sense stretches from the
+beginning of its path to the end in a single
 bound, as if the entire path were a single place
 for the moving thing to occupy. And we experience
-this indivisibility when moving ourselves. For in
-that case, we face the end of our motion at the
-beginning of it, and reach the end as a goal. And
-the path we trace in reaching it is divided only
-by changing the goal, in a motion now different
-from what it was, but again indivisible. In
-this way motion in general is like movement in
-music---such as the way we move
-from note to note in a melody. For this too is
-indivisible, since only further notes can divide
-the distance from note to note, but thereby
-produce a new melody out of the old one, where we
-move again indivisibly from note to note.
+this indivisibility when moving ourselves. For
+in that case, we face the end of our motion at
+the beginning of it, and reach the end as a goal,
+heedless of any places along the way---just like
+in the movement of a melody. And the path we trace
+in reaching that goal can be divided only by our
+changing the goal, in a motion now different from
+what it was, but again indivisible. This too is
+like the movement in a melody, which might be
+thought indivisible since only further notes can
+divide the distance from note to note, but thereby
+produce a new melody out of the old one, and once
+again carry us from note to note indivisibly.
 
-But what should we make of this last answer? It
-makes the same appeal to our inhabited sense of
-space that we encountered before, to make sense of
-the movement in music, only now to make sense
-of motion as such. Does it have the same problem?
-That is, can we know, or show, that we are not
-dreaming when we see anything move---and 
-most of all 
-ourselves?
+But what should we make of this answer? For it
+makes the same appeal to our inhabited sense
+of space that we encountered before in making
+sense of the movement in music, only now to make
+sense of motion as such. So does it have the same
+problem? That is, can we know, or show, that we
+are not dreaming when we see anything move? 
 
-The question put this generally might seem absurd.
-After all, to suppose we *were* dreaming when
-seeing anything move would mean suspecting
-something illusory about our inhabitance of
+The question put this generally might seem
+absurd. After all, to suppose we *were* dreaming
+when seeing anything move would mean suspecting
+something illusory now about our inhabitance of
 *the world*, and not simply our inhabitance of
 so-called other worlds, such as dreams in the
 ordinary sense, or music, that we might plausibly
 find illusory in their proving to be *contained*
-in the world, mere parts of that totality. 
+in the world, mere parts of that totality.
 
-But there is good reason, as it turns out, to suspect something
-close to illusory even about our inhabitance
-of the world. And it explains why a question
-like "Are we dreaming right now?" has been
-raised seriously in philosophy---for example, by
-Descartes. For while we may not be dreaming when
-we see anything move, there is arguably nothing in
-our inhabitance of the world to prove this. And
-we lack this proof, so the argument goes,
-precisely because we inhabit the world rather
-merely observe it. 
+But there is good reason, as it turns out, to
+suspect something close to illusory even about
+our inhabitance of the world. And it explains why
+a question like "Are we dreaming right now?" has
+been raised seriously in philosophy---for example,
+by Descartes. For while we may not be dreaming
+when we see anything move, there is arguably
+nothing in our inhabitance of the world to prove
+it. And we lack this proof, so the argument
+goes, precisely because we inhabit the world
+rather merely observe it.
 
 To see why this argument is worth considering,
 consider, first, a striking fact about our
@@ -692,7 +692,7 @@ perception, even if we stand outside the illusion,
 or merely observe it, as a matter of knowledge.
 
 Something like this is also at work in our
-experience of dreams, taking "dreams" now in the
+experience of dreams, taking "dreams" again in the
 ordinary sense. For our dreams so often contain
 implausible or even impossible events, not to
 mention the sense in which all its events, once
@@ -707,33 +707,33 @@ us up from it, and so puts us outside the
 dream to observe it, that we can know it for the
 dream it is.
 
-We can give the same answer to the question of why
+We can give this same answer to the question of why
 our experience of music would still seem so real,
 even if we were convinced---say, by my account
-tonight---that it was merely a dream. There is
+tonight---that it was merely a dream. For there is
 nothing *in* the music to tell us so, even if
 there is *an account* of the music to tell us so.
 And again, this is because we hear music as music
 only by inhabiting it, past the point of any
 account we might give of it.
 
-This sort of answer, then, points to perhaps
+This answer, then, points to perhaps
 the most decisive, if negative, feature of our
 inhabitance of the world. There is nothing we
 might encounter in the world---motion, for
 example---to tell us the encounter is illusory.
 And if there were, then we wouldn't be having
 the encounter. So for all we know, at least from
-within the world, we might be dreaming. Arguing
+within the world, we might be dreaming. Telling 
 against this prospect, to be sure, is our sense
-that this is indeed the world, which is to say,
-our sense that we are surrounded by beings rather
-than seemings, and encounter these beings from a
+that this is indeed the world we inhabit; which is to say,
+our sense that we are surrounded, finally, by beings rather
+than seemings, and that we encounter these beings from a
 being rather than seeming of our own. But this
 sense, it appears, can never be decisive. For the
 cost of inhabiting the world, on this argument,
 is to be past the point of knowing whether this
-inhabitance is but a dream.  
+inhabitance is but a dream.   
 
 This, then, is what I take to be the importance of
 the problem with our talking as if music moved.
@@ -743,9 +743,9 @@ way fails to distinguish our experience of the
 world from a dream, in which nothing we experience
 really happens.
 
-And one measure of the problem's importance,
+And one measure of this problem's importance,
 as well as one solution to it in effect, is
-is found in how we talk when *explaining* the
+found in how we talk when *explaining* the
 world we experience. For then we talk as if our
 inhabitance of the world is indeed only a dream,
 of a kind there is no waking up from. Or to put
@@ -755,8 +755,8 @@ world, as a matter of observation, are not the
 terms in which we encounter the world, as a matter
 of inhabitance---and in many cases could *never*
 be the terms of such an encounter, such as in
-quantum mechanics. Yet we take this discrepancy
-as a sign that something has been explained
+quantum mechanics. Yet we take this discrepancy as
+a sign that the world has indeed been explained
 rather than erased. This is why we look for an
 explanation of our encounter with music, for
 example, not in Beethoven's *Eroica*, but rather
@@ -766,22 +766,30 @@ or the biologist's account of evolutionary
 adaptations, or even the Nietzschean's account of
 a sickness in the soul. We credit these accounts
 as attempts to explain our encounter with music,
-despite the fact that we could never encounter
-music as music in such terms, because we find
-nothing self-justifying in the encounter itself:
-it may well be only a dream.
+despite the fact we could never encounter music
+as music in such terms, because we find nothing
+self-justifying in the encounter itself: it
+may well be only a dream. So the solution, in
+effect, is to explain the dream away. That is,
+the explanation is to avoid any
+appeal to the sense the encounter makes only from a place of
+inhabitance---and often counts as explanation
+by challenging
+that sense.
 
-***
+
+#### Conclusion
 
 There is, however, a different solution to the
 problem. And I wish to conclude my lecture by
-presenting this solution in brief. We might call
-it Heideggerian to distinguish it from the
+presenting this solution in brief. We might
+call it Heideggerian to distinguish it from the
 Cartesian solution just mentioned. In this
-second solution to the problem, not having a proof that our
-inhabitance of the world is real, is in fact all the
-proof for it that we need. There is nothing to
-tell us we might dreaming, true; but this is because we aren't.  
+solution, not having a proof that
+our inhabitance of the world is real, is 
+all the proof for it that we need. There is
+nothing to tell us we might dreaming, true; but
+this is because we aren't.
 
 This solution already sounds unpromising. After
 all, there is nothing in *a dream* to tell us
@@ -790,14 +798,15 @@ however, it turns out we aren't, at least as
 a matter of inhabitance. For any space of
 inhabitance is real, on this account, precisely
 because it can be inhabited. And this means that
-we are *always* surrounded by beings, and always
-encounter them from a being of our own, whether
-we find ourselves in a dream, or in a symphony,
-or in the world that contains these smaller
-spaces of inhabitance. True, we have reason to
-think otherwise, again on the grounds that these
-smaller spaces are contained in a larger space
-that proves their own totality to be illusory. But
+we are *always* surrounded by beings rather than
+seemings, and always encounter them from a being
+rather than seeming of our own, whether we find
+ourselves in a dream, or in a symphony, or in
+the world that contains these smaller spaces
+of inhabitance. True, we have reason to think
+otherwise, again on the grounds that these smaller
+spaces are contained in a larger space that
+proves their own totality to be illusory. But
 this assumes that any space of inhabitance lies,
 indeed, in space. Yet on this solution, it is only
 a space of observation that lies in space. Any
