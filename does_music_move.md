@@ -1,15 +1,13 @@
-### Does Music Move? 
+Title: Does Music Move?  
+Author: Daniel Harrell  
+Date: February 15, 2013  
+Base Header Level: 3
 
-#### Contents [contents]
-[1. Introduction][introduction]  
-[2. Part One][part one]  
-[3. Part Two][part two]  
-[4. Conclusion][conclusion]  
+# Does Music Move? 
 
-#### Introduction [introduction]
+## Introduction
 
 Does music move?
-
 
 Well, yes---if by "music", we meant the
 vibrations of sound that allow us to hear what a
@@ -31,21 +29,19 @@ not thinking twice about calling this a
 in the music---movement---and as if any piece of
 music indeed moves itself in moving us. 
 
-The talk has a point. For if we didn't hear music
-move, would we hear it at all? Without movement,
-music would seem no more than a series of sounds.
-But there is a problem with the talk,
-despite its point. And this is the problem 
-I discuss in my lecture tonight. In its
+The talk has a point. For if we didn't hear
+music move, would we hear it at all? Without
+movement, music would seem no more than a series
+of sounds.[^Movement] But there is a problem with
+the talk, despite its point. And this is the
+problem I discuss in my lecture tonight. In its
 [first part][part one], I explain what I take
 the problem to be. And in its [second part][part
-two], I explain why I take the problem to
-be important---even for those of us with little
+two], I explain why I take the problem to be
+important---even for those of us with little
 interest in music.
 
-#### Part One: The nature of the problem. [part one]
-
-[Back to Contents] [contents]
+## The nature of the problem. [part one]
 
 So what is the problem with our talking as if
 music moved? The problem, in a word, is *space*:
@@ -55,10 +51,11 @@ to quicken and slow, rise and fall,
 depart and return. For this space
 makes [something close to complete
 sense][sense] on the one hand, yet [something
-closer to nonsense][nonsense] on the other.
+closer to nonsense][nonsense] on the
+other.[^Scruton_Space]
 
 
-##### The sense it makes. [sense] 
+### The sense it makes. [sense] 
 
 To see the sense it makes, we can start by
 comparing the movement we hear in music, with
@@ -200,8 +197,8 @@ to explain as the octave. But as a phenomenon,
 it seems to involve a sense of being *oriented*
 in the movement we hear from note to note. It is
 as if we faced the note we were moving to, and
-reached it as a goal, heedless of any notes passed
-along the way.
+reached it as a goal, heedless of any notes 
+on the way.
 
 The sense of being oriented among notes is even
 clearer in the second topographical fact, which
@@ -325,7 +322,7 @@ account, and all the masterpieces of tonal music
 notwithstanding.
 
 
-##### The nonsense it makes. [nonsense] 
+### The nonsense it makes. [nonsense] 
 
 To see this, we can start by now comparing
 the movement we hear in music, with motion as
@@ -426,23 +423,23 @@ inhabitance, rather than from without, as a matter
 of observation.
 
 Well, fair enough. But this makes the nonsense
-of such a space even clearer. For what
-is it, finally, that makes an inhabited sense
-of space extraordinary rather than ordinary?
-Here is one answer---the answer, for example,
-that Heidegger might give. An inhabited sense of
+of such a space even clearer. For what is it,
+finally, that makes an inhabited sense of space
+extraordinary rather than ordinary? Here is one
+answer---the answer, for example, that Heidegger
+might give.[^Heidegger] An inhabited sense of
 space is extraordinary, in not stopping short
 of totality. That is, our inhabited sense of
 space implicitly includes everything there is,
 known or unknown; anything captured in the word
 "Being". For it is beings, finally, that we take
 ourselves to be surrounded by, and our own being
-that provides the place from which to face
-them. This is why, despite our sometimes talking
-as if there were more than one world, and even
-more than one world we might inhabit, we can also
-talk intelligibly, in a simpler yet deeper way,
-of *the* world, as if there were only one. And it
+that provides the place from which to face them.
+This is why, despite our sometimes talking as if
+there were more than one world, and even more
+than one world we might inhabit, we can also talk
+intelligibly, in a simpler yet deeper way, of
+*the* world, as if there were only one. And it
 is our being-in-the-world, on this answer, that
 grounds our inhabited sense of space.
 
@@ -477,7 +474,7 @@ also all the nonsense---of a dream. And in that
 case, the greater the work of music, the deeper
 it carries us into the dream. We hear the sound
 of Beethoven's *Eroica* surge forth in a concert
-hall, seeming to making the cosmos shake.
+hall, seeming to make the whole world shake.
 Yet the musicians barely move by comparison,
 while the notes they play move not at all. And we
 concert-goers stay glued to our seats---entranced.
@@ -495,9 +492,8 @@ fails to distinguish our experience of music from
 a dream, in which nothing we experience really
 happens.
 
-#### Part Two: The importance of the problem. [part two] 
+## The importance of the problem. [part two] 
 
-[Back to Contents] [contents]
 
 As I said at the start of my lecture, I also take
 this problem to be important. To explain why, I
@@ -558,7 +554,7 @@ or in a flip book, from a succession of images,
 each of a single place and time, that happens
 too rapidly for us to detect. But this first 
 answer leads to a second answer, found for example
-in mathematical calculus, where there *is* a
+in calculus, where there *is* a
 motion to see.[^Calculus] When we see something move on
 this answer, all we indeed see is that something
 occupies different places at different times.
@@ -584,7 +580,7 @@ by time, where only one place upon it is ever
 present at once---the point right now, so to
 speak---that it seems we have the proper analogy
 for the continuum of the motion, rather
-than just its path. But how can a line divided
+than of just its path. But how can a line divided
 by time be proved continuous, if it is made of
 only one point at a time?
 
@@ -605,7 +601,7 @@ belongs to us, rather than to anything we might
 see outside us. So there *is* a motion to see,
 when *we* are the ones making it.
 
-Motion, in other words, occurs in the space we
+On this answer, in other words, motion occurs in the space we
 inhabit, rather than in the space we observe.
 For in the space we observe, we see only the
 continuous path of a motion, occupied at every
@@ -619,7 +615,7 @@ for the moving thing to occupy. And we know this
 indivisibility when moving ourselves. For in
 that case, we face the end of our motion at the
 beginning of it, and reach the end as a goal,
-heedless of any places along the way---just like
+heedless of any places on the way---just like
 in the movement of a melody. And the path we trace
 in reaching that goal can be divided only by our
 changing the goal, in a motion now different from
@@ -652,7 +648,8 @@ But there is good reason to suspect something
 close to illusory even about our inhabitance of
 the world. And it explains why a question like
 "Are we dreaming right now?" has been raised in
-philosophy---for example, by Descartes. For while
+philosophy---for example, by
+Descartes.[^Descartes] For while
 we may not be dreaming when we see anything move,
 there is arguably nothing in our inhabitance of
 the world to prove it. And we lack this proof, so
@@ -735,8 +732,8 @@ the world, as a matter of observation, are not
 the terms in which we encounter the world, as
 a matter of inhabitance---and in many cases
 could *never* be the terms of such an encounter,
-such as in quantum mechanics. Yet we take this
-discrepancy as a sign that the world has indeed
+as in quantum mechanics. Yet we take this
+discrepancy, still, as a sign that the world has 
 been explained rather than erased. This is why
 we look for an explanation of our encounter with
 music, not in Beethoven's *Eroica*, but rather
@@ -745,7 +742,7 @@ the neuroscientist's account of brain patterns,
 or the biologist's account of evolutionary
 adaptations, or even the Nietzschean's account
 of a sickness in the soul. Despite the fact we
-could never encounter music as music in such
+don't encounter music as music in such
 terms, we credit these accounts as attempts to
 explain that encounter. And why? Because we find
 nothing self-justifying in the encounter itself:
@@ -756,9 +753,7 @@ the sense the encounter makes only from a place of
 inhabitance---and often by challenging that sense.
 
 
-#### Conclusion
-
-[Back to Contents] [contents]
+## Conclusion
 
 There is, however, a different solution to the
 problem. And I conclude my lecture by
@@ -858,25 +853,69 @@ any room for nonsense. And this is the space we
 inhabit right now: the space made possible by
 time.[^Acknowledgments]
 
+[^Movement]: For further discussion of this, see
+Chapter VII, "The Paradox of Tonal Motion", in
+Victor Zuckerkandl's *Sound and Symbol: Music and
+the External World*; and the section "Movement" of
+Chapter 2, "Tone", in Roger Scruton's *The
+Aesthetics of Music*.
+
+[^Scruton_Space]: For a defense of the necessity
+of thinking that music moves in space, but that
+the space in question is metaphorical, see Chapter
+4, "Movement", in Roger Scruton's *Understanding
+Music*.
+
 [^Scruton]: Roger Scruton, *The Aesthetics of Music*, p. 244.
 
-[^Aristotle]: (Aristotle and Zuckerkandl reference
-here.)
+[^Aristotle]: Aristotle attributes the cause of
+the octave to the ratio 2:1 in Book II, Chapter 3,
+of his *Physics*, 194b28--29. Zuckerkandl calls it
+a miracle in his discussion of the octave in the
+section "Scale" of Chapter VIII, "The True Motion
+of Tones", in *Sound and Symbol*.
 
-[^Zeno]: (Zeno reference here.)
+[^Zeno]: For further discussion of Zeno's
+arguments against motion, see Aristotle's
+*Physics* Book VI, chapters 2 and 9, and Book VIII, chapter
+8; and Lecture VI, "The Problem of Infinity
+Considered Historically," in Bertrand Russell's
+*Our Knowledge of the External World*.
 
-[^Calculus]: (Calculus reference here.)
+[^Calculus]: For a further discussion of this
+answer, see Lecture V, "The Theory of Continuity,"
+and Lecture VII, "The Positive Theory of
+Infinity," in Russell's *Our Knowledge of the
+External World*.
 
-[^Bergson]: (Bergson reference here.)
+[^Bergson]: See, for example, Bergson's lecture "The
+Perception of Change" in the collection *The
+Creative Mind*. There Bergson even connects his
+account of motion generally to the movement in a
+melody. Zuckerkandl follows Bergson's
+lead in his own account of music's movement 
+in *Sound and Symbol*.
 
-[^Dedekind]: (Dedekind reference here.)
+[^Dedekind]: Dedekind draws the analogy in
+Chapters II and III of his *Continuity and
+Irrational Numbers*. 
 
-[^Acknowledgments]: This is a lecture that I delivered at the
+[^Descartes]: Descartes raises this question in
+his *First Meditation*. It is also discussed in
+Plato's *Theaetetus*, 158b-d; and mentioned, but
+also dismissed, in Aristotle's
+*Metaphysics*, 1011a6. 
+
+[^Heidegger]: For a further account of
+Heidegger's actual answer, see Part One, Division
+One, Chapters II and III of his *Being and Time*.
+
+[^Acknowledgments]: This is a lecture I gave at the
 Annapolis campus of St. John's College on February
 15, 2013. I would like to thank Gabriela Hopkins for
 helping me improve the final draft with comments
 and conversation about earlier drafts. ---Daniel
-Harrell
+Harrell 
 
 <!-- [Mention how we talk, in explaining the world, as
 if our inhabitance of it is a dream---a legacy
