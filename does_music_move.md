@@ -488,12 +488,12 @@ music.
 To see this, recall my earlier analysis of why
 there really isn't a space for a melody to move
 in. For the melody, in this respect, is temporal
-rather than spatial. It is composed of the places,
-or notes, it moves between, and can only be what
-it is by becoming so. So there isn't a space,
-strictly speaking, for the melody to move in,
-with the continuity or identity of truly spatial
-things, like our hand in following that melody.
+rather than spatial. It is composed of the places
+it moves between, and can only be what it is by
+becoming so. So there isn't a space, strictly
+speaking, for the melody to move in, with the
+continuity or identity of truly spatial things,
+like our hand in following that melody.
 
 Fair enough. But while our hand may be spatial
 in this respect, the *motion* of our hand is
@@ -513,7 +513,7 @@ But here again is perhaps a stronger way to put
 the nonsense. If there really were a space for
 our hand to move in, then there would be a hand
 to see, in the space where we see it move. But
-there isn't. All we see is this motion being made
+there isn't. All we see is the motion being made
 from place to unmoving place, by something that
 occupies each such place. We see nothing further,
 to which we might attribute *the motion* between
@@ -556,8 +556,8 @@ once.[^Dedekind] But it is only when this line is
 divided by time, where only one place upon it is
 ever present at once---the point right now, so to
 speak---that it seems we have the proper analogy
-for the continuum of the motion, rather than of
-just its path. But how can a line divided by time
+for the continuum of the motion, rather than just 
+its path. But how can a line divided by time
 be proved continuous, if it is made of only one
 point at a time?
 
@@ -621,8 +621,8 @@ that we might plausibly find illusory in their
 proving *contained* in the world, mere parts of
 that totality.
 
-But there is good reason to suspect something
-close to illusory even about our inhabitance
+But there is reason still, to suspect something
+close to illusory about our inhabitance
 of the world. And it explains why a question
 like "Are we dreaming right now?" has been
 raised in philosophy---for example, by
@@ -701,28 +701,28 @@ really happens.
 ## Conclusion
 
 I conclude my lecture with two solutions to this
-problem, in the attempt to deepen our sense of
-it. The first solution might be called Cartesian,
-or scientific; and it is found implicitly in
-how we talk when trying to *explain* the world
-we experience. For then we talk as if our
-inhabitance of the world is indeed a dream, from
-which there is no waking up. In other words,
-the terms in which we explain the world, as a
-matter of observation, are not the terms in
-which we encounter the world, as a matter of
-inhabitance---and in many cases could *never* be
-the terms of such an encounter, as in quantum
-mechanics. Yet we take this discrepancy, still,
-as a sign that the world has been explained
-rather than erased. This is why we look for
-an explanation of our encounter with music,
-not in Beethoven's *Eroica*, but rather in the
+problem, in the attempt to deepen our sense of it.
+The first solution might be called Cartesian, or
+scientific; and it is found implicitly in how we
+talk when trying to *explain* the world we
+experience. For then we talk as if our inhabitance
+of the world is indeed a dream, from which there
+is no waking up. In other words, the terms in
+which we explain the world, as a matter of
+observation, are not the terms in which we
+encounter the world, as a matter of
+inhabitance---and in many cases, such as quantum
+mechanics, could *never* be the terms of such an
+encounter. Yet we take this discrepancy as
+a sign that the world has indeed been explained rather
+than erased. This is why we look for an
+explanation of our encounter with music, not in
+Beethoven's *Eroica*, but rather in the
 physicist's account of wave phenomena, or the
 neuroscientist's account of brain patterns, or the
 biologist's account of evolutionary adaptations,
-or even the Nietzschean's account of a sickness
-in the soul. Despite the fact we don't encounter
+or even the Nietzschean's account of a sickness in
+the soul. Despite the fact that we don't encounter
 music as music in such terms, we credit these
 accounts as attempts to explain that encounter.
 And why? Because we find nothing self-justifying
