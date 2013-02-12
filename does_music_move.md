@@ -36,10 +36,15 @@ of sounds.[^Movement] But there is a problem with
 the talk, despite its point. And this is the
 problem I discuss in my lecture tonight. In its
 [first part][part one], I explain what I take
-the problem to be. And in its [second part][part
+the problem to be. In its [second part][part
 two], I explain why I take the problem to be
 important---even for those of us with little
-interest in music.
+interest in music. And in a third and final part,
+I offer two solutions to the problem, in the
+attempt to deepen our sense of it. And in a third
+and final part, I offer two solutions to the
+problem, in the attempt to deepen our sense of the
+problem.
 
 ## The nature of the problem. [part one]
 
@@ -654,7 +659,8 @@ we may not be dreaming when we see anything move,
 there is arguably nothing in our inhabitance of
 the world to prove it. And we lack this proof, so
 the argument goes, precisely because we inhabit
-the world rather than merely observe it.
+the world. If we had the proof, we would no longer
+inhabit the world, but merely observe it.  
 
 To see why this argument is worth considering,
 consider, first, a striking fact about optical
@@ -720,50 +726,46 @@ way fails to distinguish our experience of the
 world from a dream, in which nothing we experience
 really happens.
 
-And one measure of this problem's importance,
-as well as one solution to it in effect, is
-found in how we talk when *explaining* the
-world we experience. For then we talk as if our
-inhabitance of the world is indeed a dream, of
-a kind there is no waking up from. Or to put
-this Cartesian legacy of scientific discourse
-a different way: the terms in which we explain
-the world, as a matter of observation, are not
-the terms in which we encounter the world, as
-a matter of inhabitance---and in many cases
-could *never* be the terms of such an encounter,
-as in quantum mechanics. Yet we take this
-discrepancy, still, as a sign that the world has 
-been explained rather than erased. This is why
-we look for an explanation of our encounter with
-music, not in Beethoven's *Eroica*, but rather
-in the physicist's account of wave phenomena, or
-the neuroscientist's account of brain patterns,
-or the biologist's account of evolutionary
-adaptations, or even the Nietzschean's account
-of a sickness in the soul. Despite the fact we
-don't encounter music as music in such
-terms, we credit these accounts as attempts to
-explain that encounter. And why? Because we find
-nothing self-justifying in the encounter itself:
-it might well be only a dream. And to solve this
-problem, we explain the dream away. That is, we
-explain the encounter by avoiding any appeal to
-the sense the encounter makes only from a place of
-inhabitance---and often by challenging that sense.
-
-
 ## Conclusion
 
-There is, however, a different solution to the
-problem. And I conclude my lecture by
-presenting this solution in brief. We might
-call it Heideggerian to distinguish it from the
-Cartesian solution just mentioned. In this
+I conclude my lecture with two solutions to this
+problem, in the attempt to deepen our sense of it.
+The first solution might be called Cartesian, or
+scientific; and it is found implicitly in how we talk
+when trying to *explain* the world we experience. For
+then we talk as if our inhabitance of the world is
+indeed a dream, from which there is no waking up.
+In other words, the terms in which we explain the world, as a
+matter of observation, are not the terms in which
+we encounter the world, as a matter of
+inhabitance---and in many cases could *never* be
+the terms of such an encounter, as in quantum
+mechanics. Yet we take this discrepancy, still, as
+a sign that the world has been explained rather
+than erased. This is why we look for an
+explanation of our encounter with music, not in
+Beethoven's *Eroica*, but rather in the
+physicist's account of wave phenomena, or the
+neuroscientist's account of brain patterns, or the
+biologist's account of evolutionary adaptations,
+or even the Nietzschean's account of a sickness in
+the soul. Despite the fact we don't encounter
+music as music in such terms, we credit these
+accounts as attempts to explain that encounter.
+And why? Because we find nothing self-justifying
+in the encounter itself: it might well be only a
+dream. And to solve this problem, we explain the
+dream away. That is, we explain the encounter by
+avoiding any appeal to the sense the encounter
+makes only from a place of inhabitance---and often
+by challenging that sense.
+
+This brings me to the second solution, which
+might be called Heideggerian, or metaphysical. In this
 solution, not having a proof that
 our inhabitance of the world is real, is 
 all the proof for it that we need. There is
-nothing to tell us we might dreaming, true; but
+nothing to tell us we might be dreaming, true; but
 this is because we aren't.
 
 This solution already sounds unpromising. After
@@ -824,11 +826,12 @@ becomes a place of inhabitance.
 It is also in these temporal terms that any place
 of inhabitance is real rather than illusory.
 For this center of orientation, despite being a
-mere point in time, comprehends a totality in
-time for each of us---from a beginning in birth
+mere point in time, comprehends a totality of
+time for each of us: from a beginning in birth 
 that no one else can share, to an end in death
-that no one else can know. This is the center,
-then, from which the not-yet ahead of us is a
+that no one else can know, in a span of
+time without remainder. This is the center, then,
+from which the not-yet ahead of us is a
 future to face; the no-longer behind us is a
 past to bear; and the right-now always with us is a
 present at stake. So in being always at this
