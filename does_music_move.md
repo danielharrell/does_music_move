@@ -38,8 +38,9 @@ is the problem I discuss in my lecture tonight. In
 its [first part][part one], I explain what I take
 the problem to be. In its [second part][part two],
 I explain why I take the problem to be important.
-In its final part, I offer two solutions to the
-problem, in the attempt to deepen our sense of it.
+In its [final part][part three], I offer two
+solutions to the problem, in the attempt to deepen
+our sense of it.
 
 ## The nature of the problem. [part one]
 
@@ -699,7 +700,7 @@ way fails to distinguish our experience of the
 world from a dream, in which nothing we experience
 really happens.
 
-## Conclusion
+## Two solutions to the problem.[part three]
 
 I conclude my lecture with two solutions to this
 problem, in the attempt to deepen our sense of it.
@@ -832,72 +833,72 @@ as the space we inhabit in talking that way,
 makes complete sense of what we say, without
 any room for nonsense. And this is the space we
 inhabit right now: the space made possible by
-time.[^acknowledgments]
+time.[^Acknowledgments]
 
-[^movement]: for further discussion of this, see
-chapter vii, "the paradox of tonal motion", in
-victor zuckerkandl's *sound and symbol: music and
-the external world*; and the section "movement"
-of chapter 2, "tone", in roger scruton's *the
-aesthetics of music*.
+[^Movement]: For further discussion of this, see
+Chapter VII, "The Paradox of Tonal Motion", in
+Victor Zuckerkandl's *Sound and Symbol: Music and
+the External World*; and the section "Movement"
+of Chapter 2, "Tone", in Roger Scruton's *The
+Aesthetics of Music*.
 
-[^scruton_space]: for a defense of the necessity
+[^Scruton_Space]: For a defense of the necessity
 of thinking that music moves in space, but that
-the space in question is metaphorical, see chapter
-4, "movement", in roger scruton's *understanding
-music*.
+the space in question is metaphorical, see Chapter
+4, "Movement", in Roger Scruton's *Understanding
+Music*.
 
-[^scruton]: roger scruton, *the aesthetics of
-music*, p. 244.
+[^Scruton]: Roger Scruton, *The Aesthetics of
+Music*, p. 244.
 
-[^aristotle]: aristotle attributes the cause of
-the octave to the ratio 2:1 in book ii, chapter 3,
-of his *physics*, 194b28--29. zuckerkandl calls it
+[^Aristotle]: Aristotle attributes the cause of
+the octave to the ratio 2:1 in Book II, Chapter 3,
+of his *Physics*, 194b28--29. Zuckerkandl calls it
 a miracle in his discussion of the octave in the
-section "scale" of chapter viii, "the true motion
-of tones", in *sound and symbol*.
+section "Scale" of Chapter VIII, "The True Motion
+of Tones", in *Sound and Symbol*.
 
-[^zeno]: for further discussion of zeno's
-arguments against motion, see aristotle's
-*physics* book vi, chapters 2 and 9, and book
-viii, chapter 8; and lecture vi, "the problem of
-infinity considered historically," in bertrand
-russell's *our knowledge of the external world*.
+[^Zeno]: For further discussion of Zeno's
+arguments against motion, see Aristotle's
+*Physics* Book VI, Chapters 2 and 9, and Book
+VIII, Chapter 8; and Lecture VI, "The Problem of
+Infinity Considered Historically," in Bertrand
+Russell's *Our Knowledge of the External World*.
 
-[^calculus]: for a further discussion of this
-answer, see lecture v, "the theory of continuity,"
-and lecture vii, "the positive theory of
-infinity," in russell's *our knowledge of the
-external world*.
+[^Calculus]: For a further discussion of this
+answer, see Lecture V, "The Theory of Continuity,"
+and Lecture VII, "The Positive Theory of
+Infinity," in Russell's *Our Knowledge of the
+External World*.
 
-[^bergson]: see, for example, bergson's lecture
-"the perception of change" in the collection *the
-creative mind*. there bergson even connects his
+[^Bergson]: See, for example, Bergson's lecture
+"The Perception of Change" in the collection *The
+Creative Mind*. There Bergson even connects his
 account of motion generally to the movement in
-a melody. zuckerkandl follows bergson's lead in
-his own account of music's movement in *sound and
-symbol*.
+a melody. Zuckerkandl follows Bergson's lead in
+his own account of music's movement in *Sound and
+Symbol*.
 
-[^dedekind]: dedekind draws the analogy in
-chapters ii and iii of his *continuity and
-irrational numbers*.
+[^Dedekind]: Dedekind draws the analogy in
+Chapters II and III of his *Continuity and
+Irrational Numbers*.
 
-[^descartes]: descartes raises this question in
-his *first meditation*. it is also discussed in
-plato's *theaetetus*, 158b-d; and mentioned, but
-also dismissed, in aristotle's *metaphysics*,
+[^Descartes]: Descartes raises this question in
+his *First Meditation*. It is also discussed in
+Plato's *Theaetetus*, 158b-d; and mentioned, but
+also dismissed, in Aristotle's *Metaphysics*,
 1011a6.
 
-[^heidegger]: for a further account of heidegger's
-actual answer, see part one, division one,
-chapters ii and iii of his *being and time*.
+[^Heidegger]: For a further account of Heidegger's
+actual answer, see Part One, Division One,
+Chapters II and III of his *Being and Time*.
 
-[^acknowledgments]: this is a lecture i gave at
-the annapolis campus of st. john's college on
-february 15, 2013. i would like to thank gabriela
-hopkins for helping me improve the final draft
+[^Acknowledgments]: This is a lecture I gave at
+the Annapolis campus of St. John's College on
+February 15, 2013. I would like to thank Gabriela
+Hopkins for helping me improve the final draft
 with comments and conversation about earlier
-drafts. ---daniel harrell
+drafts. ---Daniel Harrell
 
 <!-- [mention how we talk, in explaining the world, as
 if our inhabitance of it is a dream---a legacy
